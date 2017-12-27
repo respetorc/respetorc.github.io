@@ -7,7 +7,7 @@ author: Respeto
 email: respetoriocuarto@gmail.com
 
 # Server
-baseurl: /web
+baseurl:
 
 # Pagination configuration
 paginate: 12
