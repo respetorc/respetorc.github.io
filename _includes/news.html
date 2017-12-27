@@ -1,0 +1,26 @@
+<div class="col-4 new">
+  <!-- img -->
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <div class="new-piece">
+      <img src="{{ site.baseurl }}/img/{{ post.img }}" class="img-fluid" />
+    </div><!--/three -->
+  </a>
+
+  <!-- Title -->
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <h3>{{ post.title }}</h3>
+  </a>
+
+  <!-- date and author -->
+  <p class="new-metadata">
+    <i class="far fa-calendar-alt"></i> {{ post.date | date:"%d %b %y" }}
+    {% if post.author %}
+    <i class="fas fa-pencil-alt i-space"></i> {{ post.author }}
+    {% endif %}
+  </p>
+
+  <!-- content -->
+  <p>
+    {{ post.excerpt | strip_html | truncate: 200 }}
+  </p>
+</div>

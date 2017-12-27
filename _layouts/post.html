@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <header id="header">
+      {% include nav-page.html %}
+
+      {% if page.img %}
+      <div class="header-image"
+           style="background-image: url({{ site.baseurl }}/img/{{ page.img }})">
+      </div>
+      {% else %}
+      {% endif %}
+    </header>
+
+    <article class="post">
+      <div class="post-title">
+          <h2>{{ page.title }}</h2>
+
+          <p class="post-metadata">
+            <i class="far fa-calendar-alt"></i> {{ page.date | date:"%d %b %y" }}
+            {% if page.author %}
+            <i class="fas fa-pencil-alt i-space"></i> {{ page.author }}
+            {% endif %}
+          </p>
+      </div><!--/post-title -->
+
+      <div class="post-content">
+        {{ content }}
+      </div><!--/container -->
+    </article><!--/post -->
+
+    {% include footer.html %}
+  </body>
+</html>

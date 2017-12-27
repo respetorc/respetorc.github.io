@@ -1,0 +1,73 @@
+<!-- Main NavBar -->
+<!-- =========== -->
+<nav class="navbar navbar-expand-lg main_navbar">
+  <div class="container-fluid">
+
+    <!-- Logo -->
+    <a class="navbar-brand" href="#">
+      <img src="{{ site.baseurl }}/img/logos/respeto.png" width="120" height="30" alt="">
+    </a>
+
+    <!-- Colapsed button -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-label="Toggle navigation"
+            aria-controls="navbarSupportedContent" aria-expanded="false">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Links -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ site.baseurl }}/nosotros">Nosotros</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl}}/espacios_institucionales">Espacios Institucianales</a>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+             role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Espacios Institucionales
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{ site.baseurl }}/espacios_institucionales/consejo_deliberante">Consejo Deliberante</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/espacios_institucionales/tibunal_de_cuentas">Tribunal de cuentas</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/espacios_institucionales/otros">Otros</a>
+          </div>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/proyecctos">Proyectos</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/trabajos_comunitarios">Trabajos Comunitarios</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/ojo_de_barro">Ojo de Barro</a>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/noticias" id="navbarDropdown"
+             role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Noticas
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{ site.baseurl }}/noticias">Novedades</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/noticias/repercusiones">Repercusiones</a>
+          </div>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/colaborar">Colaborar</a>
+        </li>
+
+      </ul>
+    </div><!--/collapse navbar-collapse -->
+
+  </div><!--/container-fluid -->
+</nav><!--/navbar -->
