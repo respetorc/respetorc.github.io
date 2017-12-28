@@ -65,6 +65,34 @@ ol, ul {
     height: 400px;
     width: 100%;
     background-attachment: fixed;
+    background-image: url("../img/logos/estrella_xs.jpg");
+}
+
+@media (min-width: 576px) {
+  .header-image-banner {
+    background-image: url("../img/logos/estrella_sm.jpg");
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .header-image-banner {
+    background-image: url("../img/logos/estrella_md.jpg");
+  }
+}
+
+/* Large devices (desktops, 992px and up */
+@media (min-width: 992px) {
+  .header-image-banner {
+    background-image: url("../img/logos/estrella_lg.jpg");
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .header-image-banner {
+    background-image: url("../img/logos/estrella_xl.jpg");
+  }
 }
 
 .header-title {
