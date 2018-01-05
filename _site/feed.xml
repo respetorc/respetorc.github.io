@@ -3,10 +3,10 @@
   <channel>
     <title>Respeto</title>
     <description></description>
-    <link>https:respetorc.github.io/</link>
-    <atom:link href="https:respetorc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2018 17:03:57 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2018 17:03:57 -0500</lastBuildDate>
+    <link>https://respetorc.github.io/</link>
+    <atom:link href="https://respetorc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 Jan 2018 17:16:19 -0500</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2018 17:16:19 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Sed sollicitudin leo ut metus pulvinar, ac sodales eros tincidunt. Cras vulputate nisl ut lacus dictum, eget euismod nulla commodo. Quisque ac elit et ligula accumsan finibus at a tellus. Nunc malesuada, purus et posuere euismod, magna purus rhoncus eros, a condimentum nulla sapien vel ante. Curabitur suscipit neque id ornare euismod. Sed felis augue, tristique a elementum sit amet, tincidunt et ex. Donec aliquet odio a convallis mattis. Mauris a auctor sapien. Donec eu ultrices tortor. Suspendisse sed tortor rhoncus, sollicitudin neque vel, congue mauris. Nulla facilisi. Maecenas dolor tortor, blandit id volutpat suscipit, auctor a metus. Ut nisl massa, ornare id consequat eget, venenatis porta dolor. Ut in dignissim dolor. Vivamus vel tortor lectus. Praesent tincidunt mi nec ante ullamcorper gravida.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Nov 2017 00:00:00 -0500</pubDate>
-        <link>https:respetorc.github.io/2017/11/24/sample-1/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2017/11/24/sample-1/</guid>
+        <link>https://respetorc.github.io/2017/11/24/sample-1/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2017/11/24/sample-1/</guid>
         
         
       </item>
@@ -31,8 +31,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus, lectus et tempor dignissim, ante sapien accumsan eros, nec sollicitudin mauris risus vitae quam. Donec at sodales erat. Vestibulum iaculis lacinia turpis, in varius erat. Nam justo magna, dignissim quis ultricies eu, lacinia eget ante. Nam eget tortor at ligula placerat bibendum. Nullam varius leo ligula. Praesent luctus iaculis sapien, eget egestas lorem rhoncus a. Phasellus placerat eros sapien, in auctor leo vestibulum in. Phasellus a sodales lorem.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-        <link>https:respetorc.github.io/2017/02/02/sample-1/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2017/02/02/sample-1/</guid>
+        <link>https://respetorc.github.io/2017/02/02/sample-1/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2017/02/02/sample-1/</guid>
         
         
       </item>
@@ -46,8 +46,8 @@
 &lt;p&gt;A &lt;a href=&quot;https://github.com/sharu725/bheema#installation&quot;&gt;detailed guide&lt;/a&gt; is in the README file.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/07/07/installation/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/07/07/installation/</guid>
+        <link>https://respetorc.github.io/2016/07/07/installation/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/07/07/installation/</guid>
         
         
       </item>
@@ -70,8 +70,8 @@
 
 </description>
         <pubDate>Mon, 13 Jun 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/06/13/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/06/13/welcome-to-jekyll/</guid>
+        <link>https://respetorc.github.io/2016/06/13/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/06/13/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -97,8 +97,8 @@
 
 </description>
         <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/06/12/usage/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/06/12/usage/</guid>
+        <link>https://respetorc.github.io/2016/06/12/usage/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/06/12/usage/</guid>
         
         
       </item>
@@ -201,8 +201,8 @@
 
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/06/10/elements/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/06/10/elements/</guid>
+        <link>https://respetorc.github.io/2016/06/10/elements/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/06/10/elements/</guid>
         
         
       </item>
@@ -255,8 +255,8 @@ Version 0.8 - Initial release. Skeleton based layout. Inspired by TheVerge.
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 08 May 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/05/08/documentation/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/05/08/documentation/</guid>
+        <link>https://respetorc.github.io/2016/05/08/documentation/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/05/08/documentation/</guid>
         
         
       </item>
@@ -270,8 +270,8 @@ Version 0.8 - Initial release. Skeleton based layout. Inspired by TheVerge.
 &lt;p&gt;Sed sollicitudin leo ut metus pulvinar, ac sodales eros tincidunt. Cras vulputate nisl ut lacus dictum, eget euismod nulla commodo. Quisque ac elit et ligula accumsan finibus at a tellus. Nunc malesuada, purus et posuere euismod, magna purus rhoncus eros, a condimentum nulla sapien vel ante. Curabitur suscipit neque id ornare euismod. Sed felis augue, tristique a elementum sit amet, tincidunt et ex. Donec aliquet odio a convallis mattis. Mauris a auctor sapien. Donec eu ultrices tortor. Suspendisse sed tortor rhoncus, sollicitudin neque vel, congue mauris. Nulla facilisi. Maecenas dolor tortor, blandit id volutpat suscipit, auctor a metus. Ut nisl massa, ornare id consequat eget, venenatis porta dolor. Ut in dignissim dolor. Vivamus vel tortor lectus. Praesent tincidunt mi nec ante ullamcorper gravida.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 May 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/05/07/sample-b/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/05/07/sample-b/</guid>
+        <link>https://respetorc.github.io/2016/05/07/sample-b/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/05/07/sample-b/</guid>
         
         
       </item>
@@ -285,8 +285,8 @@ Version 0.8 - Initial release. Skeleton based layout. Inspired by TheVerge.
 &lt;p&gt;Sed sollicitudin leo ut metus pulvinar, ac sodales eros tincidunt. Cras vulputate nisl ut lacus dictum, eget euismod nulla commodo. Quisque ac elit et ligula accumsan finibus at a tellus. Nunc malesuada, purus et posuere euismod, magna purus rhoncus eros, a condimentum nulla sapien vel ante. Curabitur suscipit neque id ornare euismod. Sed felis augue, tristique a elementum sit amet, tincidunt et ex. Donec aliquet odio a convallis mattis. Mauris a auctor sapien. Donec eu ultrices tortor. Suspendisse sed tortor rhoncus, sollicitudin neque vel, congue mauris. Nulla facilisi. Maecenas dolor tortor, blandit id volutpat suscipit, auctor a metus. Ut nisl massa, ornare id consequat eget, venenatis porta dolor. Ut in dignissim dolor. Vivamus vel tortor lectus. Praesent tincidunt mi nec ante ullamcorper gravida.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 May 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/05/07/sample-a/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/05/07/sample-a/</guid>
+        <link>https://respetorc.github.io/2016/05/07/sample-a/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/05/07/sample-a/</guid>
         
         
       </item>
@@ -300,8 +300,8 @@ Version 0.8 - Initial release. Skeleton based layout. Inspired by TheVerge.
 &lt;p&gt;Sed sollicitudin leo ut metus pulvinar, ac sodales eros tincidunt. Cras vulputate nisl ut lacus dictum, eget euismod nulla commodo. Quisque ac elit et ligula accumsan finibus at a tellus. Nunc malesuada, purus et posuere euismod, magna purus rhoncus eros, a condimentum nulla sapien vel ante. Curabitur suscipit neque id ornare euismod. Sed felis augue, tristique a elementum sit amet, tincidunt et ex. Donec aliquet odio a convallis mattis. Mauris a auctor sapien. Donec eu ultrices tortor. Suspendisse sed tortor rhoncus, sollicitudin neque vel, congue mauris. Nulla facilisi. Maecenas dolor tortor, blandit id volutpat suscipit, auctor a metus. Ut nisl massa, ornare id consequat eget, venenatis porta dolor. Ut in dignissim dolor. Vivamus vel tortor lectus. Praesent tincidunt mi nec ante ullamcorper gravida.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 May 2016 00:00:00 -0400</pubDate>
-        <link>https:respetorc.github.io/2016/05/07/sample-9/</link>
-        <guid isPermaLink="true">https:respetorc.github.io/2016/05/07/sample-9/</guid>
+        <link>https://respetorc.github.io/2016/05/07/sample-9/</link>
+        <guid isPermaLink="true">https://respetorc.github.io/2016/05/07/sample-9/</guid>
         
         
       </item>
