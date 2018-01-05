@@ -11,12 +11,45 @@ ol, ul {
 /**************************************************************
   Main NavBar
 **************************************************************/
+.contact {
+  background-color: rgba(0,0,0,0.6);
+  color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  padding-left: 65px;
+  padding-right: 50px;
+  padding-top: 20px;
+  font-size: 14px;
+}
+
+.social ul li {
+  display: inline;
+}
+
+.contact a {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.contact a:hover {
+  color: red;
+}
+
+.margin-icon {
+  margin-left: 15px;
+}
+
 .main_navbar {
     background-color: rgba(0,0,0,0.6);
     position: absolute;
     width: 100%;
-    padding-top: 15px;
+    margin-top: 0px;
+    padding-top: 0px;
     padding-bottom: 15px;
+}
+
+@media (min-width: 992px) {
+  .main_navbar {
+    margin-top: 57px;
+  }
 }
 
 .nav-link {
@@ -70,28 +103,28 @@ ol, ul {
 
 @media (min-width: 576px) {
   .header-image-banner {
-    background-image: url("../img/logos/estrella_sm.jpg");
+    background-image: url("../img/logos/banner_sm.jpg");
   }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .header-image-banner {
-    background-image: url("../img/logos/estrella_md.jpg");
+    background-image: url("../img/logos/banner_md.jpg");
   }
 }
 
 /* Large devices (desktops, 992px and up */
 @media (min-width: 992px) {
   .header-image-banner {
-    background-image: url("../img/logos/estrella_lg.jpg");
+    background-image: url("../img/logos/banner_lg.jpg");
   }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .header-image-banner {
-    background-image: url("../img/logos/estrella_xl.jpg");
+    background-image: url("../img/logos/banner_xl.jpg");
   }
 }
 
@@ -359,6 +392,21 @@ footer {
 .footerNav ul li a {
     text-decoration: none;
     color: #fff;
+}
+
+.contact-footer {
+  background-color: rgba(0,0,0,0.6);
+  color: rgba(255, 255, 255, 0.7);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-footer a {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.contact-footer a:hover {
+  color: red;
 }
 
 .licence {
