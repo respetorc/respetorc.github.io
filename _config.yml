@@ -7,7 +7,8 @@ author: Respeto
 email: respetoriocuarto@gmail.com
 
 # Server
-baseurl:
+baseurl: ""
+url: "https:respetorc.github.io"
 
 # Pagination configuration
 paginate: 12
