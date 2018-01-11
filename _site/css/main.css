@@ -224,8 +224,15 @@ ol, ul {
   News
   url /web/news
 **************************************************************/
-.news {
+#news {
 
+}
+
+@media (max-width: 576px) {
+  #news {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
 
 .new-piece {
