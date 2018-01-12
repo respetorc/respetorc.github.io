@@ -302,6 +302,13 @@ ol, ul {
   Post
   url /web/2016-2017
 **************************************************************/
+@media (max-width: 576px) {
+  .post {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
 .post-title {
     max-width: 80%;
     text-align: center;
