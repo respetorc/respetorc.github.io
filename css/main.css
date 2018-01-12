@@ -2,11 +2,24 @@
   General
 **************************************************************/
 body {
-    background-color: #e9d1eb;
+  background-color: #e9d1eb;
 }
 
 ol, ul {
-    list-style: none;
+  list-style: none;
+}
+
+.img_full {
+  max-width: 100%;
+}
+
+.img_cover {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50.5vw;
+  margin-right: -50vw;
 }
 /**************************************************************
   Main NavBar

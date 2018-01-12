@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post de ejemplo
-img: lost-9.jpg	
+img: lost-9.jpg
 ---
 
 Este es un machete, para principiantes.
@@ -10,7 +10,7 @@ Este es un machete, para principiantes.
 
 
 # Titulo Principal (conocido como h1)
-`#Titulo principal (conocido como h1)` 
+`#Titulo principal (conocido como h1)`
 
 ## Sub-titulo (este se llama h2)
 `## Sub-titulo (este se llama h2)`
@@ -37,10 +37,15 @@ O se pueden **_combinar los dos_**.
 
 ## Imagenes
 
+Imagen del ancho del texto
 
-![Descripcion de la imagen]({{site.baseurl}}/img/lost-6.jpg)
+![Descripcion de la imagen]({{site.baseurl}}/img/lost-6.jpg){:class="img_full"}
 `![Descripcion de la imagen]({{site.baseurl}}/img/lost-6.jpg)`
 
+Imagen que cubre toda la pantalla
+
+![Descripcion de la imagen]({{site.baseurl}}/img/lost-6.jpg){:class="img_cover"}
+`![Descripcion de la imagen]({{site.baseurl}}/img/lost-6.jpg)`
 
 
 ## Links
@@ -53,6 +58,3 @@ Texte de ejemplo
 
 `> We're living the future so`  
 `> the present is our past.`
-
-
-
