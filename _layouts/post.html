@@ -15,42 +15,66 @@
     </header>
 
     <article class="post">
-      <div class="post-title">
-          <h2>{{ page.title }}</h2>
+      <div class="container">
+        <div class="row">
 
-          <p class="post-metadata">
-            <i class="far fa-calendar-alt"></i> {{ page.date | date:"%d %b %y" }}
-            {% if page.author %}
-            <i class="fas fa-pencil-alt i-space"></i> {{ page.author }}
-            {% endif %}
-          </p>
-      </div><!--/post-title -->
+          <div class="post-title">
+              <h2>{{ page.title }}</h2>
 
-      <div class="post-content">
-        {{ content }}
+              <p class="post-metadata">
+                <i class="far fa-calendar-alt"></i>
+                {% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d" }}
+                {% case m %}
+                  {% when '1' %}Enero
+                  {% when '2' %}Febrero
+                  {% when '3' %}Marzo
+                  {% when '4' %}Abril
+                  {% when '5' %}Mayo
+                  {% when '6' %}Junio
+                  {% when '7' %}Julio
+                  {% when '8' %}Agosto
+                  {% when '9' %}Septiembre
+                  {% when '10' %}Octubre
+                  {% when '11' %}Noviembre
+                  {% when '12' %}Diciembre
+                {% endcase %}
+                {{ page.date | date: "%Y" }}
 
-        <div class="entry-social">
-          <ul>
-            <li class="facebook">
-              <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append:page.url }}&amp;t={{ page.title | replace:' ','+' }}" target="_blank"
-                 data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Facebook">
-                <i class="fab fa-facebook-square fa-3x"></i>
-              </a>
-            </li>
-            <li class="twitter">
-              <a href="https://twitter.com/intent/tweet?text={{ page.title | replace:' ','+' }}:&amp;url={{ site.url | append:page.url }}&amp;hashtags=NuevaCulturaPolitica" target="_blank"
-                 data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Twitter">
-                <i class="fab fa-twitter-square fa-3x"></i>
-              </a>
-            </li>
-            <li class="google">
-              <a href="https://plus.google.com/share?{{ site.url | append:post.url }}" target="_blank"
-                 data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Google+">
-                <i class="fab fa-google-plus-square fa-3x"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
+                {% if page.author %}
+                <i class="fas fa-pencil-alt i-space"></i> {{ page.author }}
+                {% endif %}
+              </p>
+          </div><!--/post-title -->
+
+          <div class="post-content">
+            {{ content }}
+
+            <div class="entry-social">
+              <ul>
+                <li class="facebook">
+                  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append:page.url }}&amp;t={{ page.title | replace:' ','+' }}" target="_blank"
+                     data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Facebook">
+                    <i class="fab fa-facebook-square fa-3x"></i>
+                  </a>
+                </li>
+                <li class="twitter">
+                  <a href="https://twitter.com/intent/tweet?text={{ page.title | replace:' ','+' }}:&amp;url={{ site.url | append:page.url }}&amp;hashtags=NuevaCulturaPolitica" target="_blank"
+                     data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Twitter">
+                    <i class="fab fa-twitter-square fa-3x"></i>
+                  </a>
+                </li>
+                <li class="google">
+                  <a href="https://plus.google.com/share?{{ site.url | append:post.url }}" target="_blank"
+                     data-container="body" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Comparti en Google+">
+                    <i class="fab fa-google-plus-square fa-3x"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div><!--/post-content -->
+
+        </div><!--/row -->
       </div><!--/container -->
     </article><!--/post -->
 

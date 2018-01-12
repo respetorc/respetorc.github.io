@@ -7,7 +7,7 @@ img: amor.jpg
 
 En el marco del Día internacional de la eliminación de la Violencia contra la mujer, organizamos como parte del Colectivo Ni una Menos, el taller "Deshojando el amor" el amor romántico y su vinculación con la violencia de genero, dictado por la Lic. en psicología Camila Monso. Agradecemos a todxs lxs q participaron del taller, a las compañeras que estuvieron en la organización y a Camila por su predisposición y militancia
 
-![foto]({{site.baseurl}}/img/amor2.jpg)
+![foto]({{site.baseurl}}/img/amor2.jpg){:class="img_cover"}
 
 Compartimos también el resto de ACTIVIDADES previstas en el marco del DÍA INTERNACIONAL DE LA ELIMINACIÓN DE LA VIOLENCIA CONTRA LA MUJER organizadas y convocadas por el Colectivo organizador NI UNA MENOS:
 

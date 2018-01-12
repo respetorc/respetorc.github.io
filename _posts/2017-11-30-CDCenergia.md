@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Último CDC del año: Análisis y debate sobre la energía"
+title: "Último CDC del año: Análisis y debate sobre la energía, Movilidad eléctrica para una ciudad sustentable"
 author: Equipo de Comunicación
 img: CDC.jpg
 ---
