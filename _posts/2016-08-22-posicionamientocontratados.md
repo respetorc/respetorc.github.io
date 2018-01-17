@@ -3,9 +3,10 @@ layout: post
 title: “Este gobierno va a tener sus propios contratados políticos”
 img: sesion.jpg
 ---
-Nota publicada en Puntal 12/08/2016
 
 Lo dijo la jefa del bloque justicialista, Leticia Paulizzi, en una sesión muy tensa. Las palabras fueron interpretadas por los manifestantes que estaban en la sala como una admisión de que los despidos no se decidieron para bajar el gasto sino para hacer lugar a militantes del PJ. Duro discurso de Carrizo
+
+[Nota publicada en Puntal 12/08/2016](http://www.puntal.com.ar/noticia_ed_anteriores.php?id=223205)
 
 En medio de una sesión tensa, con los contratados desafectados por el Municipio reclamando a los gritos por sus trabajos perdidos, la jefa del bloque oficialista, Leticia Paulizzi, lanzó una frase que exaltó aún más los ánimos y que fue interpretada por el gremio como “una incitación a la violencia”.
 
