@@ -423,22 +423,10 @@ ol, ul {
   color: #3b5998;
 }
 
-/*
-.entry-social .facebook {
-  color: #fff;
-  background-color: #3b5998;
+.post-content blockquote p {
+  padding-top: 0px !important;
+  font-size: 20px !important;
 }
-
-.entry-social .twitter {
-  color: #fff;
-  background-color: #55acee;
-}
-
-.entry-social .google {
-  color: #fff;
-  background-color: #dd4b39;
-}
-*/
 /**************************************************************
   Footer
 **************************************************************/
