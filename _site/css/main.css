@@ -323,9 +323,9 @@ ol, ul {
 }
 
 .post-title {
-    max-width: 80%;
+    width: 100%;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
     clear: both;
 }
 
