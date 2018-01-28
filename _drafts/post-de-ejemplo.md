@@ -6,8 +6,16 @@ img: lost-9.jpg
 
 Este es un machete, para principiantes.
 
-## Como hacer los saltos de linea.
+## Saltos de linea.
+Para saltar de parrafo, ponemos dos saltos de linea (dos enter).
 
+
+Así. Si se quiere punto aparte, pero no saltar de parrafo dejamos dos espacios al final del renglon.  
+Así.
+
+## Link a un archivo PDF
+Identico que para las imagenes, los archivos estan el el directorio "archivos".  
+[pdf de ejemplo]({{site.baseurl}}/archivos/simple_pdf.pdf)
 
 # Titulo Principal (conocido como h1)
 `#Titulo principal (conocido como h1)`
