@@ -20,3 +20,5 @@ Para sumarte y/o colaborar con el Concejo Barrial de Niños del B° Islas Malvin
 El PRÓXIMO ENCUENTRO es el sábado 02 de septiembre a las 14:30hs. Lxs esperamos!
 
 __fotos en galeria__
+
+fdoijodfdfgodfgohdfgohdgf
