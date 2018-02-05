@@ -21,6 +21,7 @@
           <div class="post-title">
               <h2>{{ page.title }}</h2>
 
+              {% if page.date %}
               <p class="post-metadata">
                 <i class="far fa-calendar-alt"></i>
                 {% assign m = page.date | date: "%-m" %}
@@ -45,6 +46,7 @@
                 <i class="fas fa-pencil-alt i-space"></i> {{ page.author }}
                 {% endif %}
               </p>
+              {% endif %}
           </div><!--/post-title -->
 
           <div class="post-content">
