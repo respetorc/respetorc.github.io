@@ -9,7 +9,10 @@
       {% if page.img %}
       <div class="header-image"
            style="background-image: url({{ site.baseurl }}/img/{{ page.img }})">
-      </div>
+</div>
+
+      <meta property="og:image" content="{{ site.baseurl }}/img/{{ page.img }}" />
+
       {% else %}
       {% endif %}
     </header>

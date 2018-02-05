@@ -14,8 +14,12 @@ Apostamos a la vivienda digna, a la construcción de un futuro más claro para l
 
 Casas de tierra. Las ventajas del barro como material de construcción (ver pdf)
 
-![foto]({{site.baseurl}}/img/barro.jpg)
-![foto]({{site.baseurl}}/img/barro2.jpg)
-![foto]({{site.baseurl}}/img/barro3.jpg)
-![foto]({{site.baseurl}}/img/barro4.jpg)
-![foto]({{site.baseurl}}/img/barro5.jpg)
+![foto]({{site.baseurl}}/img/barro.jpg){:class="img_cover"}  
+
+![foto]({{site.baseurl}}/img/barro2.jpg){:class="img_full"}  
+
+![foto]({{site.baseurl}}/img/barro3.jpg){:class="img_cover"}  
+
+![foto]({{site.baseurl}}/img/barro4.jpg){:class="img_full"}  
+
+![foto]({{site.baseurl}}/img/barro5.jpg){:class="img_cover"}  
