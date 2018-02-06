@@ -16,8 +16,6 @@ Desde 1983 que una tercera fuerza no llega a ingresar al concejo deliberante de 
 ####Primera dupla de concejales
 
 
-__Jimena Segre__
-![Jimena Segre]({{site.baseurl}}/img/jime2.JPG){:class="img_full"}  
 __Pablo Carrizo__
 ![Pablo Carrizo]({{site.baseurl}}/img/pablo.JPG){:class="img_full"}  
 
