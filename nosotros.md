@@ -13,22 +13,39 @@ __Somos un conjunto de individuos y organizaciones, un colectivo de personas que
 
 Desde 1983 que una tercera fuerza no llega a ingresar al concejo deliberante de la ciudad de Río Cuarto con dos concejales. Venimos a desparramar la semilla del amor al prójimo, a los animales, al medio ambiente. Vamos por un cambio cultural y político, donde los primeros que den el ejemplo sean los funcionarios. La propuesta es seguir construyendo una nueva forma de hacer política pública y cultura política y trabajar sobre este horizonte es pensar en la posibilidad de construir colectivamente.
 
-####Primera dupla de concejales
+<iframe width="424" height="238" src="https://www.youtube.com/embed/ZlOREYSL4A8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Como prometimos en la campaña, nos propusimos cambiar la política de Río Cuarto. Desde entonces, peleamos por lo justo defendiendo los derechos de las vecinas y los vecinos en el Concejo Deliberante y el Tribunal de cuentas.
+Todos los meses donamos parte de nuestros salarios para crear un Fondo de Ahorros destinado a acompañar y generar proyectos para transforma la realidad económica, sociocultural, ambiental y política de nuestra ciudad.
+Muchos, muchísimos vecinos y vecinas participan generosamente para concretar estos sueños.
+Parte de esas promesas fue la de las rotaciones de bancas, para que más compañerxs tengan la posibilidad de experimentar la tarea del concejal o concejala y a su vez no acostumbrarse a que los cargos públicos son para siempre. Buscamos que cada uno aproveche al máximo esta oportunidad y luego pueda volver al trabajo habitual que realizaba antes de tener un cargo; por eso renovamos nuestros delegados y Apostamos al colectivo.
+Creemos que todos debemos participar de la política, pero nadie debe vivir para siempre de ella. Reafirmamos el compromiso, redoblamos el desafío de construir juntos una nueva cultura política.
+
+__Primera dupla de concejales__
+
+__Jimena Segre__
+
+![Jime Segre]({{site.baseurl}}/img/jime.jpg){:class="img_full"}
 
 __Pablo Carrizo__
+
 ![Pablo Carrizo]({{site.baseurl}}/img/pablo.JPG){:class="img_full"}  
 
 
-####Concejales actuales  
+__Segunda Dupla de Concejales__  
+
 
 __Patricia García__
+
 ![Patricia Garcia]({{site.baseurl}}/img/patri.JPG){:class="img_full"}  
+
 __Franco Altamirano__
+
 ![Franco Altamirano]({{site.baseurl}}/img/franco.JPG){:class="img_full"}  
 
 
-#####Campaña  
+#####Campaña Política Novedosa  
+
 
 
 _La cultura se protege compartiéndola_  
@@ -40,8 +57,14 @@ Elegimos construir el mundo que queremos sin destruirlo ni destruir, construir u
  Los viejos dogmas, las viejas doctrinas, sabemos que no tienen las claves para desentrañar el caos del mundo actual. La violencia sea simbólica o material sabemos tampoco nunca solucionaron nada, solo han generado guerras donde alguien siempre pierde.
 
 Fotos en Galería de la Campaña
+
 ![campaña]({{site.baseurl}}/img/campaña1.JPG){:class="img_full"}
 
 ![campaña]({{site.baseurl}}/img/campaña2.JPG){:class="img_full"}
 
 ![campaña]({{site.baseurl}}/img/campaña3.JPG){:class="img_full"}
+
+
+__Resúmen del Primer Año de Respeto__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/x56CcoGP0f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
