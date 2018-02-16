@@ -2,17 +2,25 @@
 layout: post
 title: Concejo Deliberante
 permalink: /espacios_institucionales/concejo_deliberante/
-img: oficoncejo.jpg
+img: oficoncejo.JPG
 ---
 
-Al haber obtenido x% de votos en las elecciones municipales, obtuvimos 2 bancas en el Poder legislativo de Río Cuarto. Este mismo está compuesto por 19 concejales en total donde 10 son de la bancada oficialista de UPC y 7 corresponden al frente cambiemos.
+__Respeto__ obtuvo 7.756 votos (__el 9,14%__) en las elecciones municipales, lo que nos permtió acceder a __2 bancas__ en el __Poder legislativo__ de la Ciudad. Este mismo está compuesto por 19 concejales en total, de los cuáles 10 son de la bancada oficialista de Unión por Córdoba (UPC) y 7 corresponden al frente cambiemos. A su vez, por haber salido en 3er lugar en las elecciones, Respeto consigió __1 miembro__ en el __Tibunal de Cuentas__ de Río Cuarto.  
 
-### Proyectos presentados
+La dinámica de trabajo de la tarea __legislativa__ consiste en la elaboración de proyectos, el ingreso para su tratamiento en comisiones donde se discuten, modifican, y luego se votan en las sesiones ordinarias de los Jueves.
+Según el tipo de proyecto ingresado, es asignado en _1 o más comisiones para su tratamiento.
+Nos resulta súmamente importante que todxs los ciudadanos_ que lo deseen, puedan tener acceso a los proyectos y expedientes más importantes que están en curso en este momento, de forma que los dejamos disponibles para que cualquiera pueda descargarlos, leerlos, analizarlos, sugerir modificaciones, etc.
+
+##### Expedientes y proyectos en curso
+
+
+#### Lista de Proyectos presentados
+
 
 Link de Descarga de la lista completa de los proyectos presentados (última actualización 31/12/2017)
 
 
-![proyectos presentados]({{site.baseurl}}/img/proyectos2.png){:class="img_cover"}
+![proyectos presentados](fanny) 
 
 ###Link de Descarga a los principales proyectos presentados
 
