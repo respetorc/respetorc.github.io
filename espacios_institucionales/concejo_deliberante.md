@@ -7,22 +7,21 @@ img: oficoncejo.JPG
 
 __Respeto__ obtuvo 7.756 votos (__el 9,14%__) en las elecciones municipales, lo que nos permtió acceder a __2 bancas__ en el __Poder legislativo__ de la Ciudad. Este mismo está compuesto por 19 concejales en total, de los cuáles 10 son de la bancada oficialista de Unión por Córdoba (UPC) y 7 corresponden al frente cambiemos. A su vez, por haber salido en 3er lugar en las elecciones, Respeto consigió __1 miembro__ en el __Tibunal de Cuentas__ de Río Cuarto.  
 
-La dinámica de trabajo de la tarea __legislativa__ consiste en la elaboración de proyectos, el ingreso para su tratamiento en comisiones donde se discuten, modifican, y luego se votan en las sesiones ordinarias de los Jueves.
-Según el tipo de proyecto ingresado, es asignado en _1 o más comisiones para su tratamiento.
-Nos resulta súmamente importante que todxs los ciudadanos_ que lo deseen, puedan tener acceso a los proyectos y expedientes más importantes que están en curso en este momento, de forma que los dejamos disponibles para que cualquiera pueda descargarlos, leerlos, analizarlos, sugerir modificaciones, etc.
+La dinámica de trabajo de la tarea legislativa consiste en la elaboración de proyectos, el ingreso para su tratamiento en comisiones donde se discuten, modifican, y luego se votan en las sesiones ordinarias de los Jueves.
+Según el tipo de proyecto ingresado, es asignado en 1 o más comisiones para su tratamiento.
+Nos resulta súmamente importante que todxs los ciudadanos que lo deseen, puedan tener acceso a los proyectos y expedientes más importantes que están en curso en este momento, de forma que los dejamos disponibles para que cualquiera pueda descargarlos, leerlos, analizarlos, sugerir modificaciones, etc.
 
 ##### Expedientes y proyectos en curso
 
 
 #### Lista de Proyectos presentados
 
+![proyectos presentados]({{site.baseurl}}/img/proyectos2.png){:class="img_cover"}
 
 Link de Descarga de la lista completa de los proyectos presentados (última actualización 31/12/2017)
+[proyectos presentados](fanny)
 
 
-![proyectos presentados](fanny) 
-
-###Link de Descarga a los principales proyectos presentados
 
 __Asi se vería poniendo toda la info que está en la imagen de arriba__
 
@@ -100,10 +99,79 @@ __Así se vería si sólo va el título del proyecto y el N° de expediente__
 
 ### Ayudas Económicas
 
-![proyectos presentados]({{site.baseurl}}/img/AYUDA ECONOMICA.jpg){:class="img_cover"}
-
 ![proyectos presentados]({{site.baseurl}}/img/ayudas_economicas_nuevo.png){:class="img_cover"}
 
-### Proyectos de Declaración
 
-![proyectos presentados]({{site.baseurl}}/img/PROYECTOS DE DECLARACION.jpg){:class="img_cover"}
+### Resúmen de sesiones
+
+__SOMOS RESPETO - SESION N69 - PROYECTO REFORESTACION CON FRUTALES__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-FIiKHn6Oxg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO - SESION N69 - INTERVENCION CARRIZO - AUTOTROL__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OddrOj3Lhck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO SESION 66 PROYECTO FRUTALES Y GERIATRICOS__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/77TLaPSijrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO SESION 64 ENTREVISTA CARRIZO BOLETO__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jJBhwvBVc-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO SESION 64 AUMENTO DEL BOLETO__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nfJw0M9ryq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO SESION 63 INTERVENCION SEGRE CONSEJO ESTUDIANTIL__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4Pr4RunPnLo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO SESION 63 INTERVENCION SEGRE RESERVA SUSANA DILLON__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gzPXqLyIRjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Resumen 2016 12 01 EPU__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3WZNnkSBhYA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Resumen 2016 11 17__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TYn4VhvCCyQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Resumen 2016 10 06 - CONTRA EL AUMENTO DEL BOLETO__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Na2KODV5nRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 9 - Resumen 2016 09 29__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/k3L822sh7ac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 8 - EXPONE VANESA LERNER CANDIDATA A DEF DEL PUEBLO__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MOIVAuTD3ZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 7 - Resumen 2016 09 08__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JIkS3RYWi3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 6 - Resumen 2016 08 25__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NmP_lTR6Vwo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 5 - Resumen 2016 08 18__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j9gUMWAWXmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 4 - Resumen 2016 08 11__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GV7IlIt0IeA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 3 - Resumen 2016 08 04__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dwlfNidAv-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+__SOMOS RESPETO Nro 1 - Resumen semanal del Concejo - 2016-07-07__
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v2Iab_fFA4o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
