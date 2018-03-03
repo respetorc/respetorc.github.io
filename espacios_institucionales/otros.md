@@ -1,13 +1,27 @@
 ---
 layout: post
-title: Otros proyectos institucionales
+title: Otros espacios institucionales
+permalink: /espacios_institucionales/otros/
+img: oficoncejo.JPG
 ---
 
 
 ## IMPURC
+
+
 ## IMV
+
+
 ## FUNDEMUR
-## Concejo de niñez
-## Concejo de Género
-## Concejo Municipal de Protección del Arbolado Urbano
+
+
+## Consejo de niñez
+
+
+## Consejo Municiapl de Género
+
+
+## Consejo Municipal de Protección del Arbolado Urbano
+
+
 ## Foro por la Libertad y la Democracia
