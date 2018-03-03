@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proyectos
-permalink: /proyectos/
+permalink: /proyectos/		
 ---
 
 
@@ -11,5 +11,3 @@ permalink: /proyectos/
 ## Los horneros
 ## Invernadero
 ## “Granja la libertad”
-## Ojo de Radio
-
