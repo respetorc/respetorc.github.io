@@ -64,11 +64,7 @@ blockquote {
     padding-bottom: 15px;
 }
 
-@media (min-width: 992px) {
-  .main_navbar {
-    margin-top: 57px;
-  }
-}
+
 
 .nav-link {
     display: inline-block;
