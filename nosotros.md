@@ -4,16 +4,31 @@ title: ¿Quienes Somos?
 permalink: /nosotros/
 img: rotacion2.jpg
 ---
-#¿Quiénes Somos?
 
-__Somos un conjunto de individuos y organizaciones, un colectivo de personas que trabaja y construye colectivamente desde hace años para lograr transformar nuestro espacio en la ciudad que siempre soñamos. Encontrarse para formar un partido político nuevo nace de la necesidad de querer lograr cambios a mayor escala de lo que podíamos hacer individualmente o desde las organizaciones o espacios de los que venimos y poder convertirnos en los políticos que nunca vimos. Desde el Partido Respeto promovemos una política sin fines de lucro, es decir, que no buscamos enrriquecernos individualmente con el dinero de todxs y apostamos a utilizarlo como un medio para retomar la visión de los vecinos, visibilizar las experiencias que han sido beneficiosas, las que no  han tenido oportunidades de construir desde abajo. ASÍ SOMOS, DE ALLÍ VENIMOS Y HACIA ALLÁ CAMINAMOS: Hacia la construcción de una democracia participativa, basada en la participación directa e igualitaria en asambleas horizontales, sin distinciones, sin preferencias, sin banderas políticas tradicionales, sin privilegios. Esos son nuestros principios y se los queremos imprimir a este nuevo órgano legislativo popular.__
+Somos un conjunto de individuos y organizaciones, un colectivo de personas que trabaja y construye colectivamente desde hace años para lograr transformar nuestro espacio en la ciudad que siempre soñamos. Encontrarse para formar un partido político nuevo nace de la necesidad de querer lograr cambios a mayor escala de lo que podíamos hacer individualmente o desde las organizaciones o espacios de los que venimos y poder convertirnos en los políticos que nunca vimos. Desde el Partido Respeto promovemos una política sin fines de lucro, es decir, que no buscamos enrriquecernos individualmente con el dinero de todxs y apostamos a utilizarlo como un medio para retomar la visión de los vecinos, visibilizar las experiencias que han sido beneficiosas, las que no  han tenido oportunidades de construir desde abajo.
+
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/i4GgJH6wt3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+__ASÍ SOMOS, DE ALLÍ VENIMOS Y HACIA ALLÁ CAMINAMOS__: Hacia la construcción de una democracia participativa, basada en la participación directa e igualitaria en asambleas horizontales, sin distinciones, sin preferencias, sin banderas políticas tradicionales, sin privilegios. Esos son nuestros principios y se los queremos imprimir a este nuevo órgano legislativo popular.
 
 
-###Una oportunidad histórica
+### Una oportunidad histórica
+
 
 Desde 1983 que una tercera fuerza no llega a ingresar al concejo deliberante de la ciudad de Río Cuarto con dos concejales. Venimos a desparramar la semilla del amor al prójimo, a los animales, al medio ambiente. Vamos por un cambio cultural y político, donde los primeros que den el ejemplo sean los funcionarios. La propuesta es seguir construyendo una nueva forma de hacer política pública y cultura política y trabajar sobre este horizonte es pensar en la posibilidad de construir colectivamente.
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/ZlOREYSL4A8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/i4GgJH6wt3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+---
+
 
 Como prometimos en la campaña, nos propusimos cambiar la política de Río Cuarto. Desde entonces, peleamos por lo justo defendiendo los derechos de las vecinas y los vecinos en el Concejo Deliberante y el Tribunal de cuentas.
 Todos los meses donamos parte de nuestros salarios para crear un Fondo de Ahorros destinado a acompañar y generar proyectos para transforma la realidad económica, sociocultural, ambiental y política de nuestra ciudad.
@@ -21,34 +36,46 @@ Muchos, muchísimos vecinos y vecinas participan generosamente para concretar es
 Parte de esas promesas fue la de las rotaciones de bancas, para que más compañerxs tengan la posibilidad de experimentar la tarea del concejal o concejala y a su vez no acostumbrarse a que los cargos públicos son para siempre. Buscamos que cada uno aproveche al máximo esta oportunidad y luego pueda volver al trabajo habitual que realizaba antes de tener un cargo; por eso renovamos nuestros delegados y Apostamos al colectivo.
 Creemos que todos debemos participar de la política, pero nadie debe vivir para siempre de ella. Reafirmamos el compromiso, redoblamos el desafío de construir juntos una nueva cultura política.
 
-__Primera dupla de concejales__
 
-__Jimena Segre__
-
-![Jime Segre]({{site.baseurl}}/img/jime.jpg){:class="img_full"}
-
-__Pablo Carrizo__
-
-![Pablo Carrizo]({{site.baseurl}}/img/pablo.JPG){:class="img_full"}  
+#### Primera dupla de concejales
 
 
-__Segunda Dupla de Concejales__  
+__Jimena Segre y Pablo Carrizo__
+
+![Jime Segre]({{site.baseurl}}/img/jimepablo.JPG){:class="img_full"}
 
 
-__Patricia García__
+#### Segunda dupla de concejales
 
-![Patricia Garcia]({{site.baseurl}}/img/patri.JPG){:class="img_full"}  
 
-__Franco Altamirano__
+__Patricia García Muñoz y Franco Altamirano__
 
-![Franco Altamirano]({{site.baseurl}}/img/franco.JPG){:class="img_full"}  
+![Patri y Franco]({{site.baseurl}}/img/patrifranco.JPG){:class="img_full"}   
+
+
+#### Primer Tribuno de Cuentas
+
+
+__Alejandro Safadi__
+
+
+![Ale]({{site.baseurl}}/img/ale.jpeg){:class="img_full"}
+
+
+#### Segunda Tribuna de Cuentas
+
+
+__Juli Pereyra__
+
+
+![Juli]({{site.baseurl}}/img/juli.jpeg){:class="img_full"}
 
 
 #####Campaña Política Novedosa  
 
 
 
-_La cultura se protege compartiéndola_  
+_La cultura se protege compartiéndola_
 
 Que todos trabajamos con las manos es algo tan obvio como  respirar o tomar  agua o comer, son necesidades biológicas, trabajamos con las manos desde que tenemos que ayudarnos a salir del útero de nuestras madres, por lo tanto,  el hacer con las manos  es parte de la evolución de las razas humanas. Más uno puede matar o dar vida con las manos.
 Con RESPETO trabajamos con las manos para que una plaza tenga árboles, sus bancos luzcan más lindos, trabajamos con la manos para explicitar el poder que tenemos para crear.  No hay necesidad de gastar tanto dinero en publicidades partidarias, no es dinero productivo, es dinero que solo capitalizan los grandes medios, es dinero que podría haberse volcado en acciones que solucionen problemas y o carencias.
@@ -65,6 +92,6 @@ Fotos en Galería de la Campaña
 ![campaña]({{site.baseurl}}/img/campaña3.JPG){:class="img_full"}
 
 
-__Resúmen del Primer Año de Respeto__
+---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/x56CcoGP0f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="424" height="238" src="https://www.youtube.com/embed/ZlOREYSL4A8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
