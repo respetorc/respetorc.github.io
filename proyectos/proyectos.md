@@ -40,8 +40,7 @@ El Proyecto  pone en juego una serie de Dispositivos de Acción para ayudar a em
 
 _Facebook_: [EnRedar- producción local](https://www.facebook.com/redmicroemprendedores/)
 
-
-#####Proyección 2018
+#####Actividades del 2018
 
 
 _Talleres saludables_:
@@ -51,14 +50,129 @@ En busca de promover la producción y consumo de alimentos agroecológicos prete
 -Promover un espacio de intercambio de saberes respecto a la cocina saludable.
 
 
-Se sugiere que l@s integrantes de la red que estén involucrad@s en este tipo de producción, sean quienes realicen las charlas al público, que aporten ideas para enriquecer esta actividad a promover siendo gestores de la misma.
+__L@s integrantes de la red que estén involucrad@s en este tipo de producción, son tanto quienes realizan las charlas al público, como lxs que aportan ideas para enriquecer esta actividad a promover siendo gestores de la misma.__
 
 
 _Talleres de Capacitación_:
 Continuando con la articulación con la __Universidad Nacional de Río Cuarto__ (UNRC), específicamente con la __cátedra de Comunicación__; se pretende realizar una serie de talleres para potenciar los emprendimientos como:
--Manejo de redes (pendiente del año 2017)
+-Manejo de redes
 -Fotografía con celular de productos
 -Servicio de catering.
+
+
+### Red de Emprendedoras y emprendedores
+
+
+
+__Amable Verde__
+
+Almacén  de productos agroecológicos de pequeños y medianos productores, destinado a promover el consumo consciente y el respeto por la naturaleza.
+Los productos son libres de pesticidas, fertilizantes sintéticos, aditivos y conservantes.
+Además de alimentos podrás encontrar productos de Cosmética y medicina natural, Artículos de limpieza biodegradables, Papel reciclado, Libros, láminas de artistas, entre otros.
+
+__Contactos__:
+[Amable Verde Agroecológico](https://www.facebook.com/amableverde/)
+
+0358- 156003181 (Stefi)
+0358- 154816851 (Noelia)
+
+![enredar]({{site.baseurl}}/img/enredar_amableverde.jpg){:class="img_full"}  
+
+![enredar]({{site.baseurl}}/img/enredar_amableverde2.jpg){:class="img_full"}
+
+---
+
+
+__Tentaciones Dulces Saladas__
+
+Maria Esther y Silvia Toledo emprendedoras de la ciudad de Río Cuarto, llevan adelante este emprendimiento que consiste en la elaboración de comidas, panificación y pastelería
+
+__Contactos__:
+[Tentaciones Dulces Saladas](https://www.facebook.com/tentaciones.saladas)
+
+Cel: 0358- 1555077068
+
+![enredar]({{site.baseurl}}/img/enredar_tentaciones.jpg){:class="img_full"}
+
+![enredar]({{site.baseurl}}/img/enredar_tentaciones2.jpg){:class="img_full"}  
+
+
+---
+
+
+__Peperina's__
+
+Maricel, emprendedora de Río Cuarto, comercializa condimentos y hierbas.  
+__Contacto__:  
+[Maricel Peperina’s](https://www.facebook.com/Maricel-Peperinas-173506196752654/)  
+Cel: 0358-155087067
+
+![enredar]({{site.baseurl}}/img/enredar_peperina.jpg){:class="img_full"}  
+
+![enredar]({{site.baseurl}}/img/enredar_peperina2.jpg){:class="img_full"}  
+
+
+---
+
+
+__Amasamor__
+
+
+El proyecto nace por iniciativa de Miriam, una madre en busca de dar contención a sus hijos y a otros jóvenes, mediante el trabajo.  
+Fueron capacitados por Luis Hernandez, vecino participante del Concejo Deliberante Ciudadano.  
+Hoy producen, panes casera, facturas, prepizzas, y otros productos de panadería, caseros y sin conservantes
+
+__Contacto__: 0358- 155069556 (Miriam)
+
+---
+
+__Tentempie__
+
+Daniel, emprendedor de Río Cuarto, elabora productos naturales, artesanales, captando el aroma y sabor de cada elemento.
+Mermeladas, conservas de frutas y verduras, sal del Himalaya y otros
+
+__Contacto__:  
+Cel: 0358- 154 839234
+
+![enredar]({{site.baseurl}}/img/enredar_tentempie.jpg){:class="img_full"}
+
+---
+
+__La Huerta de Domingo__
+
+Domingo, es un huertero de la localidad de Las Higueras.
+Cultiva en su casa, verduras sin agroquímicos, con un trabajo artesanal de la huerta.
+Su verdura se distribuye cada viernes por Amable Verde, otro emprendimiento que integra esta Red.
+
+__Contacto__:
+Cel: 0358-155617505
+Dirección: Francisco Comelli a dos cuadas del puesto 2 del aeropuerto.
+
+[Nota del Diario Puntal 5/3/18: La Huerta de Don Domingo: “Ver germinar la semilla es como volver a nacer cada día”](http://www.puntal.com.ar/riocuarto/La-Huerta-de-Don-Domingo-Ver-germinar-la-semilla-es-como-volver-a-nacer-cada-dia-20180305-0015.html)
+
+
+![enredar]({{site.baseurl}}/img/enredar_domingo1.jpg){:class="img_full"}
+
+![enredar]({{site.baseurl}}/img/enredar_domingo3.jpg){:class="img_full"}
+
+![enredar]({{site.baseurl}}/img/enredar_domingo2.jpg){:class="img_full"}
+
+---
+
+__Artextil Magenta__
+
+Cooperativa de Trabajo Artextil Magenta Limitada, este emprendimiento surge de las emociones generadas en los procesos de creación colectiva, reflejadas en la propuesta de Construir juntas un proyecto laboral.
+Estas mujeres trabajan en la confección de productos ecológicos, cocidos y de diseño para uso íntimo de bebés y mujeres.
+
+_Porque ecológicos? Porque son re-utilizables._
+
+Contactos:
+[Magenta Artextil](https://www.facebook.com/artextilmagenta/)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LWuqWDOCCwo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+---
 
 
 ## Entreayudarnos
@@ -101,4 +215,4 @@ __¡Y cuántas cosas más que la creatividad unida a la solidaridad puede genera
 ## Los horneros
 
 
-## Invernadero “Granja la libertad”
+## Invernadero Agroecológico
