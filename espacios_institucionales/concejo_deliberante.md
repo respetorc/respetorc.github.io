@@ -13,7 +13,7 @@ Nos resulta súmamente importante que todxs lxs ciudadanxs que lo deseen, puedan
 #### Concejales actuales
 
 ![Patri y Franco]({{site.baseurl}}/img/patrifranco.JPG){:class="img_full"}  
-
+__Franco Altamirano                                   Patricia García__
 
 ---
 
@@ -68,25 +68,30 @@ Descarga la lista completa de las [Ayudas Económicas presentadas]({{site.baseur
 #### Resúmen de sesiones
 
 
-__8M PARO INTERNACIONAL DE MUJERES: intervención Patricia García__
+__8M PARO INTERNACIONAL DE MUJERES: intervención Patricia García__  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6dfLGBLmWrc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
-__NUEVO AUMENTO DE LA SAT: Franco Altamirano__
+__RECHAZO AL NUEVO AUMENTO DE LA SAT: Franco Altamirano__  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SnCTcYKHsJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
  __ASUNCION NUEVOS CONCEJALES__  
  <iframe width="640" height="360" src="https://www.youtube.com/embed/HJGQwz5RADU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
 __RESERVA NATURAL URBANA SUSANA DILON: Jimena Segre__  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gzPXqLyIRjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
 __CONTRA EL AUMENTO DEL BOLETO: Pablo Carrizo__
 <iframe width="640" height="360" src="https://www.youtube.com/embed/nfJw0M9ryq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
 __CONTRA EL AUMENTO DEL BOLETO: Pablo Carrizo__
 
