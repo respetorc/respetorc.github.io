@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Concejo Deliberante Ciudadano Río Cuarto (CDC)
+permalink: /cdc/	
 img: ODB.jpg
 ---
 
