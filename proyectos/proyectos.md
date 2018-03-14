@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proyectos
-permalink: /proyectos/
 img: bheema-2.PNG		
 ---
 
