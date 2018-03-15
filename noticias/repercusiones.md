@@ -1,5 +1,5 @@
 ---
-layout: common
+layout: post
 permalink: /noticias/repercusiones/
 title: Repercusiones
 ---
