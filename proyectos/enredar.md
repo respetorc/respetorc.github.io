@@ -12,33 +12,33 @@ Pretende llevar adelante la organización y  comercialización de una manera __j
 El Proyecto  pone en juego una serie de Dispositivos de Acción para ayudar a emprendedores a llevar adelante su proyecto de trabajo:
 
 
--__Red de emprendedor@s__: esta red ha permitido que l@s emprendedor@s que participan de manera activa, puedan asistir a ferias de manera conjunta, intercambiar saberes, participar de talleres.
+__Red de emprendedor@s__: esta red ha permitido que l@s emprendedor@s que participan de manera activa, puedan asistir a ferias de manera conjunta, intercambiar saberes, participar de talleres.
 
 
--__Acompañamiento__: El equipo de trabajo de respeto, se compromete a acompañar a l@s emprendedor@s, realizando visitas periódicas para identificar posibles inquietudes o problemas que puedan ser resueltos en conjunto, y para continuar trabajando sobre cada proyecto con nuevas iniciativas.
+__Acompañamiento__: El equipo de trabajo de respeto, se compromete a acompañar a l@s emprendedor@s, realizando visitas periódicas para identificar posibles inquietudes o problemas que puedan ser resueltos en conjunto, y para continuar trabajando sobre cada proyecto con nuevas iniciativas.
 
 
--__Articulación__: el trabajo en una Red nos permite articular con otr@s emprendedor@s pero también con organizaciones, instituciones y centros de ventas por medio de los cuales se pueden conseguir recursos humanos y materiales para el enriquecimiento de cada emprendimiento.
+__Articulación__: el trabajo en una Red nos permite articular con otr@s emprendedor@s pero también con organizaciones, instituciones y centros de ventas por medio de los cuales se pueden conseguir recursos humanos y materiales para el enriquecimiento de cada emprendimiento.
 
 
--__Microcréditos__: Con el [Fondo de Ahorros de RESPETO](respeto.org.ar/fondodeahorros) los integrantes del partido podemos administrar recursos de forma colectiva y así ayudar a emprendedor@s a adquirir herramientas de trabajo, insumos, etc, y hacer crecer, fortalecer o mejorar sus empredimientos. De esta forma, personas que individualmente no disponen de un capital inicial para emprender algún proyecto, o que deberían endeudarse para adquirir un crédito en el sistema bancario con la insertidumbre de no saber si su emprendimiento le va a permitir poder devolvervo a término; pueden acceder a estos recursos con plazos de devolución del préstamo que se arreglan para cada caso en particular de forma que nos sea conveniente a todxs.
+__Microcréditos__: Con el [Fondo de Ahorros de RESPETO](respeto.org.ar/fondodeahorros) los integrantes del partido podemos administrar recursos de forma colectiva y así ayudar a emprendedor@s a adquirir herramientas de trabajo, insumos, etc, y hacer crecer, fortalecer o mejorar sus empredimientos. De esta forma, personas que individualmente no disponen de un capital inicial para emprender algún proyecto, o que deberían endeudarse para adquirir un crédito en el sistema bancario con la insertidumbre de no saber si su emprendimiento le va a permitir poder devolvervo a término; pueden acceder a estos recursos con plazos de devolución del préstamo que se arreglan para cada caso en particular de forma que nos sea conveniente a todxs.
 
 
--__Gestión de donaciones__: dado que __Respeto__ es conocido en la ciudad por este tipo de iniciativas, muchas personas ofrecen diversas donaciones, que a veces pueden servirle a algún emprendimiento que esté contenido en la Red. Se trabaja y articula junto al proyecto __Entreayudarnos__ en la gestión para que dicha donación llegue al emprendedor que lo necesita.
+__Gestión de donaciones__: dado que __Respeto__ es conocido en la ciudad por este tipo de iniciativas, muchas personas ofrecen diversas donaciones, que a veces pueden servirle a algún emprendimiento que esté contenido en la Red. Se trabaja y articula junto al proyecto __Entreayudarnos__ en la gestión para que dicha donación llegue al emprendedor que lo necesita.
 
 
-#####Contactos:
+##### Contactos:
 
 _Facebook_: [EnRedar- producción local](https://www.facebook.com/redmicroemprendedores/)
 
-#####Actividades del 2018
+##### Actividades del 2018
 
 
 _Talleres saludables_:
 En busca de promover la producción y consumo de alimentos agroecológicos pretendemos:
--Generar un espacio de reflexión acerca de los hábitos saludables de alimentación.
--Dar a conocer el uso de productos orgánicos para la alimentación saludable.
--Promover un espacio de intercambio de saberes respecto a la cocina saludable.
+- Generar un espacio de reflexión acerca de los hábitos saludables de alimentación.
+- Dar a conocer el uso de productos orgánicos para la alimentación saludable.
+- Promover un espacio de intercambio de saberes respecto a la cocina saludable.
 
 
 __L@s integrantes de la red que estén involucrad@s en este tipo de producción, son tanto quienes realizan las charlas al público, como lxs que aportan ideas para enriquecer esta actividad a promover siendo gestores de la misma.__
