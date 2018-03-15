@@ -26,6 +26,12 @@ blockquote {
   border-left: 5px solid #6d4e8a;
   margin-bottom: 46px;
 }
+
+iframe {
+    width: 100%;
+    max_width: 100%;
+    max_height: 100%;
+}
 /**************************************************************
   Main NavBar
 **************************************************************/
