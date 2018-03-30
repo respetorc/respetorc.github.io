@@ -5,11 +5,14 @@ permalink: /espacios_institucionales/otros/
 img: oficoncejo.JPG
 ---
 
-[Desde Respeto reclamaron que el Municipio se haga cargo del control de los geriátricos](http://www.lv16.com.ar/sg/nota-101334/desde-respeto-reclamaron-que-el-municipio-se-haga-cargo-del-control-de-los-geriatricos)
+#### INSTITUTO MUNICIPAL DE PLANIFICACION URBANA DE RIO CUARTO (IMPURC)
 
+Es un órgano desconcentrado de la administración municipal con la facultad de confeccionar un modelo territorial que referencie gráficamente las principales estrategias del Plan Urbano de la Ciudad. (Ordenanza 1082/11)  
+Está compuesto por una __Comisión ejecutiva__ (Secretario de Planificación, Director General de Planeamiento Urbano, representante técnico designado por cada uno de los bloques políticos con representación en el Concejo Deliberante) y una __comisión técnica__ de asesoramiento.
 
-
-## IMPURC
+Como Bloque tenemos la intención de poder __debatir__ sobre las políticas urbanas, entendiendo que en Río Cuarto el crecimiento territorial se manifiesta con cambios bruscos ligados a las variables económicas, quedando el mercado con un rol regulador del desenlace urbano.  
+Entendemos que las urbes son creaciones culturales, en donde se concentra la mayor cantidad de la población, y como tal, su conformación, distribución espacial, usos y dominios son el reflejo y la expresión de las interacciones sociales de sus habitantes.    
+Frente a esto, buscamos cambiar el rol pasivo del ciudadano para involucrarlo en la construcción de la ciudad en la que viven, para general modelos territoriales más participativos y ambientalmente más sustentables. De esta forma, cualquier ciudadan@ que tenga una propuesta que crea que pueda contribuir en este sentido, se puede acercar al bloque para llevarla a este espacio institucional que siempre a sido de muy difícil acceso para lxs ciudadanxs. 
 
 
 ## IMV

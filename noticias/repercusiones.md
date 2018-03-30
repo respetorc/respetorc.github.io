@@ -76,6 +76,7 @@ __LV16__
 
 [Una nueva propuesta para Río Cuarto: “Respeto”. Pablo Carrizo, referente social y fundador del partido, dialogó en LV16 y comentó acerca de los proyectos que tienen desde su espacio político.](http://www.lv16.com.ar/sg/nota/77686/una-nueva-propuesta-para-rio-cuarto-respeto)
 
+[Desde Respeto reclamaron que el Municipio se haga cargo del control de los geriátricos](http://www.lv16.com.ar/sg/nota-101334/desde-respeto-reclamaron-que-el-municipio-se-haga-cargo-del-control-de-los-geriatricos)
 
 __Puntal__
 
