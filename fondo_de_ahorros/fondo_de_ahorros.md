@@ -31,7 +31,7 @@ __Partido Respeto, Una Nueva Cultura Política__
 
 ![grafico]({{site.baseurl}}/img/gastosporproyecto_hastamarzo2018.jpg){:class="img_cover"}
 
-
+Descarga de la planilla con __TODOS__ los gastos que se mencionan (hasta marzo2018): [Libro de Caja]({{site.baseurl}}/archivos/libro_de_caja_hasta_marzo_2018.xlsx)
 
 ### Transparencia Mensual
 
