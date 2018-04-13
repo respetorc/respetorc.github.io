@@ -31,7 +31,6 @@ __Partido Respeto, Una Nueva Cultura Política__
 
 ![grafico]({{site.baseurl}}/img/gastosporproyecto_hastamarzo2018.jpg){:class="img_cover"}
 
-Descarga de la planilla con __TODOS__ los gastos que se mencionan (hasta marzo2018): [Libro de Caja]({{site.baseurl}}/archivos/libro_de_caja_hasta_marzo_2018.xlsx)
 
 ### Transparencia Mensual
 
@@ -41,6 +40,7 @@ Descarga de la planilla con __TODOS__ los gastos que se mencionan (hasta marzo20
 
 ![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzo_2018.jpg){:class="img_full"}
 
+Ahorramos de los salarios 154.225$, gastamos 117.818$, quedándonos 36.407$ de saldo Mensual que hacen un total de 87.623$ de ahorro acumulado.
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_marzo_2018.jpg){:class="img_cover"}
 
@@ -56,9 +56,9 @@ __Acciones directas__:
  -Ayuda a Vivero Comunitario  
 
  __Enredar__:  
- -dinero para taller de huevos de pascua
- -gastos en general de las ferias realizadas
- -subsidio para anahi para compra de telas
+ -dinero para taller de huevos de pascua  
+ -pasaje para curso de formación (pre foro de economía social) de emprendedora  
+ -subsidio para compra de telas  
 
 __La vaca__: Pago a contadora por balance
 
@@ -76,22 +76,16 @@ __Maquina__: pago del seguro
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_febrero_2018.jpg){:class="img_cover"}
 
-
  __Acciones directas__:  
 -Cuota de apoyo al invernadero de Granja La Libertad (Producción Agroecológica)  
 -Pago de tramites por gastos de abogada  
 -Ciclo de Cine  
 -Gastos de la construcción del Multiespacio de la Agrupación "Los Orillas"  
-
-__Ojo de Barro__: Pago de Luz y Alquiler, compra de sonido, impresión de afiches, alquiler de sillas
-
-__Administrativo Concejo__: Papelería
-
-__Ojo de Barro Radial__: Gastos para regalos del programa de radio
-
-__Maquina__: pago del seguro
-
-__Comunicación__: Pago del Dominio para la web
+__Ojo de Barro__: Pago de Luz y Alquiler, compra de sonido, impresión de afiches, alquiler de sillas  
+__Administrativo Concejo__: Papelería  
+__Ojo de Barro Radial__: Gastos para regalos del programa de radio  
+__Maquina__: pago del seguro  
+__Comunicación__: Pago del Dominio para la web  
 
 
 #### Diciembre 2017
@@ -101,12 +95,33 @@ __Comunicación__: Pago del Dominio para la web
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_diciembre_2017.jpg){:class="img_cover"}
 
 
+__Ojo de Barro__: Pago de Luz, Alquiler, pago del mural, compra de pava eléctrica  
+__Comunicación__: Pago pauta publicitaria en canal 13  
+__Invernadero__: Cuota de apoyo a la granja la libertad (Producción Agroecológica)  
+__Acción Directa__: pago abogado  
+__Enredar__:  
+-Pago combustible congreso Latinoamericano de Practicas Estrategicas  
+-Compra de Frascos  
+-Focos, telas para la feria de Navidad y Harina
+-Compra de olla  
+__Ojo de Barro Radial__: gastos del programa de radio  
+__Caja Concejo__: Compra de números y ayudas puntuales  
+__La vaca__: depósito para la Cuenta de banco  
+__Máquina__: pago de seguro  
+
+
 #### Noviembre 2017
 
 ![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_noviembre_2017.jpg){:class="img_full"}
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_noviembre_2017.jpg){:class="img_cover"}
 
+__Ojo de Barro__: Pago de Luz, Alquiler, ferretería, cemento, manguera, maderas, pinturería, aceros río cuarto, pinturas, herrajes, vidrios, pago plomero, pago herrero, pago de parte del mural, sanitario completo  
+__Enredar__: compra de papa, aceite, insumos para el taller de pan dulce, fotos para la carpeta de entramados productivos, impresiones de calcomanías para fericambio, compra de pechugas para emprendimiento de milanesas, compra de tela para taller en el barrio Avenida Argentina, prestamo para emprendimiento productivo, pago inscripción del congreso de entramados productivos  
+__Acción Directa__: Banderines, tela y caños, compra de libro, Impresión y corte de calcomanías, Encomiendas lentes, regalo disertante de taller de genero, Panes, Banderines, corte, remallado y sublimado, Compra de pinturas para las actividades de Ni una Menos, Ayuda económica a agrupación barrial de rugby.  
+__Caja concejo__: ayudas por demandas urgentes  
+__Comunicación__: Publicidad para el video de rotacion en facebook  
+__Máquina__: pago de seguro
 
 #### Octubre 2017
 
@@ -114,6 +129,12 @@ __Comunicación__: Pago del Dominio para la web
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_octubre_2017.jpg){:class="img_cover"}
 
+__Ojo de Barro__: Pago de Luz, Alquiler, compra de arena, pago herrero, pago mural, pago electricista, herrajes, pago gastos del programa de radio, ferretería, pinturas, chapas, tirantes de madera, cemento, herrero, placa centro, piso del barro, gastos en el corralón, zócalos, aceros, Caños marcos y puerta, Espuma,Pinturas baños, puertas, piso.  
+__Acción Directa__: Compra de Materiales para Los Orillas, cuota a entrenadora, Ayuda para pasajes a competencia de pesa, ayuda para la carrera de Miguel.  
+__Ayudas Puntuales__: ayudas por demandas urgentes  
+__Enredar__: Compra de elastico para Av Argentina, Pago de clases a Sandra en Av Argentina,Compra materiales para bandejas, Compra de remera No a la Baja para sortear en MegaRock, gastos varios, Pasantía rendada Nahuel en el Itec, Compra de pollos para emprendimiento.  
+__La Vaca__: sellos  
+__Máquina__: pago seguro
 
 #### Septiembre 2017
 
@@ -121,6 +142,14 @@ __Comunicación__: Pago del Dominio para la web
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_septiembre_2017.jpg){:class="img_cover"}
 
+__Ojo de Barro__: Pago de Luz, Alquiler, gastos de albalinería, aceros, tirantes, pintura, ferretería, herrero, electricista, compra de chapas transparentes, perfil C, gomas para chapas, compra alrtículos de limpieza, cemento, rejillas, arena, caños canaleta, corralón, Arte cred cemento para piso, Carro escombro, maderas, plomero, inodoro mochila,   
+__Acción Directa__: Pago del resto del transmisor de radio, Pago de pasajes desde Tucuman para el oftalmologo, Ferreteria para el invernadero, Compra de una caja de gotas para dilatar las pupilas, ayuda a Potrero de Mi Barrio y Pago de pasajes a psicologa para el consejo de niñez    
+__Ayudas Puntuales__: demandas urgentes por salud, ayuda al proyecto de tapitas del garrahan, cuota a entrenadora de fútbol, compra calefón.  
+__Enredar__: Emprendimiento mamas Orillas, Compra de Frascos, Compra de productos de la cooperativa de La Casa de Luna, Compra mayorista de insumos para 3 emprendimientos  
+__CDC__: Pago de salon, Hotel para Anesini, Publicidad, Banner y porta banner  
+__Comunicación__: Compra del disco externo de 2 tb  
+__Máquina__: gasoil  
+__Entreayudarnos__: Compra de cierre, Biglione
 
 #### Agosto 2017
 
