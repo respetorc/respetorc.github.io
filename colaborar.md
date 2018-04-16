@@ -5,6 +5,4 @@ permalink: /colaborar/
 img: bheema-2.PNG
 ---
 
-## Particiá
-
-## Doná
+## Sitio en Construcción

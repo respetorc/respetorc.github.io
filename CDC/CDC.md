@@ -1,20 +1,18 @@
 ---
 layout: post
 title: Concejo Deliberante Ciudadano Río Cuarto (CDC)
-permalink: /cdc/	
-img: ODB.jpg
+permalink: /cdc/
+img: CDC9.jpg
 ---
 
+
+
 ## Un espacio de encuentro y ejercicio ciudadano por otra cultura política
-
-
-__¿Qué es el CDC? ¿Quiénes somos? ¿Qué soñamos? y ¿qué hacemos para nuestra ciudad?__
-
 
 El Concejo Deliberante Ciudadano (CDC) comenzó a sesionar a mediados de 2016 a partir de una convocatoria realizada por el Colectivo Respeto que, entre sus propuestas de campaña para la elección de intendente de la ciudad, contemplaba el fomento y acompañamiento de instancias de participación ciudadana directa. La invitación fue dirigida al conjunto de los vecinos independientemente de su filiación partidaria. Amplia y abierta, la convocatoria fue y sigue siendo para todxs aquellos vecinos deseosos de participar y organizarse en pos de mejorar las  condiciones de vidas de quienes habitamos la ciudad.  
 
 
-Foto CDC
+![CDC]({{site.baseurl}}/img/CDC9.jpg){:class="img_full"}
 
 
 Desde entonces, el Concejo Deliberante Ciudadano (CDC) se fue construyendo como un espacio de encuentro y ejercicio ciudadano que brega por la construcción de una __democracia más directa y participativa__. Donde los vecinos que lo deseen nos encontramos quincenalmente de forma plural y organizada, a debatir caminos para resolver los problemas que nos aquejan, emprender acciones políticas en ese sentido e incluso instancias de autogestión.
@@ -27,8 +25,7 @@ Los vecinos que impulsamos el CDC pretendemos un “cambio de la cultura políti
 Por intermedio del CDC, visibilizamos nuestras voces, preocupaciones e ideas. Hacemos públicos nuestros reclamos y propuestas. Presentamos proyectos y posicionamientos a los Concejales locales, impulsamos y acompañamos proyectos sociales e intentamos resolver distintos pedidos y consultas que nos llegan de vecinos de la ciudad y la región. Nos mantenemos informados sobre lo que acontece en la ciudad, nos entreayudamos y empoderamos entre todos para seguir aprendiendo a ser y actuar como ciudadanos organizados que velamos por el cumplimiento de los derechos de todos.
 
 
-Foto audiencia
-
+![CDC]({{site.baseurl}}/img/audienciapublicaya.JPG){:class="img_full"}
 
 #### ¿Cómo funciona el CDC?
 

@@ -2,7 +2,7 @@
 layout: post
 title: EnRedar
 permalink: /proyectos/enredar/
-img: lost-5.jpg
+img: enRedar.jpg
 ---
 
 __EnRedar__ es un proyecto que busca que las  personas que llevan a cabo un emprendimiento a una pequeña escala, personal o colectivo puedan unirse, a pesar de que sus emprendimientos son distintos.
