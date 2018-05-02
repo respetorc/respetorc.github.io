@@ -8,7 +8,7 @@ email: respetoriocuarto@gmail.com
 
 # Server
 baseurl: ""
-url: "https://respeto.org.ar"
+url: "respeto.org.ar"
 
 # Pagination configuration
 paginate: 12
