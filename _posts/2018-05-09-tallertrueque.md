@@ -13,6 +13,7 @@ __En contextos de crisis, estos lazos de solidaridad, suelen crecer y afianzarse
 
 En la actualidad vivimos en una situación de inestabilidad económica, que  nos empuja a la búsqueda de nuevas, o retomar viejas formas de suplir las necesidades esenciales  para la vida.
 
+
 #### Objetivo
 
 Convocar a un Taller Vivencial del Trueque, para poder entre todes generar  un espacio de construcción de confianza necesaria para la ayuda mutua y reflexión permanente.  “Promoviendo relaciones solidarias, de trabajo, género, consumo y con la naturaleza, sin explotación de ningún tipo. También relaciones justas e igualitarias entre mujeres, hombres” y personas no binarias (cita de Reglamento de Feria Agroecológica de Córdoba).
@@ -24,7 +25,6 @@ Utilizar una moneda social __(“Río”)__, de emisión en papel común recicla
 Además, recibirá  100 Ríos a cambio de una canasta de alimentos no perecederos por el valor de $100, para la creación de un “Fondo de Respaldo”  (Proveeduría de alimentos no perecederos). En total cada participante recibirá en préstamo 600Ríos para intercambiar en la jornada, ya sea de la oferta de los demás participantes o del Fondo de Respaldo.  
 Cada persona participante deberá inscribirse previamente a fin de regular la impresión de moneda  (los “Ríos”) y coordinar y composición de la oferta existente en la feria.  
 
-
 #### Tareas previstas
 
 
@@ -35,6 +35,15 @@ Cada persona participante deberá inscribirse previamente a fin de regular la im
 • Preparación del espacio en la jornada y acondicionamiento posterior.  
 • Sistematizaciòn y registro de la Jornada, en tiempo real, a fin de poder tener elementos de reflexión de la práctica in-situ.  
 • Cualquier otra tarea que se encuentre necesaria en las conversaciones de la mesa de coordinación.
+
+#### Actividades
+
+Encuentro y Ronda de presentación de participantes y acuerdos. Armado de la feria. Entrega de la moneda social "Río". Momento de Trueque.  
+Cierre y Reflexión de la Jornada.  
+La inscripción al Taller Vivencial del Trueque será gratuita. Cada participante recibirá en forma de préstamo para intercambiar en la jornada 600 Ríos.  
+Cada participante deberá llevar el equivalente a $500 en productos, alimentos u oferta de servicios y alimentos no perecederos por equivalente a $100.
+
+Para MÁS información, escribir a __artextilmagenta@gmail.com__ o llamar al telefono __358 4830528__  
 
 __La primer Jornada ocurrirá el 26 de mayo, de 15.30hs a 18.30hs, en el Ojo de Barro, Espacio Cultural Bolívar 373. Se prevée dos horas de armado de feria e intercambio y una hora para la reflexión colectiva de la experiencia.
 Se prevee un espacio para niñes.__
