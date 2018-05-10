@@ -10,15 +10,13 @@ Está pensado para ofrecer múltiples alternativas para la gestión incluyente d
 
 __OJO DE BARRO__ busca constituirse en un lugar de encuentro de diversas expresiones del arte y la cultura de la Región en Río Cuarto a través de las articulaciones con otras organizaciones, grupos y procesos existentes.
 
-
----
-
 ### Talleres Regulares:
 
-__Talleres en curso:__ Orquesta de Instrumentos Autóctonos, Yoga dinámico, Danza e improvisación, Folcklore, Tango, Malambo, Canto Grupal.  
-__Talleres que comienzan en Abril:__ Fotografía, Poesía, Narrativa, Xperimento Libr Xpresión (Hip Hop).  
-__Talleres para niñxs:__ Artes pláticas, Teatro, Iniciación a la danza, Iniciación musical (Percusión).
+![imagen]({{site.baseurl}}/img/ODBtalleres.jpeg){:class="img_full"}
 
+![imagen]({{site.baseurl}}/img/ODBtalleres.jpeg){:class="img_cover"}
+
+---
 
 
 ### Agenda de Actividades y Eventos en Marzo
