@@ -5,7 +5,7 @@ img: trueque3.jpg
 ---
 
 
-Enredar es una red de emprendedorxs que trabajan por generar vínculos solidarios entre productorxs y consumidorxs, es decir entre prosumidorxs.  Es por esto que uno de nuestros objetivos es crear e impulsar espacios en donde sea posible  encontrarse, conocerse y crear lazos de confianza y solidaridad.
+Enredar es una red de emprendedorxs que trabajan por generar vínculos solidarios entre productorxs y consumidorxs, es decir entre prosumidorxs.  Es por esto que uno de nuestros objetivos es crear e impulsar espacios en donde sea posible  encontrarse, conocerse y crear lazos de confianza y solidaridad. Por eso invitamos a prosumidorxs, organizaciones que quieran sumarse a formar parte de esta iniciativa y crear juntos el taller vivencial del trueque.
 
 __En contextos de crisis, estos lazos de solidaridad, suelen crecer y afianzarse.__
 
@@ -25,16 +25,6 @@ Utilizar una moneda social __(“Río”)__, de emisión en papel común recicla
 Además, recibirá  100 Ríos a cambio de una canasta de alimentos no perecederos por el valor de $100, para la creación de un “Fondo de Respaldo”  (Proveeduría de alimentos no perecederos). En total cada participante recibirá en préstamo 600Ríos para intercambiar en la jornada, ya sea de la oferta de los demás participantes o del Fondo de Respaldo.  
 Cada persona participante deberá inscribirse previamente a fin de regular la impresión de moneda  (los “Ríos”) y coordinar y composición de la oferta existente en la feria.  
 
-#### Tareas previstas
-
-
-• Convocatoria de artesanos, productores, pro-sumidores, emprendedores, etc.. a la conformación de una mesa de coordinación abierta, para las tareas necesarias.  
-• Inscripción de interesades.  
-• Diseño, emisión y sellado de la moneda social “Río”.  
-• Acondicionamiento y tareas de acompañamiento para el espacio de niñes y infantes.  
-• Preparación del espacio en la jornada y acondicionamiento posterior.  
-• Sistematizaciòn y registro de la Jornada, en tiempo real, a fin de poder tener elementos de reflexión de la práctica in-situ.  
-• Cualquier otra tarea que se encuentre necesaria en las conversaciones de la mesa de coordinación.
 
 #### Actividades
 
