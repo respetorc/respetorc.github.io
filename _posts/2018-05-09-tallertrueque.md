@@ -7,7 +7,7 @@ img: trueque3.jpg
 
 Enredar es una red de emprendedorxs que trabajan por generar vínculos solidarios entre productorxs y consumidorxs, es decir entre prosumidorxs.  Es por esto que uno de nuestros objetivos es crear e impulsar espacios en donde sea posible  encontrarse, conocerse y crear lazos de confianza y solidaridad.
 
-__En contextos de crisis, estos lazos de solidaridad, suelen crecer y afianzarse.__
+__En contextos de crisis, estos lazos de solidaridad, suelen crecer y afianzarse__
 
 ![trueque]({{site.baseurl}}/img/trueque.jpeg){:class="img_full"}
 
