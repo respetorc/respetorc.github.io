@@ -2,19 +2,16 @@
 layout: post
 title: Fondo de Ahorros
 permalink: /fondo_de_ahorros/
-img: lost-5.jpg
+img: vaquita.jpg
 ---
 
-## Fondo de ahorros de salarios para la autogestion
+## Fondo de ahorros de salarios para la autogestión
 
 
 Desde que asumimos el compromiso de formar este nuevo Partido Político hicimos un fuerte hincapié en la transparencia. Así como desde nuestro posicionamiento ético y político consideramos un derecho fundamental el acceso de todxs lxs ciudadanxs a las cuentas municipales; también nos parece importante que todxs conozcan que hacemos con el dinero público que ahorramos de los salarios.  
-
-Después de las elecciones, una vez obtenidos los cargos y haber fijado los topes que iba a ganar cada un@, comenzamos con el Fondo de Ahorros por el cuál hemos ahorrado hasta marzo de 2018 1.727.032 $ como se puede ver en las burbujas de 2016, 2017 y 2018.  
-
-Este ahorro, que hemos administrado colectivamente, ha ido variando a lo largo del tiempo como se observa en el 2do gráfico; es decir, no acumulamos el dinero público sino que lo vamos utilizando para diversos proyectos como pueden ver en el gráfico de barra donde especificamos a donde ha ido a parar el dinero. Gracias a este compromiso hemos podido realizar inumerables acciones ya que desde el poder legislativo han sido aprobados sólo 9 de los 58 proyectos presentados al terminar el 2017.
-
-Hacemos un gran esfuerzo para poder sostener todos los proyectos que iniciamos sin descuidar los espacios institucionales que ocupamos.
+Después de las elecciones, una vez obtenidos los cargos y haber fijado los topes que iba a ganar cada un@, comenzamos con el Fondo de Ahorros por el cuál hemos ahorrado hasta Junio de 2018 2.036.550 $ como se puede ver en las burbujas de 2016, 2017 y 2018.  
+Este ahorro, que hemos administrado colectivamente, ha ido variando a lo largo del tiempo como se observa en el 2do gráfico; es decir, no acumulamos el dinero público sino que lo vamos utilizando para diversos proyectos como pueden ver en el 3er gráfico de barra donde especificamos a donde ha ido a parar el dinero. Gracias a este compromiso hemos podido realizar inumerables acciones ya que desde el poder legislativo han sido aprobados sólo 9 de los 58 proyectos presentados al terminar el 2017.  
+Hacemos un gran esfuerzo para poder sostener todos los proyectos que iniciamos sin descuidar los espacios institucionales que ocupamos.  
 Queremos agradecer a todxs los ciudadanxs que nos acompañan en este intento de fomentar una nueva cultura política transparente y siempre apostando al bien común.
 
 __Partido Respeto, Una Nueva Cultura Política__
@@ -23,24 +20,46 @@ __Partido Respeto, Una Nueva Cultura Política__
 ### Transparencia desde Agosto de 2016 a Marzo 2018
 
 
-![grafico]({{site.baseurl}}/img/ahorrosrespeto.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/ahorrosrespeto_hastajunio.jpg){:class="img_full"}
 
 
-![grafico]({{site.baseurl}}/img/ahorroeneltiempo_hastamarzo2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/ahorroeneltiempo_hastajunio2018.jpg){:class="img_cover"}
 
 
-![grafico]({{site.baseurl}}/img/gastosporproyecto_hastamarzo2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastosporproyecto_hastajunio2018.jpg){:class="img_cover"}
 
+---
 
 ### Transparencia Mensual
 
+#### Junio 2018
+
+![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_Junio_2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_Junio_2018.jpg){:class="img_cover"}
+
+---
+
+#### Mayo 2018
+
+![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_Mayo_2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_Mayo_2018.jpg){:class="img_cover"}
+
+---
+
+#### Abril 2018
+
+![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_abril_2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_abril_2018.jpg){:class="img_cover"}
+
+---
 
 #### Marzo 2018
 
 
-![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzo_2018.jpg){:class="img_full"}
-
-Ahorramos de los salarios 154.225$, gastamos 117.818$, quedándonos 36.407$ de saldo Mensual que hacen un total de 87.623$ de ahorro acumulado.
+![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzoo_2018.jpg){:class="img_full"}
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_marzo_2018.jpg){:class="img_cover"}
 
@@ -68,6 +87,7 @@ __Comunicación__: Publicidad de Facebook
 
 __Maquina__: pago del seguro
 
+---
 
 #### Febrero 2018
 
