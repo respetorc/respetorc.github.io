@@ -17,11 +17,12 @@ Queremos agradecer a todxs los ciudadanxs que nos acompañan en este intento de 
 __Partido Respeto, Una Nueva Cultura Política__
 
 
-### Transparencia desde Agosto de 2016 a Marzo 2018
+### Transparencia desde Agosto de 2016 a Junio 2018
 
 
 ![grafico]({{site.baseurl}}/img/ahorrosrespeto_hastajunio.jpg){:class="img_full"}
 
+##### Total Ahorrado: 2.036.550 $
 
 ![grafico]({{site.baseurl}}/img/ahorroeneltiempo_hastajunio2018.jpg){:class="img_cover"}
 
@@ -58,33 +59,25 @@ __Partido Respeto, Una Nueva Cultura Política__
 
 #### Marzo 2018
 
-
-![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzoo_2018.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzo_2018){:class="img_full"}
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_marzo_2018.jpg){:class="img_cover"}
 
 
-__Ojo de Barro__: Pago de Luz y Alquiler, internet, chapa galvanizada para ventana, rejas, gastos de pintura, ferretería
-
-
+__Ojo de Barro__: Pago de Luz y Alquiler, internet, chapa galvanizada para ventana, rejas, gastos de pintura, ferretería  
 __Acciones directas__:  
  -Ayuda a la unión hace el encuentro  
  -Gastos de la construcción del Multiespacio de la Agrupación "Los Orillas"  
  -Maquina de cortar el pelo para proyecto de cortes de pelo en los barrios  
  -Ayuda al Foro por la libertad y la democracia para marcha del 24 de marzo  
- -Ayuda a Vivero Comunitario  
-
+ -Ayuda a Vivero  
  __Enredar__:  
  -dinero para taller de huevos de pascua  
  -pasaje para curso de formación (pre foro de economía social) de emprendedora  
  -subsidio para compra de telas  
-
-__La vaca__: Pago a contadora por balance
-
-__Elecciones__: Compra de fichas de afiliación
-
-__Comunicación__: Publicidad de Facebook
-
+__La vaca__: Pago a contadora por balance  
+__Elecciones__: Compra de fichas de afiliación  
+__Comunicación__: Publicidad de Facebook  
 __Maquina__: pago del seguro
 
 ---
