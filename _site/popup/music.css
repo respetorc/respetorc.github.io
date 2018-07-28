@@ -1,0 +1,18 @@
+body {
+  background-color: #000000;
+  scrollbar-base-color: #000000;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.background {
+  background-color: #000000;
+  background-image: url("background-music.jpg");
+  background-repeat: no-repeat;
+}
+
+.c {
+  padding-left: 20%;
+  padding-top: 20%;
+}
