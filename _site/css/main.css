@@ -162,6 +162,10 @@ iframe {
   right: 0;
   top: 80px;
 }
+
+.radio-en-linea img {
+  cursor: pointer;
+}
 /**************************************************************
   Entry
   url /web
