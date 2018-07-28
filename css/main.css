@@ -156,6 +156,12 @@ iframe {
     text-align: center;
     padding-top: 130px;
 }
+
+.radio-en-linea {
+  position: absolute;
+  right: 0;
+  top: 80px;
+}
 /**************************************************************
   Entry
   url /web

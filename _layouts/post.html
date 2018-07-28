@@ -9,12 +9,17 @@
       {% if page.img %}
       <div class="header-image"
            style="background-image: url({{ site.baseurl }}/img/{{ page.img }})">
-</div>
+      </div>
 
       <meta property="og:image" content="{{ site.baseurl }}/img/{{ page.img }}" />
 
       {% else %}
       {% endif %}
+
+      <!-- Radio en vivo link -->
+      <div class="radio-en-linea">
+        <img src="/img/logos/endirecto.gif" onclick="window.open('/popup/radio.html', '_blank', 'location=yes,height=200,width=400,scrollbars=yes,status=yes');" />
+      </div>
     </header>
 
     <article class="post">
