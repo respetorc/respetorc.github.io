@@ -10,6 +10,8 @@ Está pensado para ofrecer múltiples alternativas para la gestión incluyente d
 
 __OJO DE BARRO__ busca constituirse en un lugar de encuentro de diversas expresiones del arte y la cultura de la Región en Río Cuarto a través de las articulaciones con otras organizaciones, grupos y procesos existentes.
 
+khudsckhsdchds
+
 ### Talleres Regulares:
 
 ![imagen]({{site.baseurl}}/img/ODBtalleres2.jpeg){:class="img_cover"}
