@@ -2,9 +2,28 @@
 layout: post
 title: Radio en Linea
 permalink: /radio/
-img: CDC9.jpg
+img: radio2.jpeg
 ---
 
-## Spam
+## Programación
 
-El Concejo Deliberante Ciudadano (CDC) comenzó a sesionar a mediados de 2016 a partir de una convocatoria realizada por el Colectivo Respeto que, entre sus propuestas de campaña para la elección de intendente de la ciudad, contemplaba el fomento y acompañamiento de instancias de participación ciudadana directa. La invitación fue dirigida al conjunto de los vecinos independientemente de su filiación partidaria. Amplia y abierta, la convocatoria fue y sigue siendo para todxs aquellos vecinos deseosos de participar y organizarse en pos de mejorar las  condiciones de vidas de quienes habitamos la ciudad.
+#### Megarock
+__Domingos 20 hs__  
+Locución:
+__Magui__, __Luchi__, __Klauss__ y __Pablo__
+
+![imagen]({{site.baseurl}}/img/megarock1.jpeg){:class="img_full"}
+
+
+#### Magnetic
+__Jueves 19 hs__  
+Locución: __Nahuel Castro__ y __Ema Sabarini__
+
+![imagen]({{site.baseurl}}/img/magnetic1.jpeg){:class="img_full"}
+
+![imagen]({{site.baseurl}}/img/magnetic2.jpeg){:class="img_full"}
+
+
+### Ojo de Barro Online, la radio de todxs
+
+![imagen]({{site.baseurl}}/img/radio1.jpeg){:class="img_cover"}
