@@ -14,6 +14,7 @@ __Magui__, __Luchi__, __Klauss__ y __Pablo__
 
 ![imagen]({{site.baseurl}}/img/megarock1.jpeg){:class="img_full"}
 
+[Programa N°3: segunda parte](https://archive.org/details/ojodebarro_megarock_3)
 
 #### Magnetic
 __Jueves 19 hs__  
@@ -23,6 +24,8 @@ Locución: __Nahuel Castro__ y __Ema Sabarini__
 
 ![imagen]({{site.baseurl}}/img/magnetic2.jpeg){:class="img_full"}
 
+
+[Programa N°4 completo](https://archive.org/details/ojodebarro_magnetic_4)
 
 ### Ojo de Barro Online, la radio de todxs
 
