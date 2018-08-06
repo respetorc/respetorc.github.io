@@ -16,7 +16,7 @@ __Magui__, __Luchi__, __Klauss__ y __Pablo__
 
 [Programa N°1: completo](https://archive.org/details/ojodebarro_megarock_1)
 
-[Programa N°2: completo](https://archive.org/details/ojodebarro_megarock_2)
+[Programa N°2: segunda parte](https://archive.org/details/ojodebarro_megarock_2)
 
 [Programa N°3: segunda parte](https://archive.org/details/ojodebarro_megarock_3)
 
