@@ -41,7 +41,7 @@ Locución: __Nahuel Castro__ y __Ema Sabarini__
 __Miércoles 21hs__  
 Locución: Liliana Sardonio  
 
-![imagen]({{site.baseurl}}/img/amigosporlaradio.jpeg){:class="img_full"}  
+![imagen]({{site.baseurl}}/img/amigosenlaradio.jpeg){:class="img_full"}  
 
 [Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)
 
