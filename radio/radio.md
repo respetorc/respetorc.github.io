@@ -2,8 +2,10 @@
 layout: post
 title: Radio en Linea
 permalink: /radio/
-img: radio2.jpeg
+img: ojodebarroenlinea.jpg
 ---
+
+Visita y escucha la Recopilación de Radios Libres y Comunitarias en el siguiente link: [Radios Comunitarias](www.respeto.org.ar/radios)
 
 ## Programas Locales
 
