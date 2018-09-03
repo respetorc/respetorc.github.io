@@ -5,7 +5,7 @@ permalink: /radio/
 img: ojodebarroenlinea.jpg
 ---
 
-Visita y escucha la Recopilación de Radios Libres y Comunitarias en el siguiente link: [Radios Comunitarias](https://respeto.org.ar/radios)
+Visita y escucha la Recopilación de Radios Libres y Comunitarias en el siguiente link: [Radios Comunitarias](https://wwww.respeto.org.ar/radios)
 
 ## Programas Locales
 
