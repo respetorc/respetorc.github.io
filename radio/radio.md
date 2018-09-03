@@ -5,7 +5,7 @@ permalink: /radio/
 img: ojodebarroenlinea.jpg
 ---
 
-Visita y escucha la Recopilación de Radios Libres y Comunitarias en el siguiente link: [Radios Comunitarias](www.respeto.org.ar/radios)
+Visita y escucha la Recopilación de Radios Libres y Comunitarias en el siguiente link: [Radios Comunitarias](https://respeto.org.ar/radios)
 
 ## Programas Locales
 
@@ -23,6 +23,8 @@ __Magui__, __Luchi__, __Klauss__ y __Pablo__
 [Programa N°2: segunda parte](https://archive.org/details/ojodebarro_megarock_2)
 
 [Programa N°3: segunda parte](https://archive.org/details/ojodebarro_megarock_3)
+
+[Programa N°5:](https://archive.org/details/ojodebarro_megarock_6)
 
 #### Magnetic  
 __Jueves de 19 a 21 hs__  
@@ -47,6 +49,10 @@ Locución: Liliana Sardonio
 
 [Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)
 
+[Programa N°2](https://archive.org/details/ojodebarro_amigosenlaradio_2)
+
+[Programa N°3](https://archive.org/details/ojodebarro_amigosporlaradio_3)
+
 ## Programas Regionales
 
 #### Cuando el Río Suena
@@ -55,3 +61,7 @@ __Martes de 9 a 11hs__
 ![imagen]({{site.baseurl}}/img/cuandoelriosuena.jpg){:class="img_full"}
 
 [Programa N°1](https://archive.org/details/ojodebarro_cuandoelriosuena_1)
+
+[Programa N°2](https://archive.org/details/ojodebarro_cuandoelriosuena_2)
+
+[Programa N°3](https://archive.org/details/ojodebarro_cuandoelriosuena_3)
