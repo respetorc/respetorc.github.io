@@ -54,11 +54,10 @@ Locución: Liliana Sardonio
 
 ![imagen]({{site.baseurl}}/img/amigosenlaradio.jpeg){:class="img_full"}  
 
-[Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)
-
-[Programa N°2](https://archive.org/details/ojodebarro_amigosenlaradio_2)
-
-[Programa N°3](https://archive.org/details/ojodebarro_amigosporlaradio_3)
+[Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)  
+[Programa N°2](https://archive.org/details/ojodebarro_amigosenlaradio_2)  
+[Programa N°3](https://archive.org/details/ojodebarro_amigosporlaradio_3)  
+[Programa 10/10/18](https://archive.org/details/ojodebarro_amigosenlaradio_10_10) Artista: Tito Gómez Trío 
 
 ## Programas Regionales
 
