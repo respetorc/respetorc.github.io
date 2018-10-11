@@ -56,12 +56,12 @@ __EL RÍO SUENA POR EL INCENDIO FORESTAL DE ALPA CORRAL__ (22/9/18)
 En esta nueva emisión, hablaremos sobre el incendio forestal que azota en Alpa Corral.Tendremos la columna de Arte, a cargo de Clarita Eva Cisneros, sobre "Historia de una monja muy picante".  
 También a Pablo Fernández haciendo revisionismo historico.  
 Desde las Albahacas, contaremos con nuestra corresponsal Soledad Sanarini.
-[Escuchá el Programa N° 39 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_7)
+[Escuchá el Programa N° 39 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_39)
 
 __EL RÍO SUENA PARA ANALIZAR EL INCENDIO FORESTAL DE ALPA CORRAL__ (29/9/18)  
 En esta nueva emisión, analizaremos junto a bomberos voluntarios de Alpa Corral los resultados que arrojó el reciente incendio forestal. También hablaremos con el concejal Franco Altamirano sobre la ordenanza de Río Cuarto que fomenta la construcción natural. En "Corral de tierra somos", conoceremos la historia de la vecina Mercedes Rosa Paredes, en tanto que, en "Campo y sabor", seguiremos con los secretos prohibidos de los Comechingones. En el espacio "Buen vivir", referiremos las características de un Estado plurinacional.  
-[Escuchá el Programa N° 40 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_8)
+[Escuchá el Programa N° 40 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_40)
 
 __EL RÍO SUENA CON EL ENCUENTRO NACIONAL DE MUJERES__ (6/10/18)  
 En esta nueva emisión, nos acercamos al Encuentro Nacional de Mujeres Chubut 2018, que se realizará en la ciudad de Trelew durante los días 13, 14 y 15 del corriente mes para "debatir, intercambiar, crear y marchar por los derechos del género". Pablo Fernández se referirá a la carta del cacique Guaycaipuru Cuahatemoc ante los jefes de Estado europeos. Clara Eva Cisneros nos presenta el arte de Hildegarda, una monja muy picante  (segunda parte). Y, desde el Ojito de Agua, de Las Albahacas, Micaela Violeta nos trae la historia del hombre que volaba con los cóndores...  
-[Escuchá el Programa N° 41 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_9)
+[Escuchá el Programa N° 41 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_41)
