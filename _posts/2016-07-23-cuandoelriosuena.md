@@ -40,12 +40,12 @@ En esta nueva emisión, autovia de montaña en Punilla: más irregularidades y r
 
 __EL RÍO SUENA EN LA LUCHA DE LAS UNIVERSIDADES PÚBLICAS__ (1/9/18)  
 En esta nueva emisión, nos referiremos a las universidades públicas en pie de lucha y a la marcha en Córdoba por la autovía de montaña en Punilla. En la columna de arte, conoceremos "quién era la mamá de Frankestein". En campo y sabor, abordaremos algunos secretos prohibidos de los comechingones. Micaela Violeta contarála historia del Juna.  
-[Escuchá el Programa N° 36 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_4)
+[Escuchá el Programa N° 36 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_4_1)
 
 
 __EL RÍO SUENA POR LA LEY DE SEMILLAS__ (8/9/18)  
 En esta nueva emisión, hablaremos sobre la Ley de Semillas. En Corral de Tierra Somos, tendremos la segunda parte de Fermín Tejerina y Sara Rommo. Pablo Fernández continuará con su columna de pueblos originarios y conoceremos sus propuestas de el "buen vivir".  
-[Escuchá el Programa N° 37 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_5)  
+[Escuchá el Programa N° 37 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_4)  
 
 
 __EL RÍO SUENA POR LA AGRICULTURA FAMILIAR__ (15/9/18)  
