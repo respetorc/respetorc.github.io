@@ -47,10 +47,14 @@ Locución: Liliana Sardonio
 
 ![imagen]({{site.baseurl}}/img/amigosenlaradio.jpeg){:class="img_full"}  
 
-[Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)  
-[Programa N°2](https://archive.org/details/ojodebarro_amigosenlaradio_2)  
-[Programa N°3](https://archive.org/details/ojodebarro_amigosporlaradio_3)  
-[Programa 10/10/18](https://archive.org/details/ojodebarro_amigosenlaradio_10_10) Artista: Tito Gómez Trío
+[Programa N°1](https://archive.org/details/ojodebarro_amigosenlaradio_1)  Artista/Grupo: __Milton Arias__ Disco Presentado: [50 el Caldero](https://www.youtube.com/watch?v=xpo51WX9Yd4)  
+[Programa N°2](https://archive.org/details/ojodebarro_amigosenlaradio_2)  Artista/Grupo: __Alejandro Manzoni__. Disco Presentado: [Las 3 Orillas](https://www.youtube.com/watch?v=1qlZuLf33F4)  
+[Programa N°3](https://archive.org/details/ojodebarro_amigosporlaradio_3) Artista/Grupo: __Daniel Pipi Piazolla__. Disco presentado:[Transmutación](https://www.youtube.com/watch?v=_sPxncRTDd4)  
+[Programa N°4](https://archive.org/details/ojodebarro_amigosenlaradio_4) Artista/Grupo: __Hernán Jacinto__. Discos presentados: Lúa y [Caminos](https://www.youtube.com/watch?v=0PQPdcvpsss)  
+[Programa N°5](https://archive.org/details/ojodebarro_amigosenlaradio_5) Artista/Grupo: __Hugo Fattoruso__. Disco presentado:[O último blues](https://www.youtube.com/watch?v=bT9fs92Z410)  
+[Programa N°6](https://archive.org/details/ojodebarro_amigosenlaradio_6) Artista/Grupo: __Horacio Fumero__  
+[Programa N°7](https://archive.org/details/ojodebarro_amigosenlaradio_7) Artista/Grupo: __Monos con navaja__  
+[Programa 10/10/18](https://archive.org/details/ojodebarro_amigosenlaradio_10_10) Artista/Grupo: __Tito Gómez Trío__
 
 ## Programas Regionales
 
