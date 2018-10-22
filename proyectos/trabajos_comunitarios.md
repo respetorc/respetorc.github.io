@@ -32,4 +32,18 @@ Antes
 ![CAT]({{site.baseurl}}/img/CAT_recuperadores2.jpeg){:class="img_full"}  
 Después  
 
+#### Septiembre 2018
+
+__Construcción de Túnel de Siembra en la Huerta de Domingo__  
+![CAT]({{site.baseurl}}/img/domingo_5.jpeg){:class="img_full"}  
+
+---
+
+__Colaboración con la iniciación de Huerta Familiar__  
+![CAT]({{site.baseurl}}/img/naza1.jpeg){:class="img_full"}  
+
+---
+
+
+
 ## Sitio en construcción
