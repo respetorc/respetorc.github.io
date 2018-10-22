@@ -12,13 +12,8 @@ Está compuesto por una __Comisión ejecutiva__ (Secretario de Planificación, D
 
 Como Bloque tenemos la intención de poder __debatir__ sobre las políticas urbanas, entendiendo que en Río Cuarto el crecimiento territorial se manifiesta con cambios bruscos ligados a las variables económicas, quedando el mercado con un rol regulador del desenlace urbano.  
 Entendemos que las urbes son creaciones culturales, en donde se concentra la mayor cantidad de la población, y como tal, su conformación, distribución espacial, usos y dominios son el reflejo y la expresión de las interacciones sociales de sus habitantes.    
-Frente a esto, buscamos cambiar el rol pasivo del ciudadano para involucrarlo en la construcción de la ciudad en la que viven, para general modelos territoriales más participativos y ambientalmente más sustentables. De esta forma, cualquier ciudadan@ que tenga una propuesta que crea que pueda contribuir en este sentido, se puede acercar al bloque para llevarla a este espacio institucional que siempre a sido de muy difícil acceso para lxs ciudadanxs. 
+Frente a esto, buscamos cambiar el rol pasivo del ciudadano para involucrarlo en la construcción de la ciudad en la que viven, para general modelos territoriales más participativos y ambientalmente más sustentables. De esta forma, cualquier ciudadan@ que tenga una propuesta que crea que pueda contribuir en este sentido, se puede acercar al bloque para llevarla a este espacio institucional que siempre a sido de muy difícil acceso para lxs ciudadanxs.
 
-
-## IMV
-
-
-## FUNDEMUR
 
 
 ## Consejo Municipal de  NIÑEZ Y JUVENTUD
@@ -26,27 +21,21 @@ Frente a esto, buscamos cambiar el rol pasivo del ciudadano para involucrarlo en
 El mismo está integrado   por  el intendente, el sec. De gobierno, organismos estatales, partidos políticos, ONGs, colegios y vecinales.
 Los principales objetivos son:
 
-* _Promover la protección integral de los derechos de niñas, niños y jóvenes en la ciudad de Río Cuarto_  
-* _Fomentar la participación social en las políticas, proyectos y acciones que busquen la protección integral de los derechos de niñas, niños y jóvenes_.  
-* _Monitorear la implementación de políticas públicas que tienen incidencia en la vida de los niños, niñas y jóvenes de la ciudad_.  
-* _Promover la consecución de recursos públicos y privados para la implementación de un plan de acción local orientado al mejoramiento de las condiciones de vida y/o plena vigencia de los derechos de los niños, niñas y jóvenes de la ciudad_  
-* _Institucionalizar la participación de diferentes sectores de la comunidad con relación a la niñez y la juventud._
+-Promover la protección integral de los derechos de niñas, niños y jóvenes en la ciudad de Río Cuarto_  
+-Fomentar la participación social en las políticas, proyectos y acciones que busquen la protección integral de los derechos de niñas, niños y jóvenes_.  
+-Monitorear la implementación de políticas públicas que tienen incidencia en la vida de los niños, niñas y jóvenes de la ciudad_.  
+-Promover la consecución de recursos públicos y privados para la implementación de un plan de acción local orientado al mejoramiento de las condiciones de vida y/o plena vigencia de los derechos de los niños, niñas y jóvenes de la ciudad_  
+-Institucionalizar la participación de diferentes sectores de la comunidad con relación a la niñez y la juventud._  
 
 Como __COLECTIVO RESPETO__, los ejes principales se direccionan en la _justicia social_ y los _derechos humanos_. Es por eso que somos parte del Consejo Municipal de  NIÑEZ Y JUVENTUD  como partido político responsable partícipe de esta sociedad. El objetivo primodial de nuestro colectivo es detectar las necesidades de niñxs y adolescentes para prevenir y remediar situaciones de vulneración de derechos.  
 __PROYECTOS__ que hemos realizado pensando en los niños, han sido:
 
-* Difusión del programa [“familias para familias”]({{site.baseurl}}/2_familias_para_familias.pdf)
-* Frutas para los merenderos de la ciudad
-* Niñxs en espera
-* Espacio de fortalecimiento del Rua
-
-
-
-## Consejo Municipal de Género
-
+-Difusión del programa [“familias para familias”]({{site.baseurl}}/2_familias_para_familias.pdf)  
+-Frutas para los merenderos de la ciudad  
+-Niñxs en espera  
+-Espacio de fortalecimiento del Rua  
 
 ## Consejo Municipal de Protección del Arbolado Urbano
-
 
 Desde sus inicios  Respeto hizo hincapié en la reforestación de la ciudad y en consecuencia se fueron entregando y plantando árboles nativos en diferentes plazas y plazoletas de la ciudad.  
 Tenemos una mirada clara y contundente con respecto al bosque y al árbol. En la ciudad como en el campo cumplen roles fundamentales y vitales,  su importancia en la generación de oxígeno, la conservación de los suelos, la importancia de sus frutos y madera son solo algunas de sus bondades primordiales en la vida de cualquier sociedad sana ambientalmente.  
@@ -55,7 +44,11 @@ Propusimos la creación del consejo de arbolado público de la ciudad, una herra
 
 Desde entonces se han trabajado en los siguientes temas:
 
-Y se han aprobado los siguientes dictámenes  
+-Lista de Especies Autorizadas, recomendadas, no recomendadas y prohibidas para arbolado urbano según el ancho de vereda  
+-Nuevo niñx, nuevo árbol: Se reimpulsó un proyecto por el cual para niño o niña que nace, se le entrega a la familia (en caso que tenga lugar donde plantarlo), un árbol de la lista realizada.
 
 
-## Foro por la Libertad y la Democracia
+#### Foro por la Libertad y la Democracia
+#### IMV
+#### Consejo Municipal de Género
+#### Fundemur

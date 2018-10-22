@@ -9,4 +9,27 @@ img: CAT3.jpg
 
 Adquirimos maquinarias, herramientas y vehículos de uso comunitario y lo ponemos al servicio del mejoramiento de calles, la erradicación de microbasurales, la nivelación y limpieza de terrenos, el arreglo de plazas, dispensarios y otros lugares públicos. Fomentamos la organización barrial y cooperativa para mejorar nuestros espacios comunes y generar trabajo asociativo.
 
+#### Octubre 2018
+
+__Futuro polideportivo de Cooperativa Al Toque en la Cava__  
+![CAT]({{site.baseurl}}/img/CAT_coopaltoque2.jpeg){:class="img_full"}  
+Antes  
+![CAT]({{site.baseurl}}/img/CAT_coopaltoque1.jpeg){:class="img_full"}  
+Después  
+
+ ---  
+
+__Futuro Espacio Cultural en la calle Maipú__  
+![CAT]({{site.baseurl}}/img/galpon2.jpeg){:class="img_full"}   
+
+![CAT]({{site.baseurl}}/img/galpon1.jpeg){:class="img_full"}  
+
+---
+
+__Colaboración con el predio de Recuperadores Urbanos__  
+![CAT]({{site.baseurl}}/img/CAT_recuperadores1.jpeg){:class="img_full"}  
+Antes  
+![CAT]({{site.baseurl}}/img/CAT_recuperadores2.jpeg){:class="img_full"}  
+Después  
+
 ## Sitio en construcción

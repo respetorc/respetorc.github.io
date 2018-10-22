@@ -7,24 +7,18 @@ img: oficoncejo.JPG
 
 __Respeto__ obtuvo 7.756 votos (__el 9,14%__) en las elecciones municipales, lo que nos permtió acceder a __2 bancas__ en el __Poder legislativo__ de la Ciudad. Este mismo está compuesto por 19 concejales en total, de los cuáles 10 son de la bancada oficialista de Unión por Córdoba (UPC) y 7 corresponden al frente cambiemos.
 
-Nos resulta súmamente importante que todxs lxs ciudadanxs que lo deseen, puedan tener acceso a toda la información pública; específicamente dentro del concejo deliberante, que puedan tener acceso a los proyectos y expedientes más importantes que se discuten, las órdenes del día de las sesiones con la votación sobre cada proyecto que se trata y nuestros proyectos.
-
+Nos resulta súmamente importante que todxs lxs ciudadanxs, puedan tener acceso a toda la información pública que deseen; Específicamente dentro del concejo deliberante, que puedan tener acceso a los proyectos y expedientes más importantes que se discuten, las órdenes del día de las sesiones con la votación sobre cada proyecto que se trata y nuestros proyectos. En nuestra oficina del concejo deliberante se puede consultar cualquier información de la que acabamos de mencionar.
 
 #### Concejales actuales
 
 ![Patri y Franco]({{site.baseurl}}/img/patrifranco.JPG){:class="img_full"}  
 __Franco Altamirano                                   Patricia García__
 
----
-
-
-#### Expedientes y proyectos en curso
-
 
 ---
 
 
-#### Proyectos presentados
+#### Proyectos presentados durante la primer gestión de concejalxs de Respeto
 
 
 Descarga la lista completa de los [proyectos presentados]({{site.baseurl}}/archivos/proyectos_respeto.pdf) (última actualización 31/12/2017)  
@@ -65,16 +59,27 @@ De todas formas, como colectivo tratamos de hacer todo lo posible para agilizar 
 Descarga la lista completa de las [Ayudas Económicas presentadas]({{site.baseurl}}/archivos/ayudas_economicas_respeto.pdf) (última actualización 31/12/2017)  
 
 
-#### Resúmen de sesiones
+#### Resúmen de sesiones  
 
+Más información en [Youtube](https://www.youtube.com/channel/UC4kjCFYZMhw7FLd_tcl21Gg/featured) o [Fabebook](https://www.facebook.com/pg/RespetoRioCuarto/videos/?ref=page_internal)  
 
-__8M PARO INTERNACIONAL DE MUJERES: intervención Patricia García__  
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6dfLGBLmWrc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### MAS BASURA, MENOS CONCIENCIA AMBIENTAL  
+__Jueves 18 de Octubre de 2018__
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRespetoRioCuarto%2Fvideos%2F376079273185735%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>  
+
+En la sesión de este jueves se aprobó el convenio que permite que la ciudad importe la basura de Alpa Corral. Respeto no acompañó por entender que el camino no debe ser seguir aumentando la cantidad de residuos en los basurales a cielo abierto, sino avanzar en cada comunidad, con acciones que permitan disminuir la huella ambiental que provocan las decisiones equivocadas.
+
 
 ---
 
-__RECHAZO AL NUEVO AUMENTO DE LA SAT: Franco Altamirano__  
-<iframe width="640" height="360" src="https://www.youtube.com/embed/SnCTcYKHsJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### RECORTES EN DISCAPACIDAD Y LA AMENAZA DE LA QUITA DE PENSIONES  
+__Jueves 27 de Septiembre de 2018__
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRespetoRioCuarto%2Fvideos%2F538933969891977%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Desde Bloque Respeto incorporamos un repudio y pedido al cuerpo deliberativo para tomar un firme posicionamiento para acompañar a las personas con discapacidad.  
+El decreto 432/97 atenta contra las pensiones no contributivas disfrazando esa regulación en "reempadronmiento".
 
 ---
 
@@ -82,19 +87,3 @@ __RECHAZO AL NUEVO AUMENTO DE LA SAT: Franco Altamirano__
  <iframe width="640" height="360" src="https://www.youtube.com/embed/HJGQwz5RADU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
-
-__RESERVA NATURAL URBANA SUSANA DILON: Jimena Segre__  
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gzPXqLyIRjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
-__CONTRA EL AUMENTO DEL BOLETO: Pablo Carrizo__
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nfJw0M9ryq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
-__CONTRA EL AUMENTO DEL BOLETO: Pablo Carrizo__
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Na2KODV5nRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Para más información puede seguir nuestro canal de youtube [Respeto Río Cuarto](https://www.youtube.com/channel/UC4kjCFYZMhw7FLd_tcl21Gg)
