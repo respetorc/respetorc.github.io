@@ -71,4 +71,6 @@ __EL RÍO SUENA POR LA LEY DE SEMILLAS__ (8/9/18) [Escuchá el Programa N° 37 a
 __EL RÍO SUENA POR LA AGRICULTURA FAMILIAR__ (15/9/18) [Escuchá el Programa N° 38 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_6)  
 __EL RÍO SUENA POR EL INCENDIO FORESTAL DE ALPA CORRAL__ (22/9/18) [Escuchá el Programa N° 39 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_39)  
 __EL RÍO SUENA PARA ANALIZAR EL INCENDIO FORESTAL DE ALPA CORRAL__ (29/9/18) [Escuchá el Programa N° 40 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_40)  
-__EL RÍO SUENA CON EL ENCUENTRO NACIONAL DE MUJERES__ (6/10/18) [Escuchá el Programa N° 41 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_41)
+__EL RÍO SUENA CON EL ENCUENTRO NACIONAL DE MUJERES__ (6/10/18) [Escuchá el Programa N° 41 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_41)  
+__EL RÍO SUENA CON DIVERSIDAD CULTURAL__ (13/10/18) [Escuchá el Programa N° 42 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_42)  
+__EL RÍO SUENA CON EL EMPODERAMIENTO DE LAS MUJERES__ (20/10/18) [Escuchá el Programa N° 43 aquí](https://archive.org/details/ojodebarro_cuandoelriosuena_43)  
