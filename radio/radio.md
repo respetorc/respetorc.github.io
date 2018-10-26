@@ -40,6 +40,7 @@ Locución: __Nahuel Castro__ y __Ema Sabarini__
 [Programa N°12 parte 2](https://archive.org/details/ojodebarro_magnetic_12_2) Dj Invitado: José Larrosa  
 [Programa N°13](https://archive.org/details/ojodebarro_magnetic_14) Dj Invitada: Belu Amarfil  
 [Programa N°14](https://archive.org/details/ojodebarro_magnetic_13) Dj Invitado: Nico Gonzales  
+[Programa N°15](https://archive.org/details/ojodebarro_magnetic_15) Locutor invitado: Nico Rivera  
 
 #### Amigos en la radio, Jazz Argentino
 
