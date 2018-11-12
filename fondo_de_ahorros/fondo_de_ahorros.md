@@ -17,35 +17,68 @@ Queremos agradecer a todxs los ciudadanxs que nos acompañan en este intento de 
 __Partido Respeto, Una Nueva Cultura Política__
 
 
-### Transparencia desde Agosto de 2016 a Junio 2018
+### Transparencia desde Agosto de 2016 a Octubre de 2018
 
 
-![grafico]({{site.baseurl}}/img/ahorrosrespeto_hastajunio.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/ahorrosrespeto_hastaoctubre.jpg){:class="img_full"}
 
-##### Total Ahorrado: 2.036.550 $
+##### Total Ahorrado: 2.471.403 $
 
-![grafico]({{site.baseurl}}/img/ahorroeneltiempo_hastajunio2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/ahorro_en_el_tiempo.jpg){:class="img_cover"}  
 
+---
 
-![grafico]({{site.baseurl}}/img/gastosporproyecto_hastajunio2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastosporfrente_hastaoctubre.jpg){:class="img_cover"}
 
 ---
 
 ### Transparencia Mensual
 
+#### Octubre 2018
+
+![grafico]({{site.baseurl}}/img/saldos_octubre2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_octubre2018.jpg){:class="img_cover"}
+
+---
+
+#### Septiembre 2018
+
+![grafico]({{site.baseurl}}/img/saldos_septiembre2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_septiembre2018.jpg){:class="img_cover"}
+
+---
+
+#### Agosto 2018
+
+![grafico]({{site.baseurl}}/img/saldos_agosto2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_agosto2018.jpg){:class="img_cover"}
+
+---
+
+#### Julio 2018
+
+![grafico]({{site.baseurl}}/img/saldos_julio2018.jpg){:class="img_full"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_julio2018.jpg){:class="img_cover"}
+
+---
+
 #### Junio 2018
 
-![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_Junio_2018.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/saldos_junio2018.jpg){:class="img_full"}
 
-![grafico]({{site.baseurl}}/img/gastos_por_frente_Junio_2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastos_por_frente_junio2018.jpg){:class="img_cover"}
 
 ---
 
 #### Mayo 2018
 
-![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_Mayo_2018.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/saldos_mayo2018.jpg){:class="img_full"}
 
-![grafico]({{site.baseurl}}/img/gastos_por_frente_Mayo_2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastos_por_frente_mayo2018.jpg){:class="img_cover"}
 
 ---
 
@@ -54,6 +87,8 @@ __Partido Respeto, Una Nueva Cultura Política__
 ![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_abril_2018.jpg){:class="img_full"}
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_abril_2018.jpg){:class="img_cover"}
+
+![grafico]({{site.baseurl}}/img/gastos_por_frente_abril2018.jpg){:class="img_full"}
 
 ---
 
