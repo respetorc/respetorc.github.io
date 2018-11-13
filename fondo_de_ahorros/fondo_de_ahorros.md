@@ -44,6 +44,17 @@ __Partido Respeto, Una Nueva Cultura Política__
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_octubre2018.jpg){:class="img_cover"}
 
+__Ojo de Barro__: Pago de Luz, Alquiler, internet, alargue y arreglos en electricidad, servicio de emergencia, telas para tapar pared del hall, gastos de ferreteria, burletes para el frezzer.  
+__Chata__: combustible, compra de alarma que se rompio despues de la tormenta, repuestos, opticas, manijitas, soga para tirar, arreglo de paragolpe y enganche, cambio de pastillas de freno y aceite.  
+__Acción directa__:
+ -Adelanto para emprendimiento de producción de cerveza artesanal
+ -Ayuda para pagar abogado
+ -ayuda para la presentación de un libro
+__Ambiente__: arreglo de motoguadañas, compra de pala, 2 azadas, y rastrillo.  
+__Enredar__: gastos varios  
+__La vaca__: descuentos de transferencias, cobro de cheques y mantenimiento de cuenta de internet
+__Seguros__: chata, trailer, maquina
+
 ---
 
 #### Septiembre 2018
@@ -51,6 +62,19 @@ __Partido Respeto, Una Nueva Cultura Política__
 ![grafico]({{site.baseurl}}/img/saldos_septiembre2018.jpg){:class="img_full"}
 
 ![grafico]({{site.baseurl}}/img/gastos_por_frente_septiembre2018.jpg){:class="img_cover"}
+
+__Ojo de Barro__: Pago de Luz, Alquiler, agua, internet, luces de emergencia, sillas, cosas de electricidad.    
+__CDCD__: viáticos visita del MOI.  
+__Chata__: combustible  
+__Radio__: ultima cuota de la mezcladora de sonido para la radio.  
+__Salón orillas__: gastos varios del final de construcción.  
+__Acción directa__:
+ -aporte para el Yo me Rio Cuarto
+ -ayuda a los orillas para inauguracion del saloncito
+ -compra de tarimas
+__Enredar__: gastos varios, Compra de tinta para emprendedora, semillas bolsas macetas y tarimas.  
+__Seguros__: chata, trailer, maquina, accidentes personales, ojo de barro.  
+__Varios__: compra en el super makro resmas de hojas, yerba y cosas varias, cena mujeres baladre.  
 
 ---
 
