@@ -9,9 +9,9 @@ img: vaquita.jpg
 
 
 Desde que asumimos el compromiso de formar este nuevo Partido Político hicimos un fuerte hincapié en la transparencia. Así como desde nuestro posicionamiento ético y político consideramos un derecho fundamental el acceso de todxs lxs ciudadanxs a las cuentas municipales; también nos parece importante que todxs conozcan que hacemos con el dinero público que ahorramos de los salarios.  
-Después de las elecciones, una vez obtenidos los cargos y haber fijado los topes que iba a ganar cada un@, comenzamos con el Fondo de Ahorros por el cuál hemos ahorrado hasta Junio de 2018 2.036.550 $ como se puede ver en las burbujas de 2016, 2017 y 2018.  
-Este ahorro, que hemos administrado colectivamente, ha ido variando a lo largo del tiempo como se observa en el 2do gráfico; es decir, no acumulamos el dinero público sino que lo vamos utilizando para diversos proyectos como pueden ver en el 3er gráfico de barra donde especificamos a donde ha ido a parar el dinero. Gracias a este compromiso hemos podido realizar inumerables acciones ya que desde el poder legislativo han sido aprobados sólo 9 de los 58 proyectos presentados al terminar el 2017.  
-Hacemos un gran esfuerzo para poder sostener todos los proyectos que iniciamos sin descuidar los espacios institucionales que ocupamos.  
+Después de las elecciones, una vez obtenidos los cargos y haber fijado los topes que iba a ganar cada un@, comenzamos con el Fondo de Ahorros por el cuál llevamos ahorrado hasta Octubre de 2018 2.471.403 $ como se puede ver en el primer gráfico con las burbujas de 2016, 2017 y 2018.  
+Este ahorro, que hemos administrado colectivamente, ha ido variando a lo largo del tiempo como se observa en el 2do gráfico; es decir, no acumulamos el dinero público sino que lo vamos utilizando para diversos proyectos como pueden ver en el 3er gráfico de barra donde especificamos a donde ha ido a parar el dinero. Gracias a este compromiso hemos podido realizar una enormidad de acciones que se pueden en la descripcción del detalle mensual que socializamos.  
+Hacemos un gran esfuerzo para poder sostener todos los proyectos que iniciamos sin descuidar los espacios institucionales que ocupamos. Así mismo podemos ver que con el paso del tiempo, hemos podido sostener e incluso ir aumentando el ahorro mensual como se observa en el 4to gráfico junto a los gastos mensuales con su tendencia similar.    
 Queremos agradecer a todxs los ciudadanxs que nos acompañan en este intento de fomentar una nueva cultura política transparente y siempre apostando al bien común.
 
 __Partido Respeto, Una Nueva Cultura Política__
@@ -29,6 +29,10 @@ __Partido Respeto, Una Nueva Cultura Política__
 ---
 
 ![grafico]({{site.baseurl}}/img/gastosporfrente_hastaoctubre.jpg){:class="img_cover"}
+
+---
+
+![grafico]({{site.baseurl}}/img/ingresos_y_salidas_por_mes.jpg){:class="img_cover"}
 
 ---
 
@@ -84,26 +88,25 @@ __Partido Respeto, Una Nueva Cultura Política__
 
 #### Abril 2018
 
-![grafico]({{site.baseurl}}/img/ahorro_vs_gastos_y_saldos_abril_2018.jpg){:class="img_full"}
+![grafico]({{site.baseurl}}/img/saldos_abril2018.jpg){:class="img_full"}
 
-![grafico]({{site.baseurl}}/img/gastos_por_frente_abril_2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastos_por_frente_abril2018.jpg){:class="img_cover"}
 
-![grafico]({{site.baseurl}}/img/gastos_por_frente_abril2018.jpg){:class="img_full"}
 
 ---
 
 #### Marzo 2018
 
-![grafico]({{site.baseurl}}/img/ahorro_gastos_saldos_marzo_2018){:class="img_full"}
+![grafico]({{site.baseurl}}/img/saldos_marzo2018.jpg){:class="img_full"}
 
-![grafico]({{site.baseurl}}/img/gastos_por_frente_marzo_2018.jpg){:class="img_cover"}
+![grafico]({{site.baseurl}}/img/gastos_por_frente_marzo2018.jpg){:class="img_cover"}
 
 
 __Ojo de Barro__: Pago de Luz y Alquiler, internet, chapa galvanizada para ventana, rejas, gastos de pintura, ferretería  
+__Salón orillas__: comienzo de la construcción del Multiespacio de la Agrupación "Los Orillas" en el barrio Avenida Argentina  
 __Acciones directas__:  
  -Ayuda a la unión hace el encuentro  
- -Gastos de la construcción del Multiespacio de la Agrupación "Los Orillas"  
- -Maquina de cortar el pelo para proyecto de cortes de pelo en los barrios  
+  -Maquina de cortar el pelo para proyecto de cortes de pelo en los barrios  
  -Ayuda al Foro por la libertad y la democracia para marcha del 24 de marzo  
  -Ayuda a Vivero  
  __Enredar__:  
