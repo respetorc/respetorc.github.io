@@ -7,7 +7,8 @@ img: huerta_diciembre.jpg
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
 
 Comenzamos una experiencia de huerta piloto en el patio de una casa para luego poder transmitir el conocimiento adquirido y que se pueda replicar en nuevos patios de casas, instituciones, o espacios comunitarios. Con el fondo de ahorros del partido adquirimos una serie de herramientas sencillas pero importantes a la hora de comenzar una huerta; y en conjunto con algunxs compañerxs del partido comenzamos a materializar esta idea.
-En esta sección iremos actualizando datos que vamos obteniendo en cuanto al rendimiento de las distintas hortalizas, períodos de siembra, control de plagas, etc.
+En esta sección iremos actualizando datos que vamos obteniendo en cuanto al rendimiento de las distintas hortalizas, períodos de siembra, control de plagas, etc.  
+Consultas al 3584363054 o por instagram "verde te quiero verde"
 
 
 # Agosto
@@ -39,7 +40,7 @@ __A fines de Octubre se comienzan a ver las primeras hortalizas germinadas en lo
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_1.jpeg){:class="img_full"}
 
-__También a fin de mes se transplantan plantines de tomates, pimiento y berenjenas__
+__También a fin de mes se transplantan plantines de [tomates](www.respeto.org.ar/2015/06/25/tomate/), pimiento y berenjenas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_5.jpeg){:class="img_full"}
 
