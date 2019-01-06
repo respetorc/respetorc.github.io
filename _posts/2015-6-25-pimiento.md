@@ -20,6 +20,9 @@ __Cosecha:__ A partir de los 2 meses de transplante pueden empezar a cosecharse 
 __Propiedades:__ posee vitaminas A, B6, C, E además de carotenoides y ácido fólico de forma que tiene propiedades antioxidantes.  
 __Producción por planta:__ bajo análisis.
 
+![huerta]({{site.baseurl}}/img/huerta_pimientos_1.jpg){:class="img_cover"}  
+__Variedades de pimientos que han sido domesticadas por la especie humana durante miles de años__
+
 ### Ciclo de la planta
 
 __Los plantines provienen de la "granja la libertad" y fueron transplantados el 29 de Octubre__
