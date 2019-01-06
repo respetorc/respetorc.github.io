@@ -40,7 +40,7 @@ __A fines de Octubre se comienzan a ver las primeras hortalizas germinadas en lo
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_1.jpeg){:class="img_full"}
 
-__También a fin de mes se transplantan plantines de [tomates](www.respeto.org.ar/2015/06/25/tomate/), pimiento y berenjenas__
+__También a fin de mes se transplantan plantines de [tomates](http://respeto.org.ar/2015/06/25/tomate/), pimiento y berenjenas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_5.jpeg){:class="img_full"}
 
