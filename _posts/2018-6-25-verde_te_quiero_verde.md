@@ -28,7 +28,7 @@ __Se colocó el alambrado al fondo para separar la huerta del gallinero__
 
 # Octubre
 
-__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar plantas aromáticas que nos brindan beneficios como atraer insectos benéficos y auyentar a los que son plagas__
+__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar [Plantas aromáticas](http://respeto.org.ar/2015/06/25/aromaticas/) que nos brindan beneficios como atraer insectos benéficos, auyentar a los que son plagas o que estos últimos se alimenten de estas plantas en vez de las hortalizas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre.jpeg){:class="img_full"}  
 
@@ -40,7 +40,7 @@ __A fines de Octubre se comienzan a ver las primeras hortalizas germinadas en lo
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_1.jpeg){:class="img_full"}
 
-__También a fin de mes se transplantan plantines de [tomates](http://respeto.org.ar/2015/06/25/tomate/), pimiento y berenjenas__
+__También a fin de mes se transplantan plantines de [tomates](http://respeto.org.ar/2015/06/25/tomate/), [pimientos](http://respeto.org.ar/2015/06/25/pimiento/) y [berenjenas](http://respeto.org.ar/2015/06/25/berenjena/)__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_5.jpeg){:class="img_full"}
 
@@ -50,7 +50,7 @@ __También a fin de mes se transplantan plantines de [tomates](http://respeto.or
 
 # Noviembre
 
-__se transplantaron plantines de maices, repollos colorados, zuquinis, apios__
+__se transplantaron plantines de [maices](http://respeto.org.ar/2015/06/25/maiz/), [repollo colorado](http://respeto.org.ar/2015/06/25/repollo/), [zuquinis](http://respeto.org.ar/2015/06/25/zuquini/), apios__
 
 ![huerta]({{site.baseurl}}/img/huerta_noviembre_6.jpeg){:class="img_full"}
 
