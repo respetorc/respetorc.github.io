@@ -17,6 +17,7 @@ __Origen:__ originaria de zonas tropicales y sub tropicales de Asia.
 __Momento de Siembra:__ Julio y Agosto en almácigo hasta Noviembre de forma directa.    
 __Forma de siembra:__ desde almácigo y luego transplantar cuando tenga entre 10 y 15cm o siembra directa.    
 __Cosecha:__ comienza a los 180 dias desde la siembra aunque si se transplantaron plantines en 3 meses puede empezar la cosecha que se extiende todo el verano.  
+__Propiedades:__ posee muy pocas calorias, vegetal ideal para incluir en dietas para bajar o mantener el peso, además, por su gran contenido de agua es buen diurético. Tiene propeidades antioxidantes (vitamina E y antocianina), tiene alto contenido de potasio y la fibra favorece la eliminación del colesterol.  
 __Producción por planta:__ bajo análisis.
 
 ### Ciclo de la planta
