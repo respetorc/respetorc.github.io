@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Berenjena
+title: berenjena
 img: huerta_diciembre.jpg
 ---
 
