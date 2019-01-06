@@ -28,7 +28,7 @@ __Se colocó el alambrado al fondo para separar la huerta del gallinero__
 
 # Octubre
 
-__A comienzos de octubre se terminan de armar los 4 canteros y se siembra zapallitos verdes, lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar plantas aromáticas que nos brindan beneficios como atraer insectos benéficos y auyentar a los que son plagas__
+__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar plantas aromáticas que nos brindan beneficios como atraer insectos benéficos y auyentar a los que son plagas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre.jpeg){:class="img_full"}  
 
