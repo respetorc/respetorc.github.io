@@ -22,13 +22,23 @@ __comenzamos a marcar y puntear el primer y segundo cantero donde luego vamos a 
 
 ![huerta]({{site.baseurl}}/img/huerta_septiembre_1.jpeg){:class="img_full"}  
 
-__Se colocó el alambrado al fondo para separar la huerta del gallinero__
+
+__También se colocó un alambrado al fondo para separar la huerta del gallinero__
 
 ![huerta]({{site.baseurl}}/img/huerta_septiembre_2.jpeg){:class="img_full"}  
 
+Como mencionamos anteriormente, del [Fondo de ahorros](http://respeto.org.ar/fondo_de_ahorros/) del partido hicimos hacer una serie de herramientas para trabajar la tierra que son indispensables:  
+-Pala/s: hay de varios tipos pero las que más vamos a utilizar son palas de punta, variando el largo del mango se pueden adaptar a la altura de la persona facilitando el trabajo. recomendamos siempre usar palas con mango de hierro.
+
+![huerta]({{site.baseurl}}/img/huerta_herramientas.jpeg){:class="img_full"}
+
+Por otro lado vamos a necesitar también Azadas y rastrillos. De la misma forma, el lago del mango nos puede ayudar, en caso de encargar herramientas tener en cuenta la altura final que va a tener.  
+
+![huerta]({{site.baseurl}}/img/huerta_herramientas_2.jpg){:class="img_full"}
+
 # Octubre
 
-__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar [Plantas aromáticas](http://respeto.org.ar/2015/06/25/aromaticas/) que nos brindan beneficios como atraer insectos benéficos, auyentar a los que son plagas o que estos últimos se alimenten de estas plantas en vez de las hortalizas__
+__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar [Plantas aromáticas](http://respeto.org.ar/2015/06/25/aromaticas/) que atraen insectos benéficos para la huerta (insectos que controlan las plagas), ahuyentar a los que son plagas o que estos últimos se alimenten de estas plantas en vez de las hortalizas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre.jpeg){:class="img_full"}  
 
