@@ -9,7 +9,7 @@ Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberan
 Comenzamos una experiencia de huerta piloto en el patio de una casa para luego poder transmitir el conocimiento adquirido y que se pueda replicar en nuevos patios de casas, instituciones, o espacios comunitarios. Con el fondo de ahorros del partido adquirimos una serie de herramientas sencillas pero importantes a la hora de comenzar una huerta; y en conjunto con algunxs compañerxs comenzamos a materializar esta idea.
 
 A continuación describimos el proceso de la primer huerta que iniciamos. Cada palabra que vean en [Azul](http://respeto.org.ar/2018/06/25/verde_te_quiero_verde/) permite ampliar la información.  
-También podés consultar nuestra [Biblioteca Huertera](http://respeto.org.ar/2015/06/25/bliblioteca_huertera/) sino por whatsapp al 3584363054 o por instagram "verde te quiero verde".  
+También podés consultar nuestra [Biblioteca Huertera](http://respeto.org.ar/2015/06/25/biblioteca_huertera/) sino por whatsapp al 3584363054 o por instagram "verde te quiero verde".  
 
 
 # Agosto
