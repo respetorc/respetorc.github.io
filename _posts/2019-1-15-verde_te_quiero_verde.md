@@ -55,6 +55,8 @@ __A fines de Octubre se comienzan a ver las primeras hortalizas germinadas en lo
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre_29_1.jpeg){:class="img_full"}
 
+### ¿Cómo podemos asociar las verduras que sembramos?
+
 ![huerta]({{site.baseurl}}/img/huerta_asociaciones.png){:class="img_full"}  
 (tomado del manual de huerta agroecológica del INTA)
 
@@ -98,3 +100,5 @@ __Durante este mes se da un crecimiento generalizado de todas las plantas en gen
 
 ![huerta]({{site.baseurl}}/img/huerta_cosecha.png){:class="img_full"}  
 (tomado del manual de huerta agroecológica del INTA)
+
+## Conocé más huertas con las que hemos colaborado haciendo click [Aquí](http://respeto.org.ar/2015/06/25/huertas/)
