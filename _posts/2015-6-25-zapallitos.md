@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zapallito verde
-img: huerta_diciembre.jpg
+img: huerta_zapallito_verde.jpeg
 ---
 
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
@@ -17,7 +17,7 @@ __Origen:__ originaria de zonas templadas del sur de América
 __Momento de Siembra:__ siendo sensible a las heladas, desde agosto y hasta Diciembre se puede sembrar.  
 __Forma de siembra:__ en este caso hicimos siembra directa pero puede hacerse desde almácigo y luego transplantar  
 __Cosecha:__ comienza entre 10 y 15 días luego de que sean polinizadas las flores femeninas y se extiende durante todo el verano.  
-__Producción por planta:__ muy productiva, 1 sola planta puede abastecer el consumo promedio de una familia de 4 personas.  
+__Producción por planta:__ muy productiva, 1 sola planta puede abastecer el consumo promedio de una familia de 4 personas. En este caso, con 5 plantas llevamos cosechados alrededor de 142 Kg (hasta el 24/1/19).   
 
 ### Ciclo de la planta
 

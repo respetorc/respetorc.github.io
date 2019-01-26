@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verde te quiero verde
-img: huerta_diciembre.jpg
+img: huerta_enero.jpeg
 ---
 
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
@@ -43,7 +43,7 @@ Por otro lado vamos a necesitar también Azadas y rastrillos. De la misma forma,
 
 # Octubre
 
-__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, anco o calabacin, además de transplantar [Plantas aromáticas](http://respeto.org.ar/2015/06/25/aromaticas/) que atraen insectos benéficos para la huerta (insectos que controlan las plagas), ahuyentar a los que son plagas o que estos últimos se alimenten de estas plantas en vez de las hortalizas__
+__A comienzos de octubre se terminan de armar los 4 canteros y se siembra [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), lechuga, rucula, achicoria, remolacha, acelga, [Anco](http://respeto.org.ar/2015/06/25/anco/), además de transplantar [Plantas aromáticas](http://respeto.org.ar/2015/06/25/aromaticas/) que atraen insectos benéficos para la huerta (insectos que controlan las plagas), ahuyentar a los que son plagas o que estos últimos se alimenten de estas plantas en vez de las hortalizas__
 
 ![huerta]({{site.baseurl}}/img/huerta_octubre.jpeg){:class="img_full"}  
 
@@ -70,7 +70,7 @@ __También a fin de mes se transplantan plantines de [tomates](http://respeto.or
 
 # Noviembre
 
-__se transplantaron plantines de [maices](http://respeto.org.ar/2015/06/25/maiz/), [repollo colorado](http://respeto.org.ar/2015/06/25/repollo/), [zuquinis](http://respeto.org.ar/2015/06/25/zuquini/), apios__
+__se transplantaron plantines de [maices](http://respeto.org.ar/2015/06/25/maiz/), [repollo morado](http://respeto.org.ar/2015/06/25/repollo/), [zucchinis](http://respeto.org.ar/2015/06/25/zucchini/), apios y una planta de pepino__
 
 ![huerta]({{site.baseurl}}/img/huerta_noviembre_6.jpeg){:class="img_full"}
 
@@ -95,6 +95,14 @@ __Durante este mes se da un crecimiento generalizado de todas las plantas en gen
 ![huerta]({{site.baseurl}}/img/huerta_diciembre_3.jpg){:class="img_full"}
 
 ![huerta]({{site.baseurl}}/img/huerta_diciembre_4.jpg){:class="img_full"}
+
+__En enero de 2019, continúa el crecimiento de todas las variedades de hortalizas y también empiezan a aumentar las cosechas de [Zapallitos verdes](http://respeto.org.ar/2015/06/25/zapallitos/), [tomates](http://respeto.org.ar/2015/06/25/tomate/), [zucchinis](http://respeto.org.ar/2015/06/25/zuquini/), [berenjenas](http://respeto.org.ar/2015/06/25/berejena/) y algunos [choclos](http://respeto.org.ar/2015/06/25/maiz/). Además se transplantaron frambuesas.__
+
+![huerta]({{site.baseurl}}/img/huerta_enero.jpeg){:class="img_cover"}
+
+![huerta]({{site.baseurl}}/img/huerta_enero_2.jpeg){:class="img_cover"}
+
+![huerta]({{site.baseurl}}/img/huerta_enero_3.jpeg){:class="img_cover"}
 
 ### ¿Cómo cosechar?
 

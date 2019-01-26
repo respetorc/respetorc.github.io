@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pimiento
-img: huerta_diciembre.jpg
+img: huerta_pimiento_11.jpg
 ---
 
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
@@ -60,4 +60,6 @@ __Para enero ya se observan varios frutos por planta que van madurando__
 
 ![huerta]({{site.baseurl}}/img/huerta_pimiento_9.jpg){:class="img_full"}
 
-![huerta]({{site.baseurl}}/img/huerta_pimiento_10.jpg){:class="img_full"}
+![huerta]({{site.baseurl}}/img/huerta_pimiento_10.jpg){:class="img_full"}  
+
+![huerta]({{site.baseurl}}/img/huerta_pimiento_11.jpg){:class="img_full"}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: berenjena
-img: huerta_diciembre.jpg
+img: huerta_berenjena.jpeg
 ---
 
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
@@ -17,7 +17,7 @@ __Origen:__ originaria de zonas tropicales y sub tropicales de Asia.
 __Momento de Siembra:__ Julio y Agosto en almácigo hasta Noviembre de forma directa.    
 __Forma de siembra:__ desde almácigo y luego transplantar cuando tenga entre 10 y 15cm o siembra directa.    
 __Cosecha:__ comienza a los 180 dias desde la siembra aunque si se transplantaron plantines en 3 meses puede empezar la cosecha que se extiende todo el verano.  
-__Propiedades:__ posee muy pocas calorias, vegetal ideal para incluir en dietas para bajar o mantener el peso, además, por su gran contenido de agua es buen diurético. Tiene propeidades antioxidantes (vitamina E y antocianina), tiene alto contenido de potasio y la fibra favorece la eliminación del colesterol.  
+__Propiedades:__ posee muy pocas calorias, vegetal ideal para incluir en dietas para bajar o mantener el peso, además, por su gran contenido de agua es buen diurético. Tiene propiedades antioxidantes (vitamina E y antocianina), tiene alto contenido de potasio y la fibra favorece la eliminación del colesterol.  
 __Producción por planta:__ bajo análisis.
 
 ### Ciclo de la planta
@@ -40,3 +40,9 @@ __En enero continúa el crecimiento de las plantas y frutos__
 ![huerta]({{site.baseurl}}/img/huerta_berenjena_4.jpg){:class="img_full"}
 
 ![huerta]({{site.baseurl}}/img/huerta_berenjena_5.jpg){:class="img_full"}
+
+__fines de Enero 2019__
+
+![huerta]({{site.baseurl}}/img/huerta_berenjena_6.jpg){:class="img_full"}
+
+![huerta]({{site.baseurl}}/img/huerta_berenjena_7.jpg){:class="img_full"}

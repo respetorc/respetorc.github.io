@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plantas Aromáticas
-img: huerta_diciembre.jpg
+img: huerta_perejil.jpeg
 ---
 
 Desde fines del 2018, comenzamos a gestar un proyecto relacionado con la soberanía alimentaria, a través de la revalorización de las huertas urbanas como forma de producirnos nuestros propios alimentos sanos.
@@ -48,3 +48,14 @@ __ruda y menta crecidas__
 
 ![huerta]({{site.baseurl}}/img/huerta_aromaticas_5.jpg){:class="img_full"}  
 __romero y perejil__
+
+#### Enero 2019
+
+![huerta]({{site.baseurl}}/img/huerta_aromaticas_8.jpg){:class="img_full"}
+__Orégano, menta, menta arábica, poleo, albahaca__
+
+![huerta]({{site.baseurl}}/img/huerta_aromaticas_9.jpg){:class="img_full"}
+__Orégano, menta, menta arábica, poleo, albahaca__
+
+![huerta]({{site.baseurl}}/img/huerta_aromaticas_10.jpg){:class="img_full"}
+__Perejil__
