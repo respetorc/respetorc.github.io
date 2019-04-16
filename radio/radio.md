@@ -43,6 +43,8 @@ __Programas grabados__
 [Programa N°22 (21/2/19)](https://archive.org/details/ojodebarro_magnetic_21_2_19_nahuel_castro) Dj Nahuel Castro  
 [Programa N°23 (28/2/19)](https://archive.org/details/ojodebarro_magnetic_28_2_19_nicolas_gonzalez) Dj Invitado: Nicolás Gonzalez  
 [Programa N°24 (28/3/19)](https://archive.org/details/ojodebarro_magnetic_28_3_19_rca_gonzalez) Dj Invitado: Rca Gonzalez  
+[Programa N°25 (4/4/19)](https://archive.org/details/ojodebarro_magnetic_4_4_19_nahuel_castro) Dj: Nahuel Castro  
+
 
 
 
