@@ -44,6 +44,12 @@ __Programas grabados__
 [Programa N°23 (28/2/19)](https://archive.org/details/ojodebarro_magnetic_28_2_19_nicolas_gonzalez) Dj Invitado: Nicolás Gonzalez  
 [Programa N°24 (28/3/19)](https://archive.org/details/ojodebarro_magnetic_28_3_19_rca_gonzalez) Dj Invitado: Rca Gonzalez  
 [Programa N°25 (4/4/19)](https://archive.org/details/ojodebarro_magnetic_4_4_19_nahuel_castro) Dj: Nahuel Castro  
+[Programa N°26 (11/4/19)](https://archive.org/details/ojodebarro_magnetic_11_4_19_matiturello) Dj: Mati Turello  
+[Programa N°27 (25/4/19)](https://archive.org/details/ojodebarro_magnetic_25_4_19_nico_supertino) Dj: Nico Supertino  
+[Programa N°28 (23/5/19)](https://archive.org/details/ojodebarro_magnetic_23_5_19_leo_mazza) Dj: Leo Mazza  
+[Programa N°29 (6/6/19)](https://archive.org/details/ojodebarro_magnetic_6_6_19_nahuel_castro) Dj Nahuel Castro  
+[Programa N°30 (13/6/19)](https://archive.org/details/ojodebarro_magnetic_13_6_19_gaston_fernandez) Dj invitado: Gastón Fernandez  
+[Programa N°31 (27/6/19)](https://archive.org/details/ojodebarro_magnetic_27_6_19_nico_gonzales) Dj invitado: Nicolás Gonzales  
 
 
 
