@@ -39,13 +39,13 @@ img: portal.png
 | __Oct- 18__                              | [82.467$ / 56.589$ ]({{site.baseurl}}/archivos/18-10-1.pdf) / 26.000$ |                  |                  |
 | __Nov- 18__                              | [84.574$ / 57.498$ ]({{site.baseurl}}/archivos/18-11-1.pdf) / 29.400$ |                  |                  |
 | __Dic- 18__                              | [87.384$ / 57.229$ ]({{site.baseurl}}/archivos/18-12-1.pdf) / 30.500$ |                  |                  |
-| __Ene- 19__                              | [87.384$ / 62.436$ ]({{site.baseurl}}/archivos/18-1-1.pdf) / 30.500$  |                  |                  |
-| __Feb- 19__                              | [87.384$ / 62.455$ ]({{site.baseurl}}/archivos/18-2-1.pdf) / 30.500$ |                  |                  |
-| __Mar- 19__                              | [87.384$ / 62.170$ ]({{site.baseurl}}/archivos/18-3-1.pdf) / 30.500$ |                  |                  |
-| __Abr- 19__                              | [96.860$ / 69.937$ ]({{site.baseurl}}/archivos/18-4-1.pdf) / 34.150$ |                  |                  |
-| __May- 19__                              | [96.860$ / 66.369$ ]({{site.baseurl}}/archivos/18-5-1.pdf) / 34.150$  |                  |                  |
-| __Jun- 19__                              | [96.860$ / 67.278$ ]({{site.baseurl}}/archivos/18-6-1.pdf) / 34.150$  |                  |                  |
-| __Jul- 19__                              | [104.757$ / 72.888$ ]({{site.baseurl}}/archivos/18-7-1.pdf) / 37.500$    |                  |                  |
-| __Ago- 19__                              | [104.757$ / 86.914$ ]({{site.baseurl}}/archivos/18-8-1.pdf) / 37.500$   |                  |                  |
+| __Ene- 19__                              | [87.384$ / 62.436$ ]({{site.baseurl}}/archivos/19-1-1.pdf) / 30.500$  |                  |                  |
+| __Feb- 19__                              | [87.384$ / 62.455$ ]({{site.baseurl}}/archivos/19-2-1.pdf) / 30.500$ |                  |                  |
+| __Mar- 19__                              | [87.384$ / 62.170$ ]({{site.baseurl}}/archivos/19-3-1.pdf) / 30.500$ |                  |                  |
+| __Abr- 19__                              | [96.860$ / 69.937$ ]({{site.baseurl}}/archivos/19-4-1.pdf) / 34.150$ |                  |                  |
+| __May- 19__                              | [96.860$ / 66.369$ ]({{site.baseurl}}/archivos/19-5-1.pdf) / 34.150$  |                  |                  |
+| __Jun- 19__                              | [96.860$ / 67.278$ ]({{site.baseurl}}/archivos/19-6-1.pdf) / 34.150$  |                  |                  |
+| __Jul- 19__                              | [104.757$ / 72.888$ ]({{site.baseurl}}/archivos/19-7-1.pdf) / 37.500$    |                  |                  |
+| __Ago- 19__                              | [104.757$ / 86.914$ ]({{site.baseurl}}/archivos/19-8-1.pdf) / 37.500$   |                  |                  |
 | __Sep- 19__                              |    |                  |                  |
 | __Oct- 19__                              |    |                  |                  |
