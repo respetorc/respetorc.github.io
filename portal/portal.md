@@ -26,26 +26,26 @@ img: portal.png
 | __Sep- 17__                              |[70.605$ / 46.237$ ]({{site.baseurl}}/archivos/17-9-1.pdf) / 15.400$ | 70.605$ / 36.014$  / 20.950$ |70.605$  / 35.942$ / 23.400$  |
 | __Oct- 17__                              |[70.605$ / 46.750$ ]({{site.baseurl}}/archivos/17-10-1.pdf) / 15.400$ | 70.605$ / 36.580$  / 20.950$ |70.605$  / 36.570$ / 23.400$ |
 | __Nov- 17__                              |[70.605$ / 46.750 ]({{site.baseurl}}/archivos/17-11-1.pdf) / 15.400$  |70.605$ / 36.100$  / 20.950$ |70.605$  / 36.600$ / 23.400$|      
-| __Dic- 17__                            |[70.605$ / 9.189$]({{site.baseurl}}/archivos/17-12-1.pdf) / 25.000$   |70.605$ / 8.580$  / 25.000$   |70.605$ / 34.865$  / 25.000$ |
-| __Ene- 18__                              |  [70.605$ / 55.697$]({{site.baseurl}}/archivos/18-1-1.pdf) / 25.000$  |70.605$ / 54.709$ / 25.000$  |70.605$ / 49.969$  / 25.000$ |
-| __Feb- 18__                              | [70.605$ / 54.602$]({{site.baseurl}}/archivos/18-2-1.pdf) / 25.000$|                  |                  |
-| __Mar- 18__                              | [75.808$ / 55.398$]({{site.baseurl}}/archivos/18-3-1.pdf) / 25.000$ |                  |                  |
-| __Abr- 18__                              | [75.808$ / 52.864$]({{site.baseurl}}/archivos/18-4-1.pdf) / 26.000$ |                  |                  |
-| __May- 18__                              |[75.808$ / 52.864$]({{site.baseurl}}/archivos/18-5-1.pdf) / 26.000$ |                  |                  |
-| __Jun- 18__                              |[75.808$ / 47.944$ ]({{site.baseurl}}/archivos/18-6-1.pdf) / 26.000$ |                  |                  |
-| __Jul- 18__                              | [75.808$ / 52.586$ ]({{site.baseurl}}/archivos/18-7-1.pdf) / 26.000$ |                  |                  |
-| __Ago- 18__                              | [75.808$ / 58.527$ ]({{site.baseurl}}/archivos/18-8-1.pdf) / 26.000$ |                  |                  |
-| __Sep- 18__                              | [80.360$ / 49.779$ ]({{site.baseurl}}/archivos/18-9-1.pdf) / 26.000$ |                  |                  |
-| __Oct- 18__                              | [82.467$ / 56.589$ ]({{site.baseurl}}/archivos/18-10-1.pdf) / 26.000$ |                  |                  |
-| __Nov- 18__                              | [84.574$ / 57.498$ ]({{site.baseurl}}/archivos/18-11-1.pdf) / 29.400$ |                  |                  |
-| __Dic- 18__                              | [87.384$ / 57.229$ ]({{site.baseurl}}/archivos/18-12-1.pdf) / 30.500$ |                  |                  |
-| __Ene- 19__                              | [87.384$ / 62.436$ ]({{site.baseurl}}/archivos/19-1-1.pdf) / 30.500$  |                  |                  |
-| __Feb- 19__                              | [87.384$ / 62.455$ ]({{site.baseurl}}/archivos/19-2-1.pdf) / 30.500$ |                  |                  |
-| __Mar- 19__                              | [87.384$ / 62.170$ ]({{site.baseurl}}/archivos/19-3-1.pdf) / 30.500$ |                  |                  |
-| __Abr- 19__                              | [96.860$ / 69.937$ ]({{site.baseurl}}/archivos/19-4-1.pdf) / 34.150$ |                  |                  |
-| __May- 19__                              | [96.860$ / 66.369$ ]({{site.baseurl}}/archivos/19-5-1.pdf) / 34.150$  |                  |                  |
-| __Jun- 19__                              | [96.860$ / 67.278$ ]({{site.baseurl}}/archivos/19-6-1.pdf) / 34.150$  |                  |                  |
-| __Jul- 19__                              | [104.757$ / 72.888$ ]({{site.baseurl}}/archivos/19-7-1.pdf) / 37.500$    |                  |                  |
-| __Ago- 19__                              | [104.757$ / 86.914$ ]({{site.baseurl}}/archivos/19-8-1.pdf) / 37.500$   |                  |                  |
-| __Sep- 19__                              |    |                  |                  |
+| __Dic- 17__                            |[70.605$ / 9.189$]({{site.baseurl}}/archivos/17-12-1.pdf) / 25.000$   |[70.605$ / 8.580$]({{site.baseurl}}/archivos/17-12-2.pdf) / 25.000$ |70.605$ / 34.865$  / 25.000$ |
+| __Ene- 18__                              |  [70.605$ / 55.697$]({{site.baseurl}}/archivos/18-1-1.pdf) / 25.000$  |[70.605$ / 54.709$]({{site.baseurl}}/archivos/18-1-2.pdf) / 25.000$  |70.605$ / 49.969$  / 25.000$ |
+| __Feb- 18__                              | [70.605$ / 54.602$]({{site.baseurl}}/archivos/18-2-1.pdf) / 25.000$|[70.605$ / 54.083$]({{site.baseurl}}/archivos/18-2-2.pdf) / 25.000$|                  |
+| __Mar- 18__                              | [75.808$ / 55.398$]({{site.baseurl}}/archivos/18-3-1.pdf) / 25.000$ | [75.808$ / 54.670$]({{site.baseurl}}/archivos/18-3-2.pdf) / 25.000$ |                  |
+| __Abr- 18__                              | [75.808$ / 52.864$]({{site.baseurl}}/archivos/18-4-1.pdf) / 26.000$ |[75.808$ / 52.742$]({{site.baseurl}}/archivos/18-4-2.pdf) / 27.000$ |                  |
+| __May- 18__                              | [75.808$ / 52.864$]({{site.baseurl}}/archivos/18-5-1.pdf) / 26.000$ | [75.808$ / 51.687$]({{site.baseurl}}/archivos/18-5-2.pdf) / 27.000$ |                  |
+| __Jun- 18__                              | [75.808$ / 47.944$ ]({{site.baseurl}}/archivos/18-6-1.pdf) / 26.000$ | [75.808$ / 46.661$ ]({{site.baseurl}}/archivos/18-6-2.pdf) / 27.000$ |                  |
+| __Jul- 18__                              | [75.808$ / 52.586$ ]({{site.baseurl}}/archivos/18-7-1.pdf) / 26.000$ | [75.808$ / 51.104$ ]({{site.baseurl}}/archivos/18-7-2.pdf) / 27.000$ |                  |
+| __Ago- 18__                              | [75.808$ / 58.527$ ]({{site.baseurl}}/archivos/18-8-1.pdf) / 26.000$ |[75.808$ / 49.927$ ]({{site.baseurl}}/archivos/18-8-2.pdf) / 27.000$|                  |
+| __Sep- 18__                              | [80.360$ / 49.779$ ]({{site.baseurl}}/archivos/18-9-1.pdf) / 26.000$ |[80.360$ / 55.132$ ]({{site.baseurl}}/archivos/18-9-2.pdf) / 27.000$|                  |
+| __Oct- 18__                              | [82.467$ / 56.589$ ]({{site.baseurl}}/archivos/18-10-1.pdf) / 26.000$ | [82.467$ / 53.137$ ]({{site.baseurl}}/archivos/18-10-2.pdf) / 27.000$ |                  |
+| __Nov- 18__                              | [84.574$ / 57.498$ ]({{site.baseurl}}/archivos/18-11-1.pdf) / 29.400$ |[84.574$ / 53.600$ ]({{site.baseurl}}/archivos/18-11-2.pdf) / 30.500$|                  |
+| __Dic- 18__                              | [87.384$ / 57.229$ ]({{site.baseurl}}/archivos/18-12-1.pdf) / 30.500$ |[87.384$ / 54.672$ ]({{site.baseurl}}/archivos/18-12-2.pdf) / 30.500$|                  |
+| __Ene- 19__                              | [87.384$ / 62.436$ ]({{site.baseurl}}/archivos/19-1-1.pdf) / 30.500$  |[87.384$ / 59.791$ ]({{site.baseurl}}/archivos/19-1-2.pdf) / 30.500$|                  |
+| __Feb- 19__                              | [87.384$ / 62.455$ ]({{site.baseurl}}/archivos/19-2-1.pdf) / 30.500$ |[87.384$ / 61.429$ ]({{site.baseurl}}/archivos/19-2-2.pdf) / 30.500$|                  |
+| __Mar- 19__                              | [87.384$ / 62.170$ ]({{site.baseurl}}/archivos/19-3-1.pdf) / 30.500$ | [87.384$ / 61.000$ ]({{site.baseurl}}/archivos/19-3-2.pdf) / 30.500$ |                  |
+| __Abr- 19__                              | [96.860$ / 69.937$ ]({{site.baseurl}}/archivos/19-4-1.pdf) / 34.150$ |[96.860$ / 68.684$ ]({{site.baseurl}}/archivos/19-4-2.pdf) / 34.150$|                  |
+| __May- 19__                              | [96.860$ / 66.369$ ]({{site.baseurl}}/archivos/19-5-1.pdf) / 34.150$  | [96.860$ / 64.000$ ]({{site.baseurl}}/archivos/19-5-2.pdf) / 34.150$ |                  |
+| __Jun- 19__                              | [96.860$ / 67.278$ ]({{site.baseurl}}/archivos/19-6-1.pdf) / 34.150$  | [96.860$ / 65.879$ ]({{site.baseurl}}/archivos/19-6-2.pdf) / 34.150$ |                  |
+| __Jul- 19__                              | [104.757$ / 72.888$ ]({{site.baseurl}}/archivos/19-7-1.pdf) / 37.500$ |[104.757$ / 71.265$ ]({{site.baseurl}}/archivos/19-7-2.pdf) / 37.500$ |                  |
+| __Ago- 19__                              | [104.757$ / 86.914$ ]({{site.baseurl}}/archivos/19-8-1.pdf) / 37.500$ |[104.757$ / 83.839$ ]({{site.baseurl}}/archivos/19-8-2.pdf) / 37.500$ |                  |
+| __Sep- 19__                              | [108.775$ / 80.128$ ]({{site.baseurl}}/archivos/19-9-1.pdf) / 39.375$| [108.775$ / 80.128$ ]({{site.baseurl}}/archivos/19-9-2.pdf) / 39.375$ |                  |
 | __Oct- 19__                              |    |                  |                  |

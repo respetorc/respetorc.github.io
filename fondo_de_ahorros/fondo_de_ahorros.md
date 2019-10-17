@@ -14,6 +14,8 @@ Este ahorro, que hemos administrado colectivamente, ha ido variando a lo largo d
 Hacemos un gran esfuerzo para poder sostener todos los proyectos que iniciamos sin descuidar los espacios institucionales que ocupamos. Así mismo podemos ver que con el paso del tiempo, hemos podido sostener e incluso ir aumentando el ahorro mensual como se observa en el 4to gráfico junto a los gastos mensuales con su tendencia similar.    
 Queremos agradecer a todxs los ciudadanxs que nos acompañan en este intento de fomentar una nueva cultura política transparente y siempre apostando al bien común.
 
+
+
 __Partido Respeto, Una Nueva Cultura Política__
 
 
