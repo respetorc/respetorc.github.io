@@ -18,7 +18,7 @@ Somos un conjunto de individuos y organizaciones, un colectivo de personas que t
 __ASÍ SOMOS, DE ALLÍ VENIMOS Y HACIA ALLÁ CAMINAMOS__: Hacia la construcción de una democracia participativa, basada en la participación directa e igualitaria en asambleas horizontales, sin distinciones, sin preferencias, sin banderas políticas tradicionales, sin privilegios. Esos son nuestros principios y se los queremos imprimir a este nuevo órgano legislativo.
 
 
-### Una oportunidad histórica
+# Una oportunidad histórica
 
 
 Desde 1983 que una tercera fuerza no llega a ingresar al concejo deliberante de la ciudad de Río Cuarto con dos concejales. Venimos a desparramar la semilla del amor al prójimo, a los animales, al medio ambiente. Vamos por un cambio cultural y político, donde los primeros que den el ejemplo sean los funcionarios.
