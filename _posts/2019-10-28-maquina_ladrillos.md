@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Separación en orígen como alternativa al fracaso de la gestión de la higiene urbana.
+title: Nueva Herramienta adquirida
 img: ladrillo.jpeg
 ---
 
