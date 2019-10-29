@@ -24,7 +24,7 @@ __Proporción:__ 8 partes de Tierra, 2 de arena, 1 de cal (hidratada), 1 de Ceme
 
 -Como "parte" puedo usar un balde de albañilería; la diferencia estará en la necesidad de agua que debo agregar porque depende mucho de la temperatura ambiente y humedad relativa.
 
--Si aprieto la mezcla con la mano y ésta queda mojada, hay exeso de agua, para lo cual agrego cemento o cal. si la bolita se desarma completamente, falta agua.
+-Si aprieto la mezcla con la mano y ésta queda mojada, hay exceso de agua, para lo cual agrego cemento o cal. si la bolita se desarma completamente, falta agua.
 
 -Es importante saber que la mezcla se prepara cada media hora, porque al incorporar el agua, comienza a fraguar el cemento de forma que se tiene que utilizar para fabricar los ladrillos en ese período de tiempo.
 
@@ -32,7 +32,7 @@ __Tierra:__
 
 -No debe poseer Materia Orgánica porque con el tiempo se va a "pudrir" y quedará un hueco en el ladrillo debilitandolo
 
--Si posee muchos palitos o piedritas hay que sarandear
+-Si posee muchos palitos o piedritas hay que zarandear
 
 -Debe tener 20% de arcilla como mínimo; se puede comprar arcilla y agregar si la tierra no posee mucha arcilla. Esto aporta cohesividad previa al fraguado del cemento
 
@@ -78,3 +78,8 @@ _Bolilleros_: aceitarlos de vez en cuando
 > Con 3m cúbicos de tierra salen aproximadamente 2000 ladrillos.
 
 Estos ladrillos soportan como mínimo 83 Kg/cm3 compactando a 6 Tn frente a un ladrillo cocido que debe soportar 17 Kg/cm3 por normas IRAM
+
+![huerta]({{site.baseurl}}/img/ladrillo_error.mp4){:class="img_full"}  
+
+<video width="320" height="480" controls>
+<source src="videos/ladrillo_error.mp4" type="video/mp4">
