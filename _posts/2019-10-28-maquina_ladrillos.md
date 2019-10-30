@@ -6,12 +6,21 @@ img: ladrillo.jpeg
 
 ---
 __AHORA FRAGUAMOS LADRILLOS y lo hacemos de manera comunitaria__
-Una vez más, el FONDO DE AHORRO DE SALARIOS aportó, en este caso $ 147.000, para adquirir la máquina que nos permite fabricarlos.
-CON ESTA NUEVA HERRAMIENTA QUEREMOS  producir ladrillos para la  construcción colectiva de viviendas de la Casa Escuela El Caracol y la ponemos a disposición de aquella organizaciones, instituciones o particulares que, de otra manera, no pueden acceder a los materiales de construcción.
+Una vez más, el FONDO DE AHORRO DE SALARIOS aportó, en este caso $ 147.000 para adquirir la máquina que nos permite fabricarlos.
+CON ESTA NUEVA HERRAMIENTA queremos producir ladrillos para la construcción colectiva de viviendas de la [Casa Escuela El Caracol](https://www.facebook.com/ConcejoDeliberanteCiudadano/) y la ponemos a disposición de aquella organizaciones, instituciones o particulares que, de otra manera, no pueden acceder a los materiales de construcción.
+
+![huerta]({{site.baseurl}}/img/mezcladora.png){:class="img_full"}
+
+ZARANDA-DESTERRONADORA: Mezcla- Humecta- Desterrona- Homogeneiza
+
+ ![huerta]({{site.baseurl}}/img/prensa_manual.png){:class="img_full"}
+
+ PRENSA MANUAL PARA LADRILLOS ECOLÓGICOS DE SUELO CEMENTO
+
 
 Los LADRILLOS son muy resistentes y tienen características ecológicas porque el gasto energético para producirlos es mucho menor que si se cocieran en un horno y además se hacen con tierra arcillosa no fértil. En la producción pueden participar personas de las más diversas contexturas físicas y capacidades motrices.
 
-El sábado 26 de Octubre vivimos la primera JORNADA DE CAPACITACION que no será la última. La máquina es de PRODUCCION LOCAL, la fabrica el riocuartense @JuliánZonni. Le agradecemos a él y a su familia, por la información y capacitación brindada.
+El sábado 26 de Octubre vivimos la primera JORNADA DE CAPACITACION que no será la última. La máquina es de PRODUCCION LOCAL, la fabrica el riocuartense [Julián Zonni](http://jzonni.com.ar). Le agradecemos a él y a su familia, por la información y capacitación brindada.
 
 __A MENOR ESCALA HACEMOS LO QUE NOS GUSTARÍA HACER EN MAYOR MEDIDA
 RESPETO, NUEVA CULTURA POLITICA__
@@ -24,9 +33,11 @@ RESPETO, NUEVA CULTURA POLITICA__
 
 ## Consideraciones generales
 
+[Descripción de la Maquinaria para la Fabricacion de Ladrillos]({{site.baseurl}}/archivos/Zonni.pdf)
+
 __Ventajas__:
--Son ladrillos más térmicos, más acusticos
--El cemento logra la adhesividad de cualquier material
+-Son ladrillos más térmicos, con mayor acústica
+-El cemento logra la dureza, estabilidad, resistencia, y la adhesividad de cualquier material
 -Se puede revocar por dentro y por fuera, pegar cerámicos, pintar, etc
 
 __Proporción:__ 8 partes de Tierra, 2 de arena, 1 de cal (hidratada), 1 de Cemento
@@ -39,7 +50,7 @@ __Proporción:__ 8 partes de Tierra, 2 de arena, 1 de cal (hidratada), 1 de Ceme
 
 ![huerta]({{site.baseurl}}/img/ladrillo2.jpeg){:class="img_full"}  
 
-__Tierra:__
+__¿CÓMO VERIFICAR SI SU TIERRA DISPONIBLE ES APTA PARA LA FABRICACIÓN DE LADRILLOS SUELO CEMENTO?__
 
 -No debe poseer Materia Orgánica porque con el tiempo se va a "pudrir" y quedará un hueco en el ladrillo debilitandolo
 
@@ -47,9 +58,13 @@ __Tierra:__
 
 -Debe tener 20% de arcilla como mínimo; se puede comprar arcilla y agregar si la tierra no posee mucha arcilla. Esto aporta cohesividad previa al fraguado del cemento
 
--una vez mezclada, armo una bolita de tierra y la aprieto, debe quedar como un bloque o "masacote" que no se desarme completamente al soltar y caer al suelo. Esto se conoce como "prueba de la bolita"
+__Prueba de la bolita:__
 
--cuando me enjuago la mano, esta debe quedar "jabonosa", es decir, cuando me tiro agua sobre la mano no debe limpiarse fácilmente
+1- Hacer barro, embarrarse las manos e intentar quitar el barro con un dedo. Lo esperable es que no se quite fácilmente. Luego enjuagar, comprobando que al contacto con el agua, la textura se torne jabonosa.
+
+2 - Mojar la tierra al punto en que se pueda amasar una bolita de 3 cm de diámetro entre las palmas de las manos y dejarla caer desde aproximadamente un metro de altura. Cuando la bolita cae, lo esperable es que se achate por su peso, incluso puede llegar a partirse en una o dos partes, pero lo que __NO TIENE QUE SUCEDER__, es que se desgrane como si estuviera hecha de arena. (eso indicaría falta de cohesividad)
+
+3- A partir de la bolita obtenida en la anterior prueba, amasar para formar un cilindro que llegue a medir 4mm de diámetro; si el porcentaje de arcilla en la tierra es 20% o más, se llegará a lograr esa longitud sin que se corte previamente.
 
 ![huerta]({{site.baseurl}}/img/ladrillo3.jpeg){:class="img_full"}  
 
@@ -61,7 +76,7 @@ __Tierra:__
 
 3) Levo un balde o carretilla debajo de la desterronadora y llevo la mezcla a la tolva, llenándola solo hasta la mitad
 
-4) cargo el molde
+4) Cargo el molde
 
 5) Bajo la palanca que hasta 45° debe ser liviana y luego debo aplicar fuerza (50kg aproximadamente si la mezcla es la correcta)
 -Si está siempre liviana, le falta tierra y lo más probable es que al sacar el ladrillo se desarme. Este ladrillo vuelve a la mezcladora.
