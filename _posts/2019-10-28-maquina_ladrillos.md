@@ -5,13 +5,22 @@ img: ladrillo.jpeg
 ---
 
 ---
-__Con una inversión de 147.000$__
+__AHORA FRAGUAMOS LADRILLOS y lo hacemos de manera comunitaria__
+Una vez más, el FONDO DE AHORRO DE SALARIOS aportó, en este caso $ 147.000, para adquirir la máquina que nos permite fabricarlos.
+CON ESTA NUEVA HERRAMIENTA QUEREMOS  producir ladrillos para la  construcción colectiva de viviendas de la Casa Escuela El Caracol y la ponemos a disposición de aquella organizaciones, instituciones o particulares que, de otra manera, no pueden acceder a los materiales de construcción.
+
+Los LADRILLOS son muy resistentes y tienen características ecológicas porque el gasto energético para producirlos es mucho menor que si se cocieran en un horno y además se hacen con tierra arcillosa no fértil. En la producción pueden participar personas de las más diversas contexturas físicas y capacidades motrices.
+
+El sábado 26 de Octubre vivimos la primera JORNADA DE CAPACITACION que no será la última. La máquina es de PRODUCCION LOCAL, la fabrica el riocuartense @JuliánZonni. Le agradecemos a él y a su familia, por la información y capacitación brindada.
+
+__A MENOR ESCALA HACEMOS LO QUE NOS GUSTARÍA HACER EN MAYOR MEDIDA
+RESPETO, NUEVA CULTURA POLITICA__
+
 
 ## Manual de Uso de la Maquina
 
   <iframe width="713" height="401" src="https://www.youtube.com/embed/YgKlQcHPN_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![huerta]({{site.baseurl}}/img/ladrillo2.jpeg){:class="img_full"}  
 
 ## Consideraciones generales
 
@@ -28,6 +37,8 @@ __Proporción:__ 8 partes de Tierra, 2 de arena, 1 de cal (hidratada), 1 de Ceme
 
 -Es importante saber que la mezcla se prepara cada media hora, porque al incorporar el agua, comienza a fraguar el cemento de forma que se tiene que utilizar para fabricar los ladrillos en ese período de tiempo.
 
+![huerta]({{site.baseurl}}/img/ladrillo2.jpeg){:class="img_full"}  
+
 __Tierra:__
 
 -No debe poseer Materia Orgánica porque con el tiempo se va a "pudrir" y quedará un hueco en el ladrillo debilitandolo
@@ -39,6 +50,8 @@ __Tierra:__
 -una vez mezclada, armo una bolita de tierra y la aprieto, debe quedar como un bloque o "masacote" que no se desarme completamente al soltar y caer al suelo. Esto se conoce como "prueba de la bolita"
 
 -cuando me enjuago la mano, esta debe quedar "jabonosa", es decir, cuando me tiro agua sobre la mano no debe limpiarse fácilmente
+
+![huerta]({{site.baseurl}}/img/ladrillo3.jpeg){:class="img_full"}  
 
 ## Uso de la Máquina
 
@@ -63,6 +76,8 @@ __Tierra:__
 
 > En una jornada de trabajo de 8 hs, con 3 personas trabajando se puede lograr un máximo de 1000 ladrillos por día.
 
+![huerta]({{site.baseurl}}/img/ladrillo4.jpeg){:class="img_full"}  
+
 __Limpieza de la máquina__
 
 -Con soplete y luego cepillar (para ir sacando cemento viejo) cada vez que termino de usarla.
@@ -79,7 +94,8 @@ _Bolilleros_: aceitarlos de vez en cuando
 
 Estos ladrillos soportan como mínimo 83 Kg/cm3 compactando a 6 Tn frente a un ladrillo cocido que debe soportar 17 Kg/cm3 por normas IRAM
 
-![huerta]({{site.baseurl}}/img/ladrillo_error.mp4){:class="img_full"}  
+![huerta]({{site.baseurl}}/img/ladrillo5.jpeg){:class="img_full"}  
 
-<video width="320" height="480" controls>
-<source src="videos/ladrillo_error.mp4" type="video/mp4">
+![huerta]({{site.baseurl}}/img/ladrillo6.jpeg){:class="img_full"}  
+
+![huerta]({{site.baseurl}}/img/ladrillo7.jpeg){:class="img_full"}  
