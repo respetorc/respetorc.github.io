@@ -5,8 +5,6 @@ permalink: /portal
 img: portal.png
 ---
 
-
-
 | Mes-año                             | Concejal 1       | Concejal 2       | Tribun@          |
 |-------------------------------------|------------------|------------------|------------------|
 |                                     |Sueldo Bruto / Sueldo Neto / Sueldo Respeto | Sueldo Bruto / Sueldo Neto / Sueldo Respeto | Sueldo Bruto / Sueldo Neto / Sueldo Respeto |         
