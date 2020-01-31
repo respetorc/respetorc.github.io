@@ -2,7 +2,7 @@
 layout: post
 title: Otros espacios institucionales
 permalink: /espacios_institucionales/otros/
-img: oficoncejo.JPG
+img: banner.jpg
 ---
 
 #### INSTITUTO MUNICIPAL DE PLANIFICACION URBANA DE RIO CUARTO (IMPURC)

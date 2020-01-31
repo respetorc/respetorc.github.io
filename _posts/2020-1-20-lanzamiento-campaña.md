@@ -3,9 +3,16 @@ layout: post
 title: La fuerza de lo colectivo
 img: banner.jpg
 ---
-En una jornada con muchas emociones, presentamos a nuestrxs candidatxs y propuestas para las elecciones 2020 en nuestro Espacio Cultural Ojo de Barro. Cada idea que proponemos para transformar la ciudad está asentada en un proyecto que ya está en marcha construido con la fuerza de lo colectivo.
+Arrancamos una nueva campaña. Salimos con nuestras propuestas y con nuevas ideas para seguir trabajando en los territorios, con la gente y las organzaciones sociales al frente.
+Salimos a mostrar lo que  hicimos, a caminar todas las realidades de la ciudad y a volver a recorrer nuestra propia hstoria que es un camino repleto de proyectos  colectivos para mejorar las condiciones de vida de todxs.
 
-Nuestra campaña seguirá siendo el trabajo en los territorios con lxs vecinxs, con las organizaciones, sembrando, construyendo viviendas, velando por el alimento sano, por las culturas y el arte, el trabajo cooperativo, las ayudas mutuas y solidarias que van haciendo la ciudad que queremos.
-Infinitas gracias a todxs y bienvenidxs a sumarse a la campaña de RESPETO 2020!!  
+__Porque detrás de cada propuesta hay un proyecto en marcha
+
+Porque Hacemos lo que decimos
+
+Porque lo que es de la gente vuelve a la gente__
+
+Salimos a ganarle a la partidocracia y a instalar otras maneras de mirar, sentir y hacer política.  
+Salimos como siempre, con la FUERZA DE LO COLECTIVO.
 
 ![huerta]({{site.baseurl}}/img/banner.jpg){:class="img_cover"}
