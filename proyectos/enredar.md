@@ -2,77 +2,31 @@
 layout: post
 title: EnRedar
 permalink: /proyectos/enredar/
-img: enRedar.jpg
+img: dani.jpg
 ---
 
-__EnRedar__ es un proyecto que busca que las  personas que llevan a cabo un emprendimiento a una pequeña escala, personal o colectivo puedan unirse, a pesar de que sus emprendimientos son distintos.
+---
 
-Pretende llevar adelante la organización y  comercialización de una manera __justa__, sin intermediarios y aportando al desarrollo local, en una _economía solidaria y colaborativa_.  Ya que el estar juntos nos abre otras puertas, nos muestra  otros canales  de comercialización y nos permite conocer otras experiencias.
+<iframe width="713" height="401" src="https://www.youtube.com/embed/E7rgm5VHV8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-El Proyecto  pone en juego una serie de Dispositivos de Acción para ayudar a emprendedores a llevar adelante su proyecto de trabajo:
+---
 
+EnRedar, es una Red de Emprendedores y Productores locales para proveer alimentos sanos y  productos locales a la ciudad a través de la agroecología y de una economía social, solidaria y justa. Desde la Red generamos trabajo digno, organización comunitaria y aportamos a la construcción de Soberanía Alimentaria.
 
-__Red de emprendedor@s__: esta red ha permitido que l@s emprendedor@s que participan de manera activa, puedan asistir a ferias de manera conjunta, intercambiar saberes, participar de talleres.
-
-
-__Acompañamiento__: El equipo de trabajo de respeto, se compromete a acompañar a l@s emprendedor@s, realizando visitas periódicas para identificar posibles inquietudes o problemas que puedan ser resueltos en conjunto, y para continuar trabajando sobre cada proyecto con nuevas iniciativas.
-
-
-__Articulación__: el trabajo en una Red nos permite articular con otr@s emprendedor@s pero también con organizaciones, instituciones y centros de ventas por medio de los cuales se pueden conseguir recursos humanos y materiales para el enriquecimiento de cada emprendimiento.
+El proyecto trabaja sobre tres línes de acción
+-el acompañamiento integral de los productores a través de redes de capacitación y de apoyo socio- económico con el fin de potenciar las producciones de base local;
+-el fomento de la agroecología y la soberanía alimentaria creando puentes entre productores y consumidores para que los alimentos sanos lleguen a más personas y a un precio justo;
+-la creación y participación en espacios de economía social como el Trueque y las Ferias de agricultura familiar.
 
 
-__Microcréditos__: Con el [Fondo de Ahorros de RESPETO](respeto.org.ar/fondodeahorros) los integrantes del partido podemos administrar recursos de forma colectiva y así ayudar a emprendedor@s a adquirir herramientas de trabajo, insumos, etc, y hacer crecer, fortalecer o mejorar sus empredimientos. De esta forma, personas que individualmente no disponen de un capital inicial para emprender algún proyecto, o que deberían endeudarse para adquirir un crédito en el sistema bancario con la insertidumbre de no saber si su emprendimiento le va a permitir poder devolvervo a término; pueden acceder a estos recursos con plazos de devolución del préstamo que se arreglan para cada caso en particular de forma que nos sea conveniente a todxs.
-
-
-__Gestión de donaciones__: dado que __Respeto__ es conocido en la ciudad por este tipo de iniciativas, muchas personas ofrecen diversas donaciones, que a veces pueden servirle a algún emprendimiento que esté contenido en la Red. Se trabaja y articula junto al proyecto __Entreayudarnos__ en la gestión para que dicha donación llegue al emprendedor que lo necesita.
-
+__EnRedar__ busca que las  personas que llevan a cabo un emprendimiento a una pequeña escala, personal o colectivo puedan unirse, pretende llevar adelante la organización y  comercialización de una manera __justa__, reduciendo los intermediarios y aportando al desarrollo local, en una _economía solidaria y colaborativa_.  Ya que el estar juntos nos abre otras puertas, nos muestra  otros canales  de comercialización y nos permite conocer otras experiencias.
 
 ##### Contactos:
 
 _Facebook_: [EnRedar- producción local](https://www.facebook.com/redmicroemprendedores/)
 
-##### Actividades del 2018
-
-
-_Talleres saludables_:
-En busca de promover la producción y consumo de alimentos agroecológicos pretendemos:
-- Generar un espacio de reflexión acerca de los hábitos saludables de alimentación.
-- Dar a conocer el uso de productos orgánicos para la alimentación saludable.
-- Promover un espacio de intercambio de saberes respecto a la cocina saludable.
-
-
-__L@s integrantes de la red que estén involucrad@s en este tipo de producción, son tanto quienes realizan las charlas al público, como lxs que aportan ideas para enriquecer esta actividad a promover siendo gestores de la misma.__
-
-
-_Talleres de Capacitación_:
-Continuando con la articulación con la __Universidad Nacional de Río Cuarto__ (UNRC), específicamente con la __cátedra de Comunicación__; se pretende realizar una serie de talleres para potenciar los emprendimientos como:
--Manejo de redes
--Fotografía con celular de productos
--Servicio de catering.
-
 
 ### Red de Emprendedoras y emprendedores
-
-
-
-__Amable Verde__
-
-Almacén  de productos agroecológicos de pequeños y medianos productores, destinado a promover el consumo consciente y el respeto por la naturaleza.
-Los productos son libres de pesticidas, fertilizantes sintéticos, aditivos y conservantes.
-Además de alimentos podrás encontrar productos de Cosmética y medicina natural, Artículos de limpieza biodegradables, Papel reciclado, Libros, láminas de artistas, entre otros.
-
-__Contactos__:
-[Amable Verde Agroecológico](https://www.facebook.com/amableverde/)
-
-0358- 156003181 (Stefi)
-0358- 154816851 (Noelia)
-
-![enredar]({{site.baseurl}}/img/enredar_amableverde.jpg){:class="img_full"}  
-
-![enredar]({{site.baseurl}}/img/enredar_amableverde2.jpg){:class="img_full"}
-
----
-
 
 __Tentaciones Dulces Saladas__
 

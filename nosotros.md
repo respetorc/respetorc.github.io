@@ -5,28 +5,14 @@ permalink: /nosotros/
 img: colectivo.jpg
 ---
 
-Somos un conjunto de individuos y organizaciones, un colectivo de personas que trabaja desde hace años para lograr transformar nuestro espacio en la ciudad que siempre soñamos. Encontrarse para formar un nuevo partido político nace de la necesidad de querer lograr cambios a mayor escala de lo que podíamos hacer desde las organizaciones o espacios en los que venimos participando y poder convertirnos en los políticos que nunca vimos. Desde el Partido Respeto promovemos una política sin fines de lucro, es decir, no buscamos enrriquecernos individualmente con el dinero de todxs, sino utilizar los recursos del estado de la forma más eficiente posible para que la política realmente funcione como una herramienta de cambio y mejora social. Buscamos retomar la visión de lxs vecinxs, visibilizar las experiencias que han sido beneficiosas, las que no han tenido oportunidades de llegar a los espacios que actualmente ocupamos para construir entre todxs.
+Somos un grupo de vecinxs que venimos de una participación activa en organizaciones sociales vinculadas a la educación, la gestión cultural, la salud comunitaria, el trabajo social en los barrios y a la defensa de los territorios y el ambiente. Estos caminos, que nos dieron la experiencia y el sentir de la gente y sus múltiples realidades, nos unieron en la conformación de un partido político local, horizontal y asambleario para disputar las elecciones del 2016.  
+Logramos alcanzar dos bancas en el Concejo Deliberante y una en el Tribunal de Cuentas a partir de una campaña que simplemente nos encontró haciendo lo que siempre hicimos: trabajar con y por lxs otrxs.
 
----
+Dede que asumimos donamos parte de nuestros salarios como políticos y los ponemos en un [Fondo de Ahorros de salarios](http://respeto.org.ar/fondo_de_ahorros/) con el cual solventamos todos los proyectos que trasnforman la ciudad y que hoy continuán como políticas claras de acceso a derechos.  
+__Con toda la experiencia de nuestro paso por el Concejo, hoy estamos más preparados que nunca para seguir siendo la opción política para la ciudad, lejos de la partidocracia, de las promesas incumplidas y gobiernos oportunistas.__
 
-__ASÍ SOMOS, DE ALLÍ VENIMOS Y HACIA ALLÁ CAMINAMOS__: Hacia la construcción de una democracia participativa, basada en la participación directa e igualitaria en asambleas horizontales, sin distinciones, sin preferencias, sin banderas políticas tradicionales, sin privilegios. Esos son nuestros principios y se los queremos imprimir a este nuevo órgano legislativo.
-
-
-# Una oportunidad histórica
-
-Desde 1983 que una tercera fuerza no llega a ingresar al concejo deliberante de la ciudad de Río Cuarto con dos concejales. Venimos a desparramar la semilla del amor al prójimo, a los animales, al medio ambiente. Vamos por un cambio cultural y político, donde los primeros que den el ejemplo sean los funcionarios.
-
-Todos los meses donamos parte de nuestros salarios para crear un [Fondo de Ahorros](http://respeto.org.ar/proyectos/) destinado a acompañar y generar proyectos para transformar la realidad económica, sociocultural, ambiental y política de nuestra ciudad.
-Muchas vecinas y vecinos participan generosamente para concretar estos sueños.
-Parte de esas promesas fue la de las rotaciones de bancas, para no acostumbrarse a que los cargos públicos son para siempre. De esta forma, cada compañer@ que llega a ocupar el lugar de concejal o concejala, se convierte en un delegado del colectivo. Así, buscamos que cada un@ aproveche al máximo esta oportunidad y luego pueda volver al trabajo habitual que realizaba antes de tener un cargo político/público
+__ASÍ SOMOS, DE ALLÍ VENIMOS Y HACIA ALLÁ CAMINAMOS__: Hacia la construcción de una democracia participativa, basada en la participación directa e igualitaria en asambleas horizontales, sin distinciones, sin preferencias, sin banderas políticas tradicionales, sin privilegios. Esos son nuestros principios.
 
 __Creemos que todos debemos participar de la política, pero nadie debe vivir para siempre de ella. Reafirmamos el compromiso, redoblamos el desafío de construir juntos una nueva cultura política.__
 
-
-_La cultura se protege compartiéndola_  
-Que todos trabajamos con las manos es algo tan obvio como  respirar o tomar  agua o comer, son necesidades biológicas, trabajamos con las manos desde que tenemos que ayudarnos a salir del útero de nuestras madres, por lo tanto,  el hacer con las manos  es parte de la evolución de las razas humanas. Más uno puede matar o dar vida con las manos.
-Con __RESPETO__ trabajamos con las manos para que una plaza tenga árboles, sus bancos luzcan más lindos, trabajamos con la manos para explicitar el poder que tenemos para crear.  No hay necesidad de gastar tanto dinero en publicidades partidarias, no es dinero productivo, es dinero que solo capitalizan los grandes medios, es dinero que podría haberse volcado en acciones que solucionen problemas y o carencias.
- La voluntad y el dinero puesto en acciones que piensen en el otro, pueden hacernos seres sin limites, personas que buscan el bien común porque saben que el bien común es el otro y nosotros, una sola cosa. Por eso intentamos cambiar la forma, la culura, de hacer _“campaña política”_.
-Elegimos construir el mundo que queremos sin destruirlo ni destruir, construir una ciudad con mas dignidad, flexibilidad y respeto.
-
-__Los viejos dogmas, las viejas doctrinas, sabemos que no tienen las claves para desentrañar el caos del mundo actual. La violencia sea simbólica o material sabemos tampoco nunca solucionaron nada, solo han generado guerras donde alguien siempre pierde.__
+### Tenemos la fuerza de los colectivo y vamos por todo!
