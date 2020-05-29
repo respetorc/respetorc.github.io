@@ -5,6 +5,8 @@ img: higiene.jpg
 ---
 
 ---
+[Eco vecinos zona 2 y 3](https://escrever.coletivos.org/s/rJ8EqZJn8#)
+
 __El CÓDIGO DE HIGIENE URBANA de nuestra ciudad aprobado en 2017, en el capítulo II OBJETIVOS, PRINCIPIOS Y DEFINICIONES TÍTULO I OBJETIVOS, al referirse a separación en orígen, reciclado y reutilizanción, establece como PRIORIDAD los siguientes puntos:__
 
   a) Reducir la generación innecesaria de residuos.  
