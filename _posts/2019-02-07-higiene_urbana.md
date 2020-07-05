@@ -26,7 +26,7 @@ __El CÓDIGO DE HIGIENE URBANA de nuestra ciudad aprobado en 2017, en el capítu
 
 ![huerta]({{site.baseurl}}/img/cotreco.jpg){:class="img_full"}  
 
-Ninguno de estos objetivos se cumplieron luego de 2 años de contrato; sin embargo el municipio que recauda de los impuestos que todxs aportamos, le está pagando a Cotreco $3.658.693 mensuales por la construcción de una planta de tratamiento de residuos que nunca comenzó a construirse, y por la que ni si quiera se tiene el estudio de impacto ambiental requerido en estos casos, otorgado por la Secretaría de Ambiente de la provincia. [nota telediario digital](https://www.telediariodigital.net/2018/12/cotreco-en-la-mira-casi-4-millones-de-pesos-por-una-planta-de-reciclado-que-no-se-hizo/). Vale decir también que dicha planta gastaría más energía en procesar la basura de la que se puede recuperar luego del tratamiento, debido a que la basura llegaría sin haber sido previamente separada. De esta forma, sería una planta que terminaría costando cerca de $200 millones y que no nos serviría en absoluto.  
+Ninguno de estos objetivos se cumplieron luego de 2 años de contrato; sin embargo el municipio que recauda de los impuestos que todxs aportamos, le ha pagado a Cotreco $3.658.693 por la construcción de una planta de tratamiento de residuos que nunca comenzó a construirse, y por la que ni si quiera se tiene el estudio de impacto ambiental requerido en estos casos, otorgado por la Secretaría de Ambiente de la provincia. [nota telediario digital](https://www.telediariodigital.net/2018/12/cotreco-en-la-mira-casi-4-millones-de-pesos-por-una-planta-de-reciclado-que-no-se-hizo/). Vale decir también que dicha planta gastaría más energía en procesar la basura de la que se puede recuperar luego del tratamiento, debido a que la basura llegaría sin haber sido previamente separada. De esta forma, sería una planta que terminaría costando cerca de 10 millones de pesos y que no nos serviría en absoluto.  
 Además, por contrato, Cotreco debería haber comprado 4 vehículos al municipio para controlar, 2 minicargadoras o palas mecánicas, 500 contenedores distribuidos por la ciudad y camión con brazo mecánico para la recolección; cosas que no cumplió y ya se han pagado.  
 Por otro lado, el canon mensual que se le paga a Cotreco por la totalidad del servicio (barrido, recolección, tratamiento y disposición de residuos y construcción de la planta) comenzó siendo de $26.300.000 mensuales y hoy asciende a $44.832.907, debido a varias redeterminaciones que pide la empresa y que el municipio otorga.  
 
@@ -41,8 +41,6 @@ __SIN COMPOST NO HAY HUERTA Y SIN HUERTA NO TIENE SENTIDO EL COMPOST__ (en eso c
 ![huerta]({{site.baseurl}}/img/pallets.jpeg){:class="img_full"}  
 
 __REDUCIR LA CANTIDAD DE RESIDUOS MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. POR OTRO LADO, LA DECISIÓN DE REUTILIZAR Y RECICLAR APARECEN TAMBIÉN COMO ALTERNATIVAS MÁS QUE ÚTILES PARA SUMARSE A ESA BÚSQUEDA DE ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD. Y EN ESO, EL APORTE DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.__
-
-COMO DICE EL CONCEJAL DE NUESTRO PARTIDO FRANCO ALTAMIRANO: ___“No existe forma de tratar los residuos, ni habrá otra mejor y más digna que RECICLAR Y REUTILIZAR”.___
 
 POR ESO, EN RESPETO HEMOS EMPEZADO A TRABAJAR EN:  
 
