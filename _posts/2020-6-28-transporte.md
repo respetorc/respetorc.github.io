@@ -23,8 +23,7 @@ __✅ REFORMA INTEGRAL DEL TRANSPORTE PÚBLICO CON PARTICIPACIÓN Y DECISIÓN DE
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRespetoRioCuarto%2Fvideos%2F286586759263371%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-![huerta]({{site.baseurl}}/img/transporte.jpg){:class="img_full"}  
-![huerta]({{site.baseurl}}/img/transporte1.jpg){:class="img_full"}  
+![huerta]({{site.baseurl}}/img/transporte.jpg){:class="img_full"}   
 ![huerta]({{site.baseurl}}/img/transporte2.jpg){:class="img_full"}  
 ![huerta]({{site.baseurl}}/img/transporte3.jpg){:class="img_full"}  
 ![huerta]({{site.baseurl}}/img/transporte4.jpg){:class="img_full"}  
