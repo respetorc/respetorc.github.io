@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: Paseo Canino Córdoba
+title: Paseo Canino en Córdoba
 permalink: /kira/
 img: /kira/4.jpeg
 ---
