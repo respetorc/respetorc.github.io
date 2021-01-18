@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <header id="header">
+      {% if page.img %}
+      <div class="header-image"
+           style="background-image: url({{ site.baseurl }}/img/{{ page.img }})">
+      </div>
+
+      <meta property="og:image" content="{{ site.baseurl }}/img/{{ page.img }}" />
+
+      {% else %}
+      {% endif %}
+    </header>
+
+    <article class="post">
+      <div class="container">
+        <div class="row">
+
+          <div class="post-title">
+              <h2>{{ page.title }}</h2>
+
+              {% if page.date %}
+              <p class="post-metadata">
+                <i class="far fa-calendar-alt"></i>
+                {% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d" }}
+                {% case m %}
+                  {% when '1' %}Enero
+                  {% when '2' %}Febrero
+                  {% when '3' %}Marzo
+                  {% when '4' %}Abril
+                  {% when '5' %}Mayo
+                  {% when '6' %}Junio
+                  {% when '7' %}Julio
+                  {% when '8' %}Agosto
+                  {% when '9' %}Septiembre
+                  {% when '10' %}Octubre
+                  {% when '11' %}Noviembre
+                  {% when '12' %}Diciembre
+                {% endcase %}
+                {{ page.date | date: "%Y" }}
+
+                {% if page.author %}
+                <i class="fas fa-pencil-alt i-space"></i> {{ page.author }}
+                {% endif %}
+              </p>
+              {% endif %}
+          </div><!--/post-title -->
+
+          <div class="post-content">
+            {{ content }}
+              </div><!--/post-content -->
+
+        </div><!--/row -->
+      </div><!--/container -->
+    </article><!--/post -->
+
+
+    </body>
+</html>
