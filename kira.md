@@ -2,7 +2,7 @@
 layout: post
 title: Paseo Canino Córdoba
 permalink: /kira/
-img: /kira/21.jpeg
+img: /kira/4.jpeg
 ---
 
 Soy Ignacio, tutor a cargo de Kira, perra mestiza que me viene acompañando de hace 8 años cuando la rescaté de una camada de cachorros que habían abandonado en Río Cuarto.
