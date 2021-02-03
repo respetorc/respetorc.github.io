@@ -43,17 +43,14 @@ Sin embargo, por la falta de infraestructura (servicios básicos que suelen falt
 Entendiendo que una empresa o fundación no puede resolver los macro problemas que debe resolver o garantizar el estado, pero que busca colaborar con la promoción de los derechos de los niños o infancias, existen pequeñas acciones que se pueden hacer para intentar mejorar la calidad de vida de estas familias:
 
 __En relación a la educación en contexto de Covid__  
-
-1) Conseguir donaciones de computadoras funcionales y junto con personas con conocimientos de iformática, instalar sistemas operativos basados en software libre que requieren de menos recursos de la computadora que los privativos como windows.
-
+1) Conseguir donaciones de computadoras funcionales y junto con personas con conocimientos de iformática, instalar sistemas operativos basados en software libre que requieren de menos recursos de la computadora que los privativos como windows.  
 2) Asociarse con organizaciones como la "Union de Trabajadores Rurales" que vienen trabajando, entre otras cosas, en el desarrollo de redes comunitarias de acceso a Internet en el entorno rural [(ver conversatorio de septiembre de 2020)](https://youtu.be/jJPO9pyI3Ic?t=3209) para garantizar o mejorar la conectividad y acceso a internet de las computadoras obtenidas.
 
 >  Más información sobre redes comunitarias de internet o libre mesh [entrar aquí](https://redaccionrosario.com/2020/08/31/fierros-para-el-pueblo/)
 
 3) Desarrollar pequeños programas educativos como un apoyo escolar para enseñar a los niños y adultos que quieran sobre el uso y mantenimiento de las computadoras, programas administrativos, de diseño, etc, básicos
 
-__En relación a la producción de alimentos__  
-
+__En relación a la producción de alimentos__   
 Acercarse a las familias productoras y conocer el tipo de producción que están realizando, la utilización de insumos (químicos o biológicos), medidas de protección, higiene, etc para evaluar alternativas conjuntas de mejoras.  
 Si ya están realizando producción de base agroecológica, hacer de nexo para que puedan insertar esa producción en canales específicos de comercialización para estos tipos de alimentos:
 
