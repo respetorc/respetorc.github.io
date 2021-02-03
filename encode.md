@@ -2,7 +2,7 @@
 layout: kira
 title: Propuesta Encode
 permalink: /encode/
-img: encode.jpg
+img: encode.png
 ---
 
 Soy Ignacio Origlia, Biólogo recibido de la UNRC, con formación en ambiente, conservación, producción sustentable y con un perfil humanista.
