@@ -57,12 +57,12 @@ Acercarse a las familias productoras y conocer el tipo de producción que están
 Si ya están realizando producción de base agroecológica, hacer de nexo para que puedan insertar esa producción en canales específicos de comercialización para estos tipos de alimentos. Por ejemplo:  
 -[Feria Agroecologica de Córdoba](https://web.facebook.com/FeriaAgroecologicaCordoba)  
 -__Orgánicos de mi tierra__ [Web](https://www.organicosdemitierra.com/) y [Facebook](https://web.facebook.com/organicosdemitierra/)  
--__mercadito saludable eco-orgánico__ [Web](https://www.almacendeorganicos.com/) y [Facebook](https://web.facebook.com/elmercaditosaludable)
+-__Mercadito Saludable Eco-orgánico__ [Web](https://www.almacendeorganicos.com/) y [Facebook](https://web.facebook.com/elmercaditosaludable)
 
 
 __Finalmente, quiero mencionar que estoy capacitado y me gustaría poder llevar a la práctica propuestas como las mencionadas, y espero que sirvan como disparador de un diálogo constructivo con Encode__
 
-Contacto:
-__Teléfono__: 3584363054
-__Correo__: ignaoriglia@gmail.com
+Contacto:  
+__Teléfono__: 3584363054  
+__Correo__: ignaoriglia@gmail.com  
 __C.V.__: [Descarga aquí]({{site.baseurl}}/archivos/CV.pdf)
