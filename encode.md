@@ -22,14 +22,16 @@ Estos datos se podrían graficar y visualizar en la web con herramientas de visu
 
 > A modo ilustrativo se presenta un ejemplo con lo mencionado anteriormente en el siguiente [Link](https://contaminantesambientales.ar/mapa2.html). En el mapa se pueden ver 2 puntos, uno correspondiente a la plantación de 150 árboles en el parque sarmiento en 2016 y otro punto inventado.
 
-3) En caso que desde Encode no se pueda diseñar, planificar, gestionar y ejecutar plantaciones de árboles pero existe la voluntad de destinar recursos para ello, se puede contactar con viveros de árboles nativos, organizaciones sociales o ambientales que estén involucradas en la defensa del bosque para aunar esfuerzos y __concretar acciones en pos de un ambiente sano__.
+3) En caso que desde Encode no se pueda diseñar, planificar, gestionar y ejecutar plantaciones de árboles pero existe la voluntad de destinar recursos para ello, se puede contactar con la Universidad, Dirección de Espacios Verdes, viveros de árboles nativos, organizaciones sociales o ambientales que estén involucradas en la temática para aunar esfuerzos y __concretar acciones en pos de un ambiente sano__.
+
+> Por ejemplo: [Siembran el primer “bosque de bolsillo” de la ciudad: Se trata de una iniciativa que recrea el bosque nativo con vegetación propia de la zona en los espacios verdes de la ciudad](https://cordoba.gob.ar/siembran-el-primer-bosque-de-bolsillo-de-la-ciudad/)
 
 4) Otra propuesta concreta relacionada podría ser la de recuperar el papel que inevitablemente utiliza la empresa en su funcionamiento para su futuro reciclado, articulando con organizaciones o instituciones que ya estén recuperando el papel.  
 En Río Cuarto trabajamos con la recuperación del papel de distintas maneras: a través de la separación en urnas de cartón que se colocaban en distintas instituciones donde un recuperador urbano asignado iba a retirar el papel una vez llena y a través de la separación en origen a nivel domiciliario en un barrio de la ciudad. Con estos proyectos obtuvimos buenos resultados tanto desde lo ambiental como desde lo social.
 
 > Más información se puede consultar en los siguientes links: [Proyecto Ecovecinos](https://respeto.org.ar/ecovecinos/proyecto/) y [Resultados](https://respeto.org.ar/ecovecinos/resultados/)
 
-5) Finalmente, a nivel comunicacional, propongo (o se propone o se podría) trabajar contextualizando las acciones realizadas en temáticas o problemáticas locales, regionales y globales. Por ejemplo, realizamos plantaciones urbanas como algo simbólico, concreto y visible pero no habría que perder de vista que lo que hay que preservar, cuidar y recuperar son los ambientes completos como los bosques. Allí se encuentran todos los estratos: herbáceo, arbustivo y arbóreo junto con la biodiversidad animal.
+5) Finalmente, a nivel comunicacional, se podría trabajar contextualizando las acciones realizadas en temáticas o problemáticas locales, regionales y globales. Por ejemplo, realizamos plantaciones urbanas como algo simbólico, concreto y visible pero no habría que perder de vista que lo que hay que preservar, cuidar y recuperar son los ambientes completos como los bosques. Allí se encuentran todos los estratos: herbáceo, arbustivo y arbóreo junto con la biodiversidad animal. De hecho, se puede retomar el concepto de "bosque de bolsillo" de la nota mencionada anteriormente para las plantaciones en espacios verdes de la Ciudad.
 
 > En este momento, los bosques están siendo afectados por los incendios intencionales, el avance de la frontera agrícola-ganadera y el desarrollo inmobiliario. De cada acción concreta que realice la empresa se puede relacionar con los sucesos más importantes que estén sucediendo en el momento. Por ejemplo: incendios en córdoba como suceso local, desmonte en chaco como suceso regional y desforestación en el amazonas como suceso global.
 
@@ -61,5 +63,6 @@ Si ya están realizando producción de base agroecológica, hacer de nexo para q
 __Finalmente, quiero mencionar que estoy capacitado y me gustaría poder llevar a la práctica propuestas como las mencionadas, y espero que sirvan como disparador de un diálogo constructivo con Encode__
 
 Contacto:
-Teléfono: 3584363054
-Correo: ignaoriglia@gmail.com
+__Teléfono__: 3584363054
+__Correo__: ignaoriglia@gmail.com
+__C.V.__: [Descarga aquí]({{site.baseurl}}/archivos/CV.pdf)
