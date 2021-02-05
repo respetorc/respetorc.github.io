@@ -9,7 +9,10 @@ Soy Ignacio, tutor a cargo de Kira, perra mestiza que me acompaña hace 8 años 
 
 Siempre me gustaron los animales y fue una de las razones por las que estudié biología. Este año elegimos la ciudad de Córdoba para vivir y por eso me estoy ofreciendo para pasear sus perris a cargo con la mas absoluta responsabilidad
 
-_Consultas al 3584363054_
+_Consultas al 3584363054_  
+__Recomendaciones:__ tener la vacuna antirábica puesta y el certificado de colocación a mano (se pone 1 vez al año)
+
+
 
 __Les cuento más sobre Kira y algunas de sus salidas__
 
