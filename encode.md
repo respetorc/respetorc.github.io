@@ -67,18 +67,22 @@ __Finalmente, quiero mencionar que estoy capacitado y me gustaría poder llevar 
 
 #### Resúmen de Actividades propuestas para Encode
 
-✅ Planificación, diseño y ejecución de plantaciones de árboles, arbustos y plantas pequeñas o herbáceas 🌳🌿   
-✅ Recuperación del papel que utiliza la empresa para reciclado ♻  
+✅ Planificación, diseño y ejecución de plantaciones de árboles, arbustos y plantas pequeñas o herbáceas 🌳🌿
+
+✅ Recuperación del papel que utiliza la empresa para reciclado ♻
+
 ✅ Elaborar contenido para las redes sociales y web de la empresa:   
-    ▶ Contenido audiovisual 🎥🖥  
-    ▶ Texto con profundidad académica en un lenguaje que lo pueda entender cualquier persona 🗒🖊  
-    ▶ Mapas y contenido georeferenciado 🗺🌎  
-    ▶ Visualización dinámica de datos y resultados 📊📈  
+-▶ Contenido audiovisual 🎥🖥  
+-▶ Texto con profundidad académica en un lenguaje que lo pueda entender cualquier persona 🗒🖊  
+-▶ Mapas y contenido georeferenciado 🗺🌎  
+-▶ Visualización dinámica de datos y resultados 📊📈  
+
 ✅ Mejorar la conectividad en zonas periurbanas 🌐  
+
 ✅ Talleres Educativos para niños (no excluyente):  
-    ▶ Huerta en casa, maceta o balcón 🌱🥕🥦   
-    ▶ Talleres de Computación 💻  
-    ▶ Cultivos o producción agroecológica 🌻  
+-▶ Huerta en casa, maceta o balcón 🌱🥕🥦   
+-▶ Talleres de Computación 💻  
+-▶ Cultivos o producción agroecológica 🌻  
 
 Contacto:  
 __Teléfono__: 3584363054  
