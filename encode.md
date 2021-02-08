@@ -73,7 +73,7 @@ __Finalmente, quiero mencionar que estoy capacitado y me gustaría poder llevar 
 
 ✅ Elaborar contenido para las redes sociales y web de la empresa:   
 -▶ Contenido audiovisual 🎥🖥  
--▶ Texto con profundidad académica en un lenguaje que lo pueda entender cualquier persona 🗒🖊  
+-▶ Texto con profundidad académica en un lenguaje que lo pueda entender cualquier persona ⌨📄🖊  
 -▶ Mapas y contenido georeferenciado 🗺🌎  
 -▶ Visualización dinámica de datos y resultados 📊📈  
 
