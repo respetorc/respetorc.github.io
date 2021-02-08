@@ -59,8 +59,26 @@ Si ya están realizando producción de base agroecológica, hacer de nexo para q
 -__Orgánicos de mi tierra__ [Web](https://www.organicosdemitierra.com/) y [Facebook](https://web.facebook.com/organicosdemitierra/)  
 -__Mercadito Saludable Eco-orgánico__ [Web](https://www.almacendeorganicos.com/) y [Facebook](https://web.facebook.com/elmercaditosaludable)
 
+En caso que la fundación no esté trabajando con niños de familias rurales o periurbanas, se pueden trabajar conceptos e ideas similares a las mencionadas en niños de familias urbanas. Por ejemplo: huertas urbanas comunitarias, huertas de balcón, siembra y producción de árboles nativos.
+
+> En Río Cuarto trabajé en un proyecto de huertas urbanas donde fui sistematizando el proceso desde el comienzo y se puede ver en el siguiente [link](https://respeto.org.ar/2019/01/15/verde_te_quiero_verde/)
 
 __Finalmente, quiero mencionar que estoy capacitado y me gustaría poder llevar a la práctica propuestas como las mencionadas, y espero que sirvan como disparador de un diálogo constructivo con Encode__
+
+#### Resúmen de Actividades propuestas para Encode
+
+✅ Planificación, diseño y ejecución de plantaciones de árboles, arbustos y plantas pequeñas o herbáceas   
+✅ Recuperación del papel que utiliza la empresa para reciclado ♻  
+✅ Elaborar contenido para las redes sociales y web de la empresa:   
+    ▶ Contenido audiovisual  
+    ▶ Texto con profundidad académica en un lenguaje que lo pueda entender cualquier persona  
+    ▶ Mapas y contenido georeferenciado  
+    ▶ Visualización dinámica de datos y resultados  
+✅ Mejorar la conectividad en zonas periurbanas  
+✅ Talleres Educativos para niños (no excluyente):  
+    ▶ Huerta en casa, maceta o balcón  
+    ▶ Talleres de Computación  
+    ▶ Cultivos o producción agroecológica  
 
 Contacto:  
 __Teléfono__: 3584363054  
